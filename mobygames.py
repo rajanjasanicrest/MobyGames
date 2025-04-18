@@ -120,10 +120,14 @@ class MobyGamesScraper:
             values = ','.join( [ a_tag.inner_text() for a_tag in game_details_values[index].query_selector_all('a')])
             overview[key] = values
 
+        if self.page.query_selector('#gameOfficialDescription summary'):
+            self.page.click('#gameOfficialDescription summary')
+            self.page.wait_for_timeout(500)
+            
         description = self.page.query_selector('#description-text')
         if description: description = description.inner_text()
         elif self.page.query_selector('#gameOfficialDescription'):
-            description = self.page.query_selector('#gameOfficialDescription').inner_text()
+            description = self.page.locator('#gameOfficialDescription').inner_text()
 
         return {
             "title": title,
@@ -676,19 +680,20 @@ def parse_data(overview, screenshots, ratings, specs, merged_cover_releases):
     return merged_cover_releases
 
 
-# if __name__ == '__main__':
+if __name__ == '__main__':
 
-#     url = 'https://www.mobygames.com/game/6947/river-raid/'
-#     # Usage
-#     scraper = MobyGamesScraper(headless=False)  # Change to True for background execution
-#     # scraper.login('rajan.j@crestskillserve.com', 'mobygames01')
+    url = 'https://www.mobygames.com/game/193484/atari-mania/'
+    # Usage
+    scraper = MobyGamesScraper(headless=False)  # Change to True for background execution
+    # scraper.login('rajan.j@crestskillserve.com', 'mobygames01')
 
-#     overview = scraper.get_overview_details(url)
-#     screenshots = scraper.get_screenshots(f'{url}screenshots/')
-#     covers = scraper.get_covers(f'{url}covers/')
-#     ratings = scraper.get_ratings(f'{url}specs/')
-#     specs = scraper.get_specs(f'{url}specs/')
-#     releases = scraper.get_releases(f'{url}releases/')
+    overview = scraper.get_overview_details(url)
+    print(overview)
+    # screenshots = scraper.get_screenshots(f'{url}screenshots/')
+    # covers = scraper.get_covers(f'{url}covers/')
+    # ratings = scraper.get_ratings(f'{url}specs/')
+    # specs = scraper.get_specs(f'{url}specs/')
+    # releases = scraper.get_releases(f'{url}releases/')
 
 #     merged_cover_releases = merge_covers_releases_data(covers, releases)
 
