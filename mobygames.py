@@ -41,10 +41,10 @@ def upload_image_to_s3(image_url, bucket_name='salient-mobygames-scrap', folder=
         # Define S3 key (folder + filename)
         s3_key = f"{folder}{filename}"
 
-        print("Response status code:", response.status_code)
-        print("Filename:", filename)
-        print("Bucket name:", bucket_name)
-        print("S3 Key:", s3_key)
+        # print("Response status code:", response.status_code)
+        # print("Filename:", filename)
+        # print("Bucket name:", bucket_name)
+        # print("S3 Key:", s3_key)
 
         # Upload to S3
         s3_client = boto3.client("s3")
