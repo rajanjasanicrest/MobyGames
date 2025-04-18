@@ -17,9 +17,39 @@ def scrapeGamesByConsole():
         console_games = []
 
         if console_code in [
-            # "atari-2600",
-            "atari-5200",
-            "atari-7800"
+            "atari-vcs",
+            "atom",
+            "arb",
+            "bada",
+            "bally-astrocade",
+            "beos",
+            "blu-ray-disc-player",
+            "blacknut",
+            "brew",
+            "bubble",
+            "camputers-lynx",
+            "casio-loopy",
+            "casio-programmable-calculator",
+            "casio-pv-1000",
+            "cd-i",
+            "cdtv",
+            "champion-2711",
+            "channel-f",
+            "clickstart",
+            "colecoadam",
+            "colecovision",
+            "colour-genie",
+            "c128",
+            "commodore-16-plus4",
+            "pet",
+            "compal-80",
+            "compucolor-i",
+            "compucolor-ii",
+            "compucorp-programmable-calculator",
+            "fred-cosmac",
+            "cpm",
+            "creativision",
+            "cybervision"
         ]:
 
             with open(f'games_list/{console_code}.json', 'r', encoding='utf-8') as file:
