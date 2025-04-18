@@ -4,6 +4,8 @@ import requests, boto3, os
 from urllib.parse import urlparse
 from io import BytesIO
 from playwright.sync_api import sync_playwright
+from dotenv import load_dotenv
+load_dotenv()
 
 def normalize_text(text):
     """Remove special characters, convert to lowercase, and replace multiple spaces with a single space."""
@@ -14,7 +16,7 @@ def normalize_text(text):
 def unordered_match(str1, str2):
     return sorted(str1.split()) == sorted(str2.split())
 
-def upload_image_to_s3(image_url, bucket_name, folder="covers/"):
+def upload_image_to_s3(image_url, bucket_name='salient-mobygames-scrap', folder="covers/"):
     """
     Downloads an image from the given URL and uploads it to an S3 bucket.
 
