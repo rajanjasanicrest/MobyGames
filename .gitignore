@@ -10,4 +10,3 @@ venv/
 mobygames_platforms.json
 get_proxies.py
 fixed_release_logic.py
-temp.__pycache__
