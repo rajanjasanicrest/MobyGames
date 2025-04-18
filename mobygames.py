@@ -32,6 +32,8 @@ def upload_image_to_s3(image_url, bucket_name, folder="covers/"):
         parsed_url = urlparse(image_url)
         filename = os.path.basename(parsed_url.path)
 
+        print(response.content)
+
         # Ensure filename is valid
         if not filename:
             raise ValueError("Invalid image URL, no filename found")
