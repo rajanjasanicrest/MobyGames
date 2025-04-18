@@ -47,7 +47,6 @@ def upload_image_to_s3(image_url, bucket_name, folder="covers/"):
             BytesIO(response.content), 
             bucket_name, 
             s3_key, 
-            ExtraArgs={"ContentType": response.headers["Content-Type"]}
         )
 
         # Construct and return the S3 URL
