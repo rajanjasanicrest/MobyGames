@@ -10,7 +10,7 @@ def scrapeGamesByConsole():
     with open('mobygames_platforms.json', 'r', encoding='utf-8') as file:
         platforms = json.load(file)
 
-    scrapper = MobyGamesScraper(headless=False)
+    scrapper = MobyGamesScraper(headless=True)
     for platform in platforms:
         console_code = platform['console_code']
 
