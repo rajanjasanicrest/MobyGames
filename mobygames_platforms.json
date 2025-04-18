@@ -1,0 +1,1994 @@
+[
+    {
+        "platform": "1292 Advanced Programmable Video System",
+        "link": "/platform/1292-advanced-programmable-video-system/",
+        "games": "55 games",
+        "console_code": "1292-advanced-programmable-video-system"
+    },
+    {
+        "platform": "3DO",
+        "link": "/platform/3do/",
+        "games": "254 games",
+        "console_code": "3do"
+    },
+    {
+        "platform": "ABC 80",
+        "link": "/platform/abc-80/",
+        "games": "1 games",
+        "console_code": "abc-80"
+    },
+    {
+        "platform": "Acorn 32-bit",
+        "link": "/platform/acorn-32-bit/",
+        "games": "222 games",
+        "console_code": "acorn-32-bit"
+    },
+    {
+        "platform": "Adventure Vision",
+        "link": "/platform/adventure-vision/",
+        "games": "4 games",
+        "console_code": "adventure-vision"
+    },
+    {
+        "platform": "AirConsole",
+        "link": "/platform/airconsole/",
+        "games": "6 games",
+        "console_code": "airconsole"
+    },
+    {
+        "platform": "Alice 32/90",
+        "link": "/platform/alice-3290/",
+        "games": "8 games",
+        "console_code": "alice-3290"
+    },
+    {
+        "platform": "Altair 680",
+        "link": "/platform/altair-680/",
+        "games": "1 games",
+        "console_code": "altair-680"
+    },
+    {
+        "platform": "Altair 8800",
+        "link": "/platform/altair-8800/",
+        "games": "102 games",
+        "console_code": "altair-8800"
+    },
+    {
+        "platform": "Amazon Alexa",
+        "link": "/platform/amazon-alexa/",
+        "games": "11 games",
+        "console_code": "amazon-alexa"
+    },
+    {
+        "platform": "Amiga",
+        "link": "/platform/amiga/",
+        "games": "3,905 games",
+        "console_code": "amiga"
+    },
+    {
+        "platform": "Amiga CD32",
+        "link": "/platform/amiga-cd32/",
+        "games": "176 games",
+        "console_code": "amiga-cd32"
+    },
+    {
+        "platform": "Amstrad CPC",
+        "link": "/platform/cpc/",
+        "games": "2,337 games",
+        "console_code": "cpc"
+    },
+    {
+        "platform": "Amstrad PCW",
+        "link": "/platform/amstrad-pcw/",
+        "games": "126 games",
+        "console_code": "amstrad-pcw"
+    },
+    {
+        "platform": "Android",
+        "link": "/platform/android/",
+        "games": "12,289 games",
+        "console_code": "android"
+    },
+    {
+        "platform": "Antstream",
+        "link": "/platform/antstream/",
+        "games": "1,015 games",
+        "console_code": "antstream"
+    },
+    {
+        "platform": "APF MP1000/Imagination Machine",
+        "link": "/platform/apf/",
+        "games": "13 games",
+        "console_code": "apf"
+    },
+    {
+        "platform": "Apple I",
+        "link": "/platform/apple-i/",
+        "games": "10 games",
+        "console_code": "apple-i"
+    },
+    {
+        "platform": "Apple II",
+        "link": "/platform/apple2/",
+        "games": "2,899 games",
+        "console_code": "apple2"
+    },
+    {
+        "platform": "Apple IIgs",
+        "link": "/platform/apple2gs/",
+        "games": "219 games",
+        "console_code": "apple2gs"
+    },
+    {
+        "platform": "Arcade",
+        "link": "/platform/arcade/",
+        "games": "3,350 games",
+        "console_code": "arcade"
+    },
+    {
+        "platform": "Arcadia 2001",
+        "link": "/platform/arcadia-2001/",
+        "games": "35 games",
+        "console_code": "arcadia-2001"
+    },
+    {
+        "platform": "Arduboy",
+        "link": "/platform/arduboy/",
+        "games": "28 games",
+        "console_code": "arduboy"
+    },
+    {
+        "platform": "Astral 2000",
+        "link": "/platform/astral-2000/",
+        "games": "1 games",
+        "console_code": "astral-2000"
+    },
+    {
+        "platform": "Atari 2600",
+        "link": "/platform/atari-2600/",
+        "games": "602 games",
+        "console_code": "atari-2600"
+    },
+    {
+        "platform": "Atari 5200",
+        "link": "/platform/atari-5200/",
+        "games": "86 games",
+        "console_code": "atari-5200"
+    },
+    {
+        "platform": "Atari 7800",
+        "link": "/platform/atari-7800/",
+        "games": "72 games",
+        "console_code": "atari-7800"
+    },
+    {
+        "platform": "Atari 8-bit",
+        "link": "/platform/atari-8-bit/",
+        "games": "2,089 games",
+        "console_code": "atari-8-bit"
+    },
+    {
+        "platform": "Atari ST",
+        "link": "/platform/atari-st/",
+        "games": "2,490 games",
+        "console_code": "atari-st"
+    },
+    {
+        "platform": "Atari VCS",
+        "link": "/platform/atari-vcs/",
+        "games": "71 games",
+        "console_code": "atari-vcs"
+    },
+    {
+        "platform": "Atom",
+        "link": "/platform/atom/",
+        "games": "36 games",
+        "console_code": "atom"
+    },
+    {
+        "platform": "Auto Response Board",
+        "link": "/platform/arb/",
+        "games": "3 games",
+        "console_code": "arb"
+    },
+    {
+        "platform": "bada",
+        "link": "/platform/bada/",
+        "games": "80 games",
+        "console_code": "bada"
+    },
+    {
+        "platform": "Bally Astrocade",
+        "link": "/platform/bally-astrocade/",
+        "games": "29 games",
+        "console_code": "bally-astrocade"
+    },
+    {
+        "platform": "BBC Micro",
+        "link": "/platform/bbc-micro/",
+        "games": "1,329 games",
+        "console_code": "bbc-micro"
+    },
+    {
+        "platform": "BeOS",
+        "link": "/platform/beos/",
+        "games": "37 games",
+        "console_code": "beos"
+    },
+    {
+        "platform": "BlackBerry",
+        "link": "/platform/blackberry/",
+        "games": "431 games",
+        "console_code": "blackberry"
+    },
+    {
+        "platform": "Blacknut",
+        "link": "/platform/blacknut/",
+        "games": "497 games",
+        "console_code": "blacknut"
+    },
+    {
+        "platform": "Blu-ray Disc Player",
+        "link": "/platform/blu-ray-disc-player/",
+        "games": "14 games",
+        "console_code": "blu-ray-disc-player"
+    },
+    {
+        "platform": "BREW",
+        "link": "/platform/brew/",
+        "games": "378 games",
+        "console_code": "brew"
+    },
+    {
+        "platform": "Browser",
+        "link": "/platform/browser/",
+        "games": "6,052 games",
+        "console_code": "browser"
+    },
+    {
+        "platform": "Bubble",
+        "link": "/platform/bubble/",
+        "games": "3 games",
+        "console_code": "bubble"
+    },
+    {
+        "platform": "Camputers Lynx",
+        "link": "/platform/camputers-lynx/",
+        "games": "18 games",
+        "console_code": "camputers-lynx"
+    },
+    {
+        "platform": "Casio FP-1000/1100",
+        "link": "/platform/casiofp/",
+        "games": "0 games",
+        "console_code": "casiofp"
+    },
+    {
+        "platform": "Casio Loopy",
+        "link": "/platform/casio-loopy/",
+        "games": "11 games",
+        "console_code": "casio-loopy"
+    },
+    {
+        "platform": "Casio Programmable Calculator",
+        "link": "/platform/casio-programmable-calculator/",
+        "games": "3 games",
+        "console_code": "casio-programmable-calculator"
+    },
+    {
+        "platform": "Casio PV-1000",
+        "link": "/platform/casio-pv-1000/",
+        "games": "13 games",
+        "console_code": "casio-pv-1000"
+    },
+    {
+        "platform": "CD-i",
+        "link": "/platform/cd-i/",
+        "games": "214 games",
+        "console_code": "cd-i"
+    },
+    {
+        "platform": "CDTV",
+        "link": "/platform/cdtv/",
+        "games": "49 games",
+        "console_code": "cdtv"
+    },
+    {
+        "platform": "Champion 2711",
+        "link": "/platform/champion-2711/",
+        "games": "5 games",
+        "console_code": "champion-2711"
+    },
+    {
+        "platform": "Channel F",
+        "link": "/platform/channel-f/",
+        "games": "30 games",
+        "console_code": "channel-f"
+    },
+    {
+        "platform": "ClickStart",
+        "link": "/platform/clickstart/",
+        "games": "14 games",
+        "console_code": "clickstart"
+    },
+    {
+        "platform": "Coleco Adam",
+        "link": "/platform/colecoadam/",
+        "games": "39 games",
+        "console_code": "colecoadam"
+    },
+    {
+        "platform": "ColecoVision",
+        "link": "/platform/colecovision/",
+        "games": "155 games",
+        "console_code": "colecovision"
+    },
+    {
+        "platform": "Colour Genie",
+        "link": "/platform/colour-genie/",
+        "games": "12 games",
+        "console_code": "colour-genie"
+    },
+    {
+        "platform": "Commodore 128",
+        "link": "/platform/c128/",
+        "games": "27 games",
+        "console_code": "c128"
+    },
+    {
+        "platform": "Commodore 16, Plus/4",
+        "link": "/platform/commodore-16-plus4/",
+        "games": "502 games",
+        "console_code": "commodore-16-plus4"
+    },
+    {
+        "platform": "Commodore 64",
+        "link": "/platform/c64/",
+        "games": "5,651 games",
+        "console_code": "c64"
+    },
+    {
+        "platform": "Commodore PET/CBM",
+        "link": "/platform/pet/",
+        "games": "784 games",
+        "console_code": "pet"
+    },
+    {
+        "platform": "Compal 80",
+        "link": "/platform/compal-80/",
+        "games": "1 games",
+        "console_code": "compal-80"
+    },
+    {
+        "platform": "Compucolor I",
+        "link": "/platform/compucolor-i/",
+        "games": "2 games",
+        "console_code": "compucolor-i"
+    },
+    {
+        "platform": "Compucolor II",
+        "link": "/platform/compucolor-ii/",
+        "games": "23 games",
+        "console_code": "compucolor-ii"
+    },
+    {
+        "platform": "Compucorp Programmable Calculator",
+        "link": "/platform/compucorp-programmable-calculator/",
+        "games": "7 games",
+        "console_code": "compucorp-programmable-calculator"
+    },
+    {
+        "platform": "COSMAC",
+        "link": "/platform/fred-cosmac/",
+        "games": "81 games",
+        "console_code": "fred-cosmac"
+    },
+    {
+        "platform": "CP/M",
+        "link": "/platform/cpm/",
+        "games": "68 games",
+        "console_code": "cpm"
+    },
+    {
+        "platform": "CreatiVision",
+        "link": "/platform/creativision/",
+        "games": "3 games",
+        "console_code": "creativision"
+    },
+    {
+        "platform": "Cybervision",
+        "link": "/platform/cybervision/",
+        "games": "11 games",
+        "console_code": "cybervision"
+    },
+    {
+        "platform": "DAI",
+        "link": "/platform/dai/",
+        "games": "2 games",
+        "console_code": "dai"
+    },
+    {
+        "platform": "Danger OS",
+        "link": "/platform/danger-os/",
+        "games": "1 games",
+        "console_code": "danger-os"
+    },
+    {
+        "platform": "Dedicated console",
+        "link": "/platform/dedicated-console/",
+        "games": "547 games",
+        "console_code": "dedicated-console"
+    },
+    {
+        "platform": "Dedicated handheld",
+        "link": "/platform/dedicated-handheld/",
+        "games": "788 games",
+        "console_code": "dedicated-handheld"
+    },
+    {
+        "platform": "Didj",
+        "link": "/platform/didj/",
+        "games": "2 games",
+        "console_code": "didj"
+    },
+    {
+        "platform": "digiBlast",
+        "link": "/platform/digiblast/",
+        "games": "10 games",
+        "console_code": "digiblast"
+    },
+    {
+        "platform": "DoJa",
+        "link": "/platform/doja/",
+        "games": "263 games",
+        "console_code": "doja"
+    },
+    {
+        "platform": "DOS",
+        "link": "/platform/dos/",
+        "games": "8,222 games",
+        "console_code": "dos"
+    },
+    {
+        "platform": "Dragon 32/64",
+        "link": "/platform/dragon-3264/",
+        "games": "674 games",
+        "console_code": "dragon-3264"
+    },
+    {
+        "platform": "Dreamcast",
+        "link": "/platform/dreamcast/",
+        "games": "562 games",
+        "console_code": "dreamcast"
+    },
+    {
+        "platform": "DVD Player",
+        "link": "/platform/dvd-player/",
+        "games": "394 games",
+        "console_code": "dvd-player"
+    },
+    {
+        "platform": "ECD Micromind",
+        "link": "/platform/ecd-micromind/",
+        "games": "2 games",
+        "console_code": "ecd-micromind"
+    },
+    {
+        "platform": "Electron",
+        "link": "/platform/electron/",
+        "games": "670 games",
+        "console_code": "electron"
+    },
+    {
+        "platform": "Enterprise",
+        "link": "/platform/enterprise/",
+        "games": "29 games",
+        "console_code": "enterprise"
+    },
+    {
+        "platform": "Epoch Cassette Vision",
+        "link": "/platform/epoch-cassette-vision/",
+        "games": "4 games",
+        "console_code": "epoch-cassette-vision"
+    },
+    {
+        "platform": "Epoch Game Pocket Computer",
+        "link": "/platform/epoch-game-pocket-computer/",
+        "games": "3 games",
+        "console_code": "epoch-game-pocket-computer"
+    },
+    {
+        "platform": "Epoch Super Cassette Vision",
+        "link": "/platform/epoch-super-cassette-vision/",
+        "games": "13 games",
+        "console_code": "epoch-super-cassette-vision"
+    },
+    {
+        "platform": "Evercade",
+        "link": "/platform/evercade/",
+        "games": "62 games",
+        "console_code": "evercade"
+    },
+    {
+        "platform": "Exelvision",
+        "link": "/platform/exelvision/",
+        "games": "9 games",
+        "console_code": "exelvision"
+    },
+    {
+        "platform": "ExEn",
+        "link": "/platform/exen/",
+        "games": "48 games",
+        "console_code": "exen"
+    },
+    {
+        "platform": "Exidy Sorcerer",
+        "link": "/platform/exidy-sorcerer/",
+        "games": "81 games",
+        "console_code": "exidy-sorcerer"
+    },
+    {
+        "platform": "Feature phone",
+        "link": "/platform/mobile-custom/",
+        "games": "1 games",
+        "console_code": "mobile-custom"
+    },
+    {
+        "platform": "Fire OS",
+        "link": "/platform/fire-os/",
+        "games": "123 games",
+        "console_code": "fire-os"
+    },
+    {
+        "platform": "FM Towns",
+        "link": "/platform/fmtowns/",
+        "games": "507 games",
+        "console_code": "fmtowns"
+    },
+    {
+        "platform": "FM-7",
+        "link": "/platform/fm-7/",
+        "games": "370 games",
+        "console_code": "fm-7"
+    },
+    {
+        "platform": "Freebox",
+        "link": "/platform/freebox/",
+        "games": "24 games",
+        "console_code": "freebox"
+    },
+    {
+        "platform": "G-cluster",
+        "link": "/platform/g-cluster/",
+        "games": "3 games",
+        "console_code": "g-cluster"
+    },
+    {
+        "platform": "Galaksija",
+        "link": "/platform/galaksija/",
+        "games": "17 games",
+        "console_code": "galaksija"
+    },
+    {
+        "platform": "Game Boy",
+        "link": "/platform/gameboy/",
+        "games": "782 games",
+        "console_code": "gameboy"
+    },
+    {
+        "platform": "Game Boy Advance",
+        "link": "/platform/gameboy-advance/",
+        "games": "1,250 games",
+        "console_code": "gameboy-advance"
+    },
+    {
+        "platform": "Game Boy Color",
+        "link": "/platform/gameboy-color/",
+        "games": "691 games",
+        "console_code": "gameboy-color"
+    },
+    {
+        "platform": "Game Gear",
+        "link": "/platform/game-gear/",
+        "games": "363 games",
+        "console_code": "game-gear"
+    },
+    {
+        "platform": "Game Wave",
+        "link": "/platform/game-wave/",
+        "games": "14 games",
+        "console_code": "game-wave"
+    },
+    {
+        "platform": "Game.Com",
+        "link": "/platform/game-com/",
+        "games": "20 games",
+        "console_code": "game-com"
+    },
+    {
+        "platform": "GameCube",
+        "link": "/platform/gamecube/",
+        "games": "625 games",
+        "console_code": "gamecube"
+    },
+    {
+        "platform": "GameStick",
+        "link": "/platform/gamestick/",
+        "games": "26 games",
+        "console_code": "gamestick"
+    },
+    {
+        "platform": "Genesis",
+        "link": "/platform/genesis/",
+        "games": "1,042 games",
+        "console_code": "genesis"
+    },
+    {
+        "platform": "GIMINI",
+        "link": "/platform/gimini/",
+        "games": "8 games",
+        "console_code": "gimini"
+    },
+    {
+        "platform": "Gizmondo",
+        "link": "/platform/gizmondo/",
+        "games": "17 games",
+        "console_code": "gizmondo"
+    },
+    {
+        "platform": "Gloud",
+        "link": "/platform/gloud/",
+        "games": "101 games",
+        "console_code": "gloud"
+    },
+    {
+        "platform": "Glulx",
+        "link": "/platform/glulx/",
+        "games": "9 games",
+        "console_code": "glulx"
+    },
+    {
+        "platform": "GNEX",
+        "link": "/platform/gnex/",
+        "games": "4 games",
+        "console_code": "gnex"
+    },
+    {
+        "platform": "GP2X",
+        "link": "/platform/gp2x/",
+        "games": "39 games",
+        "console_code": "gp2x"
+    },
+    {
+        "platform": "GP2X Wiz",
+        "link": "/platform/gp2x-wiz/",
+        "games": "21 games",
+        "console_code": "gp2x-wiz"
+    },
+    {
+        "platform": "GP32",
+        "link": "/platform/gp32/",
+        "games": "18 games",
+        "console_code": "gp32"
+    },
+    {
+        "platform": "GVM",
+        "link": "/platform/gvm/",
+        "games": "4 games",
+        "console_code": "gvm"
+    },
+    {
+        "platform": "HD DVD Player",
+        "link": "/platform/hd-dvd-player/",
+        "games": "1 games",
+        "console_code": "hd-dvd-player"
+    },
+    {
+        "platform": "Heath/Zenith H8/H89",
+        "link": "/platform/heathzenith/",
+        "games": "23 games",
+        "console_code": "heathzenith"
+    },
+    {
+        "platform": "Heathkit H11",
+        "link": "/platform/heathkit-h11/",
+        "games": "5 games",
+        "console_code": "heathkit-h11"
+    },
+    {
+        "platform": "Hitachi Basic Master Level 3",
+        "link": "/platform/hitachibasicmaster3/",
+        "games": "20 games",
+        "console_code": "hitachibasicmaster3"
+    },
+    {
+        "platform": "Hitachi S1",
+        "link": "/platform/hitachi-s1/",
+        "games": "25 games",
+        "console_code": "hitachi-s1"
+    },
+    {
+        "platform": "HP 9800",
+        "link": "/platform/hp-9800/",
+        "games": "2 games",
+        "console_code": "hp-9800"
+    },
+    {
+        "platform": "HP Oscilloscope",
+        "link": "/platform/hposcilloscope/",
+        "games": "3 games",
+        "console_code": "hposcilloscope"
+    },
+    {
+        "platform": "HP Programmable Calculator",
+        "link": "/platform/hp-programmable-calculator/",
+        "games": "70 games",
+        "console_code": "hp-programmable-calculator"
+    },
+    {
+        "platform": "HP Series 80",
+        "link": "/platform/hpseries80/",
+        "games": "2 games",
+        "console_code": "hpseries80"
+    },
+    {
+        "platform": "Hugo",
+        "link": "/platform/hugo/",
+        "games": "1 games",
+        "console_code": "hugo"
+    },
+    {
+        "platform": "HyperScan",
+        "link": "/platform/hyperscan/",
+        "games": "5 games",
+        "console_code": "hyperscan"
+    },
+    {
+        "platform": "IBM 5100",
+        "link": "/platform/ibm-5100/",
+        "games": "5 games",
+        "console_code": "ibm-5100"
+    },
+    {
+        "platform": "Ideal-Computer",
+        "link": "/platform/ideal-computer/",
+        "games": "3 games",
+        "console_code": "ideal-computer"
+    },
+    {
+        "platform": "iiRcade",
+        "link": "/platform/iircade/",
+        "games": "61 games",
+        "console_code": "iircade"
+    },
+    {
+        "platform": "Intel 8008",
+        "link": "/platform/intel-8008/",
+        "games": "6 games",
+        "console_code": "intel-8008"
+    },
+    {
+        "platform": "Intel 8080",
+        "link": "/platform/intel-8080/",
+        "games": "81 games",
+        "console_code": "intel-8080"
+    },
+    {
+        "platform": "Intel 8086 / 8088",
+        "link": "/platform/intel-8086/",
+        "games": "1 games",
+        "console_code": "intel-8086"
+    },
+    {
+        "platform": "Intellivision",
+        "link": "/platform/intellivision/",
+        "games": "128 games",
+        "console_code": "intellivision"
+    },
+    {
+        "platform": "Interact Model One",
+        "link": "/platform/interact-model-one/",
+        "games": "7 games",
+        "console_code": "interact-model-one"
+    },
+    {
+        "platform": "Interton Video 2000",
+        "link": "/platform/interton-video-2000/",
+        "games": "5 games",
+        "console_code": "interton-video-2000"
+    },
+    {
+        "platform": "iPad",
+        "link": "/platform/ipad/",
+        "games": "11,862 games",
+        "console_code": "ipad"
+    },
+    {
+        "platform": "iPhone",
+        "link": "/platform/iphone/",
+        "games": "12,569 games",
+        "console_code": "iphone"
+    },
+    {
+        "platform": "iPod Classic",
+        "link": "/platform/ipod-classic/",
+        "games": "30 games",
+        "console_code": "ipod-classic"
+    },
+    {
+        "platform": "J2ME",
+        "link": "/platform/j2me/",
+        "games": "1,257 games",
+        "console_code": "j2me"
+    },
+    {
+        "platform": "Jaguar",
+        "link": "/platform/jaguar/",
+        "games": "104 games",
+        "console_code": "jaguar"
+    },
+    {
+        "platform": "Jolt",
+        "link": "/platform/jolt/",
+        "games": "2 games",
+        "console_code": "jolt"
+    },
+    {
+        "platform": "Jupiter Ace",
+        "link": "/platform/jupiter-ace/",
+        "games": "40 games",
+        "console_code": "jupiter-ace"
+    },
+    {
+        "platform": "KaiOS",
+        "link": "/platform/kaios/",
+        "games": "12 games",
+        "console_code": "kaios"
+    },
+    {
+        "platform": "KIM-1",
+        "link": "/platform/kim-1/",
+        "games": "33 games",
+        "console_code": "kim-1"
+    },
+    {
+        "platform": "Kindle Classic",
+        "link": "/platform/kindle/",
+        "games": "20 games",
+        "console_code": "kindle"
+    },
+    {
+        "platform": "Laser 200",
+        "link": "/platform/laser200/",
+        "games": "6 games",
+        "console_code": "laser200"
+    },
+    {
+        "platform": "LaserActive",
+        "link": "/platform/laseractive/",
+        "games": "31 games",
+        "console_code": "laseractive"
+    },
+    {
+        "platform": "LeapFrog Explorer",
+        "link": "/platform/leapfrog-explorer/",
+        "games": "6 games",
+        "console_code": "leapfrog-explorer"
+    },
+    {
+        "platform": "Leapster",
+        "link": "/platform/leapster/",
+        "games": "50 games",
+        "console_code": "leapster"
+    },
+    {
+        "platform": "LeapTV",
+        "link": "/platform/leaptv/",
+        "games": "1 games",
+        "console_code": "leaptv"
+    },
+    {
+        "platform": "Linux",
+        "link": "/platform/linux/",
+        "games": "10,406 games",
+        "console_code": "linux"
+    },
+    {
+        "platform": "Luna",
+        "link": "/platform/luna/",
+        "games": "133 games",
+        "console_code": "luna"
+    },
+    {
+        "platform": "Lynx",
+        "link": "/platform/lynx/",
+        "games": "97 games",
+        "console_code": "lynx"
+    },
+    {
+        "platform": "Macintosh",
+        "link": "/platform/macintosh/",
+        "games": "20,531 games",
+        "console_code": "macintosh"
+    },
+    {
+        "platform": "Maemo",
+        "link": "/platform/maemo/",
+        "games": "14 games",
+        "console_code": "maemo"
+    },
+    {
+        "platform": "Magic Leap",
+        "link": "/platform/magic-leap/",
+        "games": "15 games",
+        "console_code": "magic-leap"
+    },
+    {
+        "platform": "Mainframe",
+        "link": "/platform/mainframe/",
+        "games": "664 games",
+        "console_code": "mainframe"
+    },
+    {
+        "platform": "Matsushita/Panasonic JR",
+        "link": "/platform/matsushitapanasonic-jr/",
+        "games": "18 games",
+        "console_code": "matsushitapanasonic-jr"
+    },
+    {
+        "platform": "Mattel Aquarius",
+        "link": "/platform/mattel-aquarius/",
+        "games": "20 games",
+        "console_code": "mattel-aquarius"
+    },
+    {
+        "platform": "MeeGo",
+        "link": "/platform/meego/",
+        "games": "31 games",
+        "console_code": "meego"
+    },
+    {
+        "platform": "Memotech MTX",
+        "link": "/platform/memotech-mtx/",
+        "games": "28 games",
+        "console_code": "memotech-mtx"
+    },
+    {
+        "platform": "Meritum",
+        "link": "/platform/meritum/",
+        "games": "12 games",
+        "console_code": "meritum"
+    },
+    {
+        "platform": "Microbee",
+        "link": "/platform/microbee/",
+        "games": "14 games",
+        "console_code": "microbee"
+    },
+    {
+        "platform": "Microtan 65",
+        "link": "/platform/microtan-65/",
+        "games": "1 games",
+        "console_code": "microtan-65"
+    },
+    {
+        "platform": "Microvision",
+        "link": "/platform/microvision/",
+        "games": "12 games",
+        "console_code": "microvision"
+    },
+    {
+        "platform": "Mitsubishi Multi-8",
+        "link": "/platform/multi8/",
+        "games": "5 games",
+        "console_code": "multi8"
+    },
+    {
+        "platform": "Modular Game System",
+        "link": "/platform/mgs/",
+        "games": "10 games",
+        "console_code": "mgs"
+    },
+    {
+        "platform": "Mophun",
+        "link": "/platform/mophun/",
+        "games": "16 games",
+        "console_code": "mophun"
+    },
+    {
+        "platform": "MOS Technology 6502",
+        "link": "/platform/mos-technology-6502/",
+        "games": "15 games",
+        "console_code": "mos-technology-6502"
+    },
+    {
+        "platform": "Motorola 6800",
+        "link": "/platform/motorola-6800/",
+        "games": "40 games",
+        "console_code": "motorola-6800"
+    },
+    {
+        "platform": "Motorola 68k",
+        "link": "/platform/motorola-68k/",
+        "games": "2 games",
+        "console_code": "motorola-68k"
+    },
+    {
+        "platform": "MRE",
+        "link": "/platform/mre/",
+        "games": "10 games",
+        "console_code": "mre"
+    },
+    {
+        "platform": "MSX",
+        "link": "/platform/msx/",
+        "games": "1,457 games",
+        "console_code": "msx"
+    },
+    {
+        "platform": "N-Gage",
+        "link": "/platform/ngage/",
+        "games": "64 games",
+        "console_code": "ngage"
+    },
+    {
+        "platform": "N-Gage (service)",
+        "link": "/platform/ngage2/",
+        "games": "24 games",
+        "console_code": "ngage2"
+    },
+    {
+        "platform": "Nascom",
+        "link": "/platform/nascom/",
+        "games": "21 games",
+        "console_code": "nascom"
+    },
+    {
+        "platform": "Neo Geo",
+        "link": "/platform/neo-geo/",
+        "games": "125 games",
+        "console_code": "neo-geo"
+    },
+    {
+        "platform": "Neo Geo CD",
+        "link": "/platform/neo-geo-cd/",
+        "games": "101 games",
+        "console_code": "neo-geo-cd"
+    },
+    {
+        "platform": "Neo Geo Pocket",
+        "link": "/platform/neo-geo-pocket/",
+        "games": "10 games",
+        "console_code": "neo-geo-pocket"
+    },
+    {
+        "platform": "Neo Geo Pocket Color",
+        "link": "/platform/neo-geo-pocket-color/",
+        "games": "74 games",
+        "console_code": "neo-geo-pocket-color"
+    },
+    {
+        "platform": "Neo Geo X",
+        "link": "/platform/neo-geo-x/",
+        "games": "7 games",
+        "console_code": "neo-geo-x"
+    },
+    {
+        "platform": "NES",
+        "link": "/platform/nes/",
+        "games": "1,524 games",
+        "console_code": "nes"
+    },
+    {
+        "platform": "New Nintendo 3DS",
+        "link": "/platform/new-nintendo-3ds/",
+        "games": "126 games",
+        "console_code": "new-nintendo-3ds"
+    },
+    {
+        "platform": "NewBrain",
+        "link": "/platform/newbrain/",
+        "games": "4 games",
+        "console_code": "newbrain"
+    },
+    {
+        "platform": "Newton",
+        "link": "/platform/newton/",
+        "games": "7 games",
+        "console_code": "newton"
+    },
+    {
+        "platform": "Nintendo 3DS",
+        "link": "/platform/3ds/",
+        "games": "1,669 games",
+        "console_code": "3ds"
+    },
+    {
+        "platform": "Nintendo 64",
+        "link": "/platform/n64/",
+        "games": "386 games",
+        "console_code": "n64"
+    },
+    {
+        "platform": "Nintendo DS",
+        "link": "/platform/nintendo-ds/",
+        "games": "2,339 games",
+        "console_code": "nintendo-ds"
+    },
+    {
+        "platform": "Nintendo DSi",
+        "link": "/platform/nintendo-dsi/",
+        "games": "617 games",
+        "console_code": "nintendo-dsi"
+    },
+    {
+        "platform": "Nintendo Switch",
+        "link": "/platform/switch/",
+        "games": "12,259 games",
+        "console_code": "switch"
+    },
+    {
+        "platform": "North Star",
+        "link": "/platform/northstar/",
+        "games": "59 games",
+        "console_code": "northstar"
+    },
+    {
+        "platform": "Noval 760",
+        "link": "/platform/noval-760/",
+        "games": "2 games",
+        "console_code": "noval-760"
+    },
+    {
+        "platform": "Nuon",
+        "link": "/platform/nuon/",
+        "games": "7 games",
+        "console_code": "nuon"
+    },
+    {
+        "platform": "Oculus Go",
+        "link": "/platform/oculus-go/",
+        "games": "263 games",
+        "console_code": "oculus-go"
+    },
+    {
+        "platform": "Odyssey",
+        "link": "/platform/odyssey/",
+        "games": "22 games",
+        "console_code": "odyssey"
+    },
+    {
+        "platform": "Odyssey 2",
+        "link": "/platform/odyssey-2/",
+        "games": "107 games",
+        "console_code": "odyssey-2"
+    },
+    {
+        "platform": "Ohio Scientific",
+        "link": "/platform/ohio-scientific/",
+        "games": "98 games",
+        "console_code": "ohio-scientific"
+    },
+    {
+        "platform": "OnLive",
+        "link": "/platform/onlive/",
+        "games": "136 games",
+        "console_code": "onlive"
+    },
+    {
+        "platform": "OOParts",
+        "link": "/platform/ooparts/",
+        "games": "138 games",
+        "console_code": "ooparts"
+    },
+    {
+        "platform": "Orao",
+        "link": "/platform/orao/",
+        "games": "3 games",
+        "console_code": "orao"
+    },
+    {
+        "platform": "Oric",
+        "link": "/platform/oric/",
+        "games": "129 games",
+        "console_code": "oric"
+    },
+    {
+        "platform": "OS/2",
+        "link": "/platform/os2/",
+        "games": "63 games",
+        "console_code": "os2"
+    },
+    {
+        "platform": "Ouya",
+        "link": "/platform/ouya/",
+        "games": "247 games",
+        "console_code": "ouya"
+    },
+    {
+        "platform": "Palm OS",
+        "link": "/platform/palmos/",
+        "games": "185 games",
+        "console_code": "palmos"
+    },
+    {
+        "platform": "Pandora",
+        "link": "/platform/pandora/",
+        "games": "7 games",
+        "console_code": "pandora"
+    },
+    {
+        "platform": "PC Booter",
+        "link": "/platform/pc-booter/",
+        "games": "260 games",
+        "console_code": "pc-booter"
+    },
+    {
+        "platform": "PC-6001",
+        "link": "/platform/pc-6001/",
+        "games": "134 games",
+        "console_code": "pc-6001"
+    },
+    {
+        "platform": "PC-8000",
+        "link": "/platform/pc-8000/",
+        "games": "128 games",
+        "console_code": "pc-8000"
+    },
+    {
+        "platform": "PC-88",
+        "link": "/platform/pc88/",
+        "games": "640 games",
+        "console_code": "pc88"
+    },
+    {
+        "platform": "PC-98",
+        "link": "/platform/pc98/",
+        "games": "1,421 games",
+        "console_code": "pc98"
+    },
+    {
+        "platform": "PC-FX",
+        "link": "/platform/pc-fx/",
+        "games": "62 games",
+        "console_code": "pc-fx"
+    },
+    {
+        "platform": "Pebble",
+        "link": "/platform/pebble/",
+        "games": "1 games",
+        "console_code": "pebble"
+    },
+    {
+        "platform": "Philips P2000",
+        "link": "/platform/p2000/",
+        "games": "70 games",
+        "console_code": "p2000"
+    },
+    {
+        "platform": "Philips VG 5000",
+        "link": "/platform/philips-vg-5000/",
+        "games": "21 games",
+        "console_code": "philips-vg-5000"
+    },
+    {
+        "platform": "Photo CD",
+        "link": "/platform/photocd/",
+        "games": "1 games",
+        "console_code": "photocd"
+    },
+    {
+        "platform": "PICO",
+        "link": "/platform/pico/",
+        "games": "28 games",
+        "console_code": "pico"
+    },
+    {
+        "platform": "Pippin",
+        "link": "/platform/pippin/",
+        "games": "20 games",
+        "console_code": "pippin"
+    },
+    {
+        "platform": "Playdate",
+        "link": "/platform/playdate/",
+        "games": "105 games",
+        "console_code": "playdate"
+    },
+    {
+        "platform": "Playdia",
+        "link": "/platform/playdia/",
+        "games": "1 games",
+        "console_code": "playdia"
+    },
+    {
+        "platform": "PlayStation",
+        "link": "/platform/playstation/",
+        "games": "3,047 games",
+        "console_code": "playstation"
+    },
+    {
+        "platform": "PlayStation 2",
+        "link": "/platform/ps2/",
+        "games": "3,443 games",
+        "console_code": "ps2"
+    },
+    {
+        "platform": "PlayStation 3",
+        "link": "/platform/ps3/",
+        "games": "5,102 games",
+        "console_code": "ps3"
+    },
+    {
+        "platform": "PlayStation 4",
+        "link": "/platform/playstation-4/",
+        "games": "11,309 games",
+        "console_code": "playstation-4"
+    },
+    {
+        "platform": "PlayStation 5",
+        "link": "/platform/playstation-5/",
+        "games": "3,385 games",
+        "console_code": "playstation-5"
+    },
+    {
+        "platform": "PlayStation Now",
+        "link": "/platform/playstation-now/",
+        "games": "126 games",
+        "console_code": "playstation-now"
+    },
+    {
+        "platform": "Plex Arcade",
+        "link": "/platform/plex-arcade/",
+        "games": "27 games",
+        "console_code": "plex-arcade"
+    },
+    {
+        "platform": "Pokitto",
+        "link": "/platform/pokitto/",
+        "games": "2 games",
+        "console_code": "pokitto"
+    },
+    {
+        "platform": "Pok\u00e9mon Mini",
+        "link": "/platform/pokemon-mini/",
+        "games": "10 games",
+        "console_code": "pokemon-mini"
+    },
+    {
+        "platform": "Poly-88",
+        "link": "/platform/poly-88/",
+        "games": "14 games",
+        "console_code": "poly-88"
+    },
+    {
+        "platform": "PS Vita",
+        "link": "/platform/ps-vita/",
+        "games": "2,545 games",
+        "console_code": "ps-vita"
+    },
+    {
+        "platform": "PSP",
+        "link": "/platform/psp/",
+        "games": "2,255 games",
+        "console_code": "psp"
+    },
+    {
+        "platform": "Quest",
+        "link": "/platform/oculus-quest/",
+        "games": "452 games",
+        "console_code": "oculus-quest"
+    },
+    {
+        "platform": "RCA Studio II",
+        "link": "/platform/rca-studio-ii/",
+        "games": "14 games",
+        "console_code": "rca-studio-ii"
+    },
+    {
+        "platform": "Research Machines 380Z",
+        "link": "/platform/research-machines-380z/",
+        "games": "5 games",
+        "console_code": "research-machines-380z"
+    },
+    {
+        "platform": "Roku",
+        "link": "/platform/roku/",
+        "games": "19 games",
+        "console_code": "roku"
+    },
+    {
+        "platform": "SAM Coup\u00e9",
+        "link": "/platform/sam-coupe/",
+        "games": "27 games",
+        "console_code": "sam-coupe"
+    },
+    {
+        "platform": "SC/MP",
+        "link": "/platform/scmp/",
+        "games": "10 games",
+        "console_code": "scmp"
+    },
+    {
+        "platform": "SD-200/270/290",
+        "link": "/platform/sd-200270290/",
+        "games": "2 games",
+        "console_code": "sd-200270290"
+    },
+    {
+        "platform": "SEGA 32X",
+        "link": "/platform/sega-32x/",
+        "games": "40 games",
+        "console_code": "sega-32x"
+    },
+    {
+        "platform": "SEGA CD",
+        "link": "/platform/sega-cd/",
+        "games": "211 games",
+        "console_code": "sega-cd"
+    },
+    {
+        "platform": "SEGA Master System",
+        "link": "/platform/sega-master-system/",
+        "games": "352 games",
+        "console_code": "sega-master-system"
+    },
+    {
+        "platform": "SEGA Pico",
+        "link": "/platform/sega-pico/",
+        "games": "30 games",
+        "console_code": "sega-pico"
+    },
+    {
+        "platform": "SEGA Saturn",
+        "link": "/platform/sega-saturn/",
+        "games": "1,155 games",
+        "console_code": "sega-saturn"
+    },
+    {
+        "platform": "SG-1000",
+        "link": "/platform/sg-1000/",
+        "games": "79 games",
+        "console_code": "sg-1000"
+    },
+    {
+        "platform": "Sharp MZ-80B/2000/2500",
+        "link": "/platform/sharp-mz-80b20002500/",
+        "games": "101 games",
+        "console_code": "sharp-mz-80b20002500"
+    },
+    {
+        "platform": "Sharp MZ-80K/700/800/1500",
+        "link": "/platform/sharp-mz-80k7008001500/",
+        "games": "73 games",
+        "console_code": "sharp-mz-80k7008001500"
+    },
+    {
+        "platform": "Sharp X1",
+        "link": "/platform/sharp-x1/",
+        "games": "362 games",
+        "console_code": "sharp-x1"
+    },
+    {
+        "platform": "Sharp X68000",
+        "link": "/platform/sharp-x68000/",
+        "games": "468 games",
+        "console_code": "sharp-x68000"
+    },
+    {
+        "platform": "Sharp Zaurus",
+        "link": "/platform/sharp-zaurus/",
+        "games": "11 games",
+        "console_code": "sharp-zaurus"
+    },
+    {
+        "platform": "Signetics 2650",
+        "link": "/platform/signetics-2650/",
+        "games": "2 games",
+        "console_code": "signetics-2650"
+    },
+    {
+        "platform": "Sinclair QL",
+        "link": "/platform/sinclair-ql/",
+        "games": "68 games",
+        "console_code": "sinclair-ql"
+    },
+    {
+        "platform": "SK-VM",
+        "link": "/platform/sk-vm/",
+        "games": "4 games",
+        "console_code": "sk-vm"
+    },
+    {
+        "platform": "SMC-777",
+        "link": "/platform/smc-777/",
+        "games": "26 games",
+        "console_code": "smc-777"
+    },
+    {
+        "platform": "SNES",
+        "link": "/platform/snes/",
+        "games": "1,268 games",
+        "console_code": "snes"
+    },
+    {
+        "platform": "Socrates",
+        "link": "/platform/socrates/",
+        "games": "0 games",
+        "console_code": "socrates"
+    },
+    {
+        "platform": "Sol-20",
+        "link": "/platform/sol-20/",
+        "games": "176 games",
+        "console_code": "sol-20"
+    },
+    {
+        "platform": "Sord M5",
+        "link": "/platform/sord-m5/",
+        "games": "20 games",
+        "console_code": "sord-m5"
+    },
+    {
+        "platform": "SPC-1000",
+        "link": "/platform/spc1000/",
+        "games": "2 games",
+        "console_code": "spc1000"
+    },
+    {
+        "platform": "Spectravideo",
+        "link": "/platform/spectravideo/",
+        "games": "31 games",
+        "console_code": "spectravideo"
+    },
+    {
+        "platform": "SRI-500/1000",
+        "link": "/platform/sri-5001000/",
+        "games": "1 games",
+        "console_code": "sri-5001000"
+    },
+    {
+        "platform": "Stadia",
+        "link": "/platform/stadia/",
+        "games": "307 games",
+        "console_code": "stadia"
+    },
+    {
+        "platform": "Super A'can",
+        "link": "/platform/super-acan/",
+        "games": "5 games",
+        "console_code": "super-acan"
+    },
+    {
+        "platform": "Super Vision 8000",
+        "link": "/platform/super-vision-8000/",
+        "games": "7 games",
+        "console_code": "super-vision-8000"
+    },
+    {
+        "platform": "SuperGrafx",
+        "link": "/platform/supergrafx/",
+        "games": "7 games",
+        "console_code": "supergrafx"
+    },
+    {
+        "platform": "Supervision",
+        "link": "/platform/supervision/",
+        "games": "67 games",
+        "console_code": "supervision"
+    },
+    {
+        "platform": "Sure Shot HD",
+        "link": "/platform/sure-shot-hd/",
+        "games": "6 games",
+        "console_code": "sure-shot-hd"
+    },
+    {
+        "platform": "SWTPC 6800",
+        "link": "/platform/swtpc-6800/",
+        "games": "42 games",
+        "console_code": "swtpc-6800"
+    },
+    {
+        "platform": "Symbian",
+        "link": "/platform/symbian/",
+        "games": "280 games",
+        "console_code": "symbian"
+    },
+    {
+        "platform": "TADS",
+        "link": "/platform/tads/",
+        "games": "11 games",
+        "console_code": "tads"
+    },
+    {
+        "platform": "Taito X-55",
+        "link": "/platform/taito-x-55/",
+        "games": "2 games",
+        "console_code": "taito-x-55"
+    },
+    {
+        "platform": "Tatung Einstein",
+        "link": "/platform/tatung-einstein/",
+        "games": "36 games",
+        "console_code": "tatung-einstein"
+    },
+    {
+        "platform": "Tektronix 4050",
+        "link": "/platform/tektronix-4050/",
+        "games": "4 games",
+        "console_code": "tektronix-4050"
+    },
+    {
+        "platform": "Tele-Spiel ES-2201",
+        "link": "/platform/tele-spiel/",
+        "games": "5 games",
+        "console_code": "tele-spiel"
+    },
+    {
+        "platform": "Telstar Arcade",
+        "link": "/platform/telstar-arcade/",
+        "games": "4 games",
+        "console_code": "telstar-arcade"
+    },
+    {
+        "platform": "Terminal",
+        "link": "/platform/terminal/",
+        "games": "119 games",
+        "console_code": "terminal"
+    },
+    {
+        "platform": "Thomson MO",
+        "link": "/platform/thomson-mo/",
+        "games": "86 games",
+        "console_code": "thomson-mo"
+    },
+    {
+        "platform": "Thomson TO",
+        "link": "/platform/thomson-to/",
+        "games": "107 games",
+        "console_code": "thomson-to"
+    },
+    {
+        "platform": "TI Programmable Calculator",
+        "link": "/platform/ti-programmable-calculator/",
+        "games": "149 games",
+        "console_code": "ti-programmable-calculator"
+    },
+    {
+        "platform": "TI-99/4A",
+        "link": "/platform/ti-994a/",
+        "games": "217 games",
+        "console_code": "ti-994a"
+    },
+    {
+        "platform": "Tiki 100",
+        "link": "/platform/tiki-100/",
+        "games": "4 games",
+        "console_code": "tiki-100"
+    },
+    {
+        "platform": "TIM",
+        "link": "/platform/tim/",
+        "games": "2 games",
+        "console_code": "tim"
+    },
+    {
+        "platform": "Timex Sinclair 2068",
+        "link": "/platform/timex-sinclair-2068/",
+        "games": "14 games",
+        "console_code": "timex-sinclair-2068"
+    },
+    {
+        "platform": "Tizen",
+        "link": "/platform/tizen/",
+        "games": "34 games",
+        "console_code": "tizen"
+    },
+    {
+        "platform": "Tomahawk F1",
+        "link": "/platform/tomahawk-f1/",
+        "games": "30 games",
+        "console_code": "tomahawk-f1"
+    },
+    {
+        "platform": "Tomy Tutor",
+        "link": "/platform/tomy-tutor/",
+        "games": "18 games",
+        "console_code": "tomy-tutor"
+    },
+    {
+        "platform": "Toshiba Pasopia",
+        "link": "/platform/pasopia/",
+        "games": "29 games",
+        "console_code": "pasopia"
+    },
+    {
+        "platform": "Triton",
+        "link": "/platform/triton/",
+        "games": "4 games",
+        "console_code": "triton"
+    },
+    {
+        "platform": "TRS-80",
+        "link": "/platform/trs-80/",
+        "games": "1,361 games",
+        "console_code": "trs-80"
+    },
+    {
+        "platform": "TRS-80 CoCo",
+        "link": "/platform/trs-80-coco/",
+        "games": "1,115 games",
+        "console_code": "trs-80-coco"
+    },
+    {
+        "platform": "TRS-80 MC-10",
+        "link": "/platform/trs-80-mc-10/",
+        "games": "12 games",
+        "console_code": "trs-80-mc-10"
+    },
+    {
+        "platform": "TRS-80 Model 100",
+        "link": "/platform/trs-80-model-100/",
+        "games": "4 games",
+        "console_code": "trs-80-model-100"
+    },
+    {
+        "platform": "TurboGrafx CD",
+        "link": "/platform/turbografx-cd/",
+        "games": "419 games",
+        "console_code": "turbografx-cd"
+    },
+    {
+        "platform": "TurboGrafx-16",
+        "link": "/platform/turbo-grafx/",
+        "games": "305 games",
+        "console_code": "turbo-grafx"
+    },
+    {
+        "platform": "tvOS",
+        "link": "/platform/tvos/",
+        "games": "612 games",
+        "console_code": "tvos"
+    },
+    {
+        "platform": "V.Flash",
+        "link": "/platform/vflash/",
+        "games": "10 games",
+        "console_code": "vflash"
+    },
+    {
+        "platform": "V.Smile",
+        "link": "/platform/vsmile/",
+        "games": "13 games",
+        "console_code": "vsmile"
+    },
+    {
+        "platform": "Vectrex",
+        "link": "/platform/vectrex/",
+        "games": "39 games",
+        "console_code": "vectrex"
+    },
+    {
+        "platform": "Versatile",
+        "link": "/platform/versatile/",
+        "games": "2 games",
+        "console_code": "versatile"
+    },
+    {
+        "platform": "VIC-20",
+        "link": "/platform/vic-20/",
+        "games": "939 games",
+        "console_code": "vic-20"
+    },
+    {
+        "platform": "VideoBrain",
+        "link": "/platform/videobrain/",
+        "games": "11 games",
+        "console_code": "videobrain"
+    },
+    {
+        "platform": "Videopac+ G7400",
+        "link": "/platform/videopac-g7400/",
+        "games": "39 games",
+        "console_code": "videopac-g7400"
+    },
+    {
+        "platform": "Virtual Boy",
+        "link": "/platform/virtual-boy/",
+        "games": "23 games",
+        "console_code": "virtual-boy"
+    },
+    {
+        "platform": "VIS",
+        "link": "/platform/vis/",
+        "games": "6 games",
+        "console_code": "vis"
+    },
+    {
+        "platform": "visionOS",
+        "link": "/platform/visionos/",
+        "games": "20 games",
+        "console_code": "visionos"
+    },
+    {
+        "platform": "Wang 2200",
+        "link": "/platform/wang2200/",
+        "games": "52 games",
+        "console_code": "wang2200"
+    },
+    {
+        "platform": "watchOS",
+        "link": "/platform/watchos/",
+        "games": "27 games",
+        "console_code": "watchos"
+    },
+    {
+        "platform": "webOS",
+        "link": "/platform/webos/",
+        "games": "75 games",
+        "console_code": "webos"
+    },
+    {
+        "platform": "Wii",
+        "link": "/platform/wii/",
+        "games": "2,594 games",
+        "console_code": "wii"
+    },
+    {
+        "platform": "Wii U",
+        "link": "/platform/wii-u/",
+        "games": "1,386 games",
+        "console_code": "wii-u"
+    },
+    {
+        "platform": "Windows",
+        "link": "/platform/windows/",
+        "games": "71,085 games",
+        "console_code": "windows"
+    },
+    {
+        "platform": "Windows 16-bit",
+        "link": "/platform/win3x/",
+        "games": "2,195 games",
+        "console_code": "win3x"
+    },
+    {
+        "platform": "Windows Apps",
+        "link": "/platform/windows-apps/",
+        "games": "2,463 games",
+        "console_code": "windows-apps"
+    },
+    {
+        "platform": "Windows Mobile",
+        "link": "/platform/windowsmobile/",
+        "games": "308 games",
+        "console_code": "windowsmobile"
+    },
+    {
+        "platform": "Windows Phone",
+        "link": "/platform/windows-phone/",
+        "games": "847 games",
+        "console_code": "windows-phone"
+    },
+    {
+        "platform": "WIPI",
+        "link": "/platform/wipi/",
+        "games": "12 games",
+        "console_code": "wipi"
+    },
+    {
+        "platform": "WonderSwan",
+        "link": "/platform/wonderswan/",
+        "games": "105 games",
+        "console_code": "wonderswan"
+    },
+    {
+        "platform": "WonderSwan Color",
+        "link": "/platform/wonderswan-color/",
+        "games": "46 games",
+        "console_code": "wonderswan-color"
+    },
+    {
+        "platform": "XaviXPORT",
+        "link": "/platform/xavixport/",
+        "games": "4 games",
+        "console_code": "xavixport"
+    },
+    {
+        "platform": "Xbox",
+        "link": "/platform/xbox/",
+        "games": "1,033 games",
+        "console_code": "xbox"
+    },
+    {
+        "platform": "Xbox 360",
+        "link": "/platform/xbox360/",
+        "games": "4,826 games",
+        "console_code": "xbox360"
+    },
+    {
+        "platform": "Xbox Cloud Gaming",
+        "link": "/platform/xboxcloudgaming/",
+        "games": "359 games",
+        "console_code": "xboxcloudgaming"
+    },
+    {
+        "platform": "Xbox One",
+        "link": "/platform/xbox-one/",
+        "games": "8,488 games",
+        "console_code": "xbox-one"
+    },
+    {
+        "platform": "Xbox Series",
+        "link": "/platform/xbox-series/",
+        "games": "3,902 games",
+        "console_code": "xbox-series"
+    },
+    {
+        "platform": "Xerox Alto",
+        "link": "/platform/xerox-alto/",
+        "games": "10 games",
+        "console_code": "xerox-alto"
+    },
+    {
+        "platform": "Z-machine",
+        "link": "/platform/z-machine/",
+        "games": "40 games",
+        "console_code": "z-machine"
+    },
+    {
+        "platform": "Zeebo",
+        "link": "/platform/zeebo/",
+        "games": "58 games",
+        "console_code": "zeebo"
+    },
+    {
+        "platform": "Zilog Z80",
+        "link": "/platform/z80/",
+        "games": "50 games",
+        "console_code": "z80"
+    },
+    {
+        "platform": "Zilog Z8000",
+        "link": "/platform/zilog-z8000/",
+        "games": "1 games",
+        "console_code": "zilog-z8000"
+    },
+    {
+        "platform": "Zodiac",
+        "link": "/platform/zodiac/",
+        "games": "15 games",
+        "console_code": "zodiac"
+    },
+    {
+        "platform": "Zune",
+        "link": "/platform/zune/",
+        "games": "5 games",
+        "console_code": "zune"
+    },
+    {
+        "platform": "ZX Spectrum",
+        "link": "/platform/zx-spectrum/",
+        "games": "3,629 games",
+        "console_code": "zx-spectrum"
+    },
+    {
+        "platform": "ZX Spectrum Next",
+        "link": "/platform/zx-spectrum-next/",
+        "games": "55 games",
+        "console_code": "zx-spectrum-next"
+    },
+    {
+        "platform": "ZX80",
+        "link": "/platform/zx80/",
+        "games": "13 games",
+        "console_code": "zx80"
+    },
+    {
+        "platform": "ZX81",
+        "link": "/platform/zx81/",
+        "games": "304 games",
+        "console_code": "zx81"
+    }
+]
