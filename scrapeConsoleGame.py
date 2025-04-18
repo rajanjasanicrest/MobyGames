@@ -72,12 +72,12 @@ def scrapeGamesByConsole():
                 game_code = game['game_code']
                 if game['link'] not in scrapped_games:
                     # if game_code == 'galaga':
-                    print(game['link'])
-                    overview_url = game['link']
-                    release_url = f'{game['link']}/releases/{console_code}'
-                    specs_ratings_url = f'{game['link']}/specs/{console_code}'
-                    covers_url = f'{game['link']}/covers/{console_code}'
-                    screenshots_url = f'{game['link']}/screenshots/{console_code}'
+                    print(game["link"])
+                    overview_url = game["link"]
+                    release_url = f'{game["link"]}/releases/{console_code}'
+                    specs_ratings_url = f'{game["link"]}/specs/{console_code}'
+                    covers_url = f'{game["link"]}/covers/{console_code}'
+                    screenshots_url = f'{game["link"]}/screenshots/{console_code}'
 
                     game_overview = scrapper.get_overview_details(overview_url)
                     if game_overview is None:

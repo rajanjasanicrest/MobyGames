@@ -644,10 +644,6 @@ def merge_covers_releases_data(covers, releases):
             else:
                 merged_data[release_entry['console']].append(release_entry)
 
-    # Save merged result to a new JSON file
-    with open('StarWars.json', 'w', encoding='utf-8') as merged_file:
-        json.dump(merged_data, merged_file, indent=4)
-
     print('Covers and releases data merged successfully.')
 
     return merged_data
