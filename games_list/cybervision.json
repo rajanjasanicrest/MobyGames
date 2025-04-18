@@ -1,0 +1,57 @@
+[
+    {
+        "game": "Battleship",
+        "link": "https://www.mobygames.com/game/172387/battleship/",
+        "game_code": "battleship"
+    },
+    {
+        "game": "Bullfight",
+        "link": "https://www.mobygames.com/game/171868/bullfight/",
+        "game_code": "bullfight"
+    },
+    {
+        "game": "Crossword",
+        "link": "https://www.mobygames.com/game/172388/crossword/",
+        "game_code": "crossword"
+    },
+    {
+        "game": "Cybervision 2001 (included games)",
+        "link": "https://www.mobygames.com/game/172292/cybervision-2001-included-games/",
+        "game_code": "cybervision-2001-included-games"
+    },
+    {
+        "game": "Hangman",
+        "link": "https://www.mobygames.com/game/172296/hangman/",
+        "game_code": "hangman"
+    },
+    {
+        "game": "Mastermind",
+        "link": "https://www.mobygames.com/game/171960/mastermind/",
+        "game_code": "mastermind"
+    },
+    {
+        "game": "Maze",
+        "link": "https://www.mobygames.com/game/171828/maze/",
+        "game_code": "maze"
+    },
+    {
+        "game": "Moon Base",
+        "link": "https://www.mobygames.com/game/171826/moon-base/",
+        "game_code": "moon-base"
+    },
+    {
+        "game": "Slot Machine",
+        "link": "https://www.mobygames.com/game/172095/slot-machine/",
+        "game_code": "slot-machine"
+    },
+    {
+        "game": "Star Flex",
+        "link": "https://www.mobygames.com/game/172096/star-flex/",
+        "game_code": "star-flex"
+    },
+    {
+        "game": "Trivia",
+        "link": "https://www.mobygames.com/game/171961/trivia/",
+        "game_code": "trivia"
+    }
+]

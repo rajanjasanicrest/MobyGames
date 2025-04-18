@@ -1,0 +1,407 @@
+[
+    {
+        "game": "4 Row Mastermind",
+        "link": "https://www.mobygames.com/game/177625/4-row-mastermind/",
+        "game_code": "4-row-mastermind"
+    },
+    {
+        "game": "5 Row Mastermind",
+        "link": "https://www.mobygames.com/game/177626/5-row-mastermind/",
+        "game_code": "5-row-mastermind"
+    },
+    {
+        "game": "A Tic-Tac-Toe Game for your Elf Computer",
+        "link": "https://www.mobygames.com/game/135844/a-tic-tac-toe-game-for-your-elf-computer/",
+        "game_code": "a-tic-tac-toe-game-for-your-elf-computer"
+    },
+    {
+        "game": "Bagels",
+        "link": "https://www.mobygames.com/game/63104/bagels/",
+        "game_code": "bagels"
+    },
+    {
+        "game": "Baseball",
+        "link": "https://www.mobygames.com/game/177623/baseball/",
+        "game_code": "baseball"
+    },
+    {
+        "game": "Beat the Machine",
+        "link": "https://www.mobygames.com/game/179007/beat-the-machine/",
+        "game_code": "beat-the-machine"
+    },
+    {
+        "game": "Blackjack",
+        "link": "https://www.mobygames.com/game/135846/blackjack/",
+        "game_code": "blackjack"
+    },
+    {
+        "game": "Blackjack in Tiny BASIC",
+        "link": "https://www.mobygames.com/game/178268/blackjack-in-tiny-basic/",
+        "game_code": "blackjack-in-tiny-basic"
+    },
+    {
+        "game": "Blockade",
+        "link": "https://www.mobygames.com/game/179003/blockade/",
+        "game_code": "blockade"
+    },
+    {
+        "game": "Breakout",
+        "link": "https://www.mobygames.com/game/177367/breakout/",
+        "game_code": "breakout"
+    },
+    {
+        "game": "COSMAC Battle of Numbers",
+        "link": "https://www.mobygames.com/game/178672/cosmac-battle-of-numbers/",
+        "game_code": "cosmac-battle-of-numbers"
+    },
+    {
+        "game": "Cosmac Cowboy Target Game",
+        "link": "https://www.mobygames.com/game/179009/cosmac-cowboy-target-game/",
+        "game_code": "cosmac-cowboy-target-game"
+    },
+    {
+        "game": "Craps",
+        "link": "https://www.mobygames.com/game/177352/craps/",
+        "game_code": "craps"
+    },
+    {
+        "game": "Deduce",
+        "link": "https://www.mobygames.com/game/145937/deduce/",
+        "game_code": "deduce"
+    },
+    {
+        "game": "ELF II Tiny BASIC (included games)",
+        "link": "https://www.mobygames.com/game/135740/elf-ii-tiny-basic-included-games/",
+        "game_code": "elf-ii-tiny-basic-included-games"
+    },
+    {
+        "game": "Flip-A-Round",
+        "link": "https://www.mobygames.com/game/235566/flip-a-round/",
+        "game_code": "flip-a-round"
+    },
+    {
+        "game": "Flip-Flop Game",
+        "link": "https://www.mobygames.com/game/106077/flip-flop-game/",
+        "game_code": "flip-flop-game"
+    },
+    {
+        "game": "Football",
+        "link": "https://www.mobygames.com/game/178084/football/",
+        "game_code": "football"
+    },
+    {
+        "game": "Game Pak",
+        "link": "https://www.mobygames.com/game/235579/game-pak/",
+        "game_code": "game-pak"
+    },
+    {
+        "game": "Graphic Lunar Lander",
+        "link": "https://www.mobygames.com/game/177627/graphic-lunar-lander/",
+        "game_code": "graphic-lunar-lander"
+    },
+    {
+        "game": "Guess My Number Program",
+        "link": "https://www.mobygames.com/game/107906/guess-my-number-program/",
+        "game_code": "guess-my-number-program"
+    },
+    {
+        "game": "Hamurabi",
+        "link": "https://www.mobygames.com/game/22232/hamurabi/",
+        "game_code": "hamurabi"
+    },
+    {
+        "game": "Hangman Program",
+        "link": "https://www.mobygames.com/game/135821/hangman-program/",
+        "game_code": "hangman-program"
+    },
+    {
+        "game": "Hi-Low Game",
+        "link": "https://www.mobygames.com/game/135724/hi-low-game/",
+        "game_code": "hi-low-game"
+    },
+    {
+        "game": "Hidden Pea Game",
+        "link": "https://www.mobygames.com/game/235570/hidden-pea-game/",
+        "game_code": "hidden-pea-game"
+    },
+    {
+        "game": "Hunt the Hermit",
+        "link": "https://www.mobygames.com/game/111845/hunt-the-hermit/",
+        "game_code": "hunt-the-hermit"
+    },
+    {
+        "game": "Jackpot",
+        "link": "https://www.mobygames.com/game/107905/jackpot/",
+        "game_code": "jackpot"
+    },
+    {
+        "game": "Killer Robots",
+        "link": "https://www.mobygames.com/game/235563/killer-robots/",
+        "game_code": "killer-robots"
+    },
+    {
+        "game": "Life",
+        "link": "https://www.mobygames.com/game/235564/life/",
+        "game_code": "life"
+    },
+    {
+        "game": "Life",
+        "link": "https://www.mobygames.com/game/179005/life/",
+        "game_code": "life"
+    },
+    {
+        "game": "LIFE on VIP",
+        "link": "https://www.mobygames.com/game/135847/life-on-vip/",
+        "game_code": "life-on-vip"
+    },
+    {
+        "game": "Machine Language Game of Life Program for COSMAC 1802",
+        "link": "https://www.mobygames.com/game/135791/machine-language-game-of-life-program-for-cosmac-1802/",
+        "game_code": "machine-language-game-of-life-program-for-cosmac-1802"
+    },
+    {
+        "game": "Mastermind",
+        "link": "https://www.mobygames.com/game/235589/mastermind/",
+        "game_code": "mastermind"
+    },
+    {
+        "game": "Mouse Trap: A Game for Pixie Graphics",
+        "link": "https://www.mobygames.com/game/135819/mouse-trap-a-game-for-pixie-graphics/",
+        "game_code": "mouse-trap-a-game-for-pixie-graphics"
+    },
+    {
+        "game": "Nim",
+        "link": "https://www.mobygames.com/game/111846/nim/",
+        "game_code": "nim"
+    },
+    {
+        "game": "Nim Game",
+        "link": "https://www.mobygames.com/game/178883/nim-game/",
+        "game_code": "nim-game"
+    },
+    {
+        "game": "Nim Game",
+        "link": "https://www.mobygames.com/game/177365/nim-game/",
+        "game_code": "nim-game"
+    },
+    {
+        "game": "Number Guess",
+        "link": "https://www.mobygames.com/game/178747/number-guess/",
+        "game_code": "number-guess"
+    },
+    {
+        "game": "One-Armed Bandit",
+        "link": "https://www.mobygames.com/game/103092/one-armed-bandit/",
+        "game_code": "one-armed-bandit"
+    },
+    {
+        "game": "Ortho",
+        "link": "https://www.mobygames.com/game/235572/ortho/",
+        "game_code": "ortho"
+    },
+    {
+        "game": "Othello",
+        "link": "https://www.mobygames.com/game/115963/othello/",
+        "game_code": "othello"
+    },
+    {
+        "game": "Pinball",
+        "link": "https://www.mobygames.com/game/103143/pinball/",
+        "game_code": "pinball"
+    },
+    {
+        "game": "Ping-Pong",
+        "link": "https://www.mobygames.com/game/135822/ping-pong/",
+        "game_code": "ping-pong"
+    },
+    {
+        "game": "PIPs for VIPs",
+        "link": "https://www.mobygames.com/game/177881/pips-for-vips/",
+        "game_code": "pips-for-vips"
+    },
+    {
+        "game": "Poor Man's Mouse Trap Game",
+        "link": "https://www.mobygames.com/game/135820/poor-mans-mouse-trap-game/",
+        "game_code": "poor-mans-mouse-trap-game"
+    },
+    {
+        "game": "Programs for the Cosmac Elf: Music and Games",
+        "link": "https://www.mobygames.com/game/135782/programs-for-the-cosmac-elf-music-and-games/",
+        "game_code": "programs-for-the-cosmac-elf-music-and-games"
+    },
+    {
+        "game": "RCA Cosmac VIP CDP18S711 Instruction Manual (included games)",
+        "link": "https://www.mobygames.com/game/177764/rca-cosmac-vip-cdp18s711-instruction-manual-included-games/",
+        "game_code": "rca-cosmac-vip-cdp18s711-instruction-manual-included-games"
+    },
+    {
+        "game": "RCA COSMAC VIP: Game Manual",
+        "link": "https://www.mobygames.com/game/135807/rca-cosmac-vip-game-manual/",
+        "game_code": "rca-cosmac-vip-game-manual"
+    },
+    {
+        "game": "RCA COSMAC VIP: Instruction Manual for VP-111 (included games)",
+        "link": "https://www.mobygames.com/game/135805/rca-cosmac-vip-instruction-manual-for-vp-111-included-games/",
+        "game_code": "rca-cosmac-vip-instruction-manual-for-vp-111-included-games"
+    },
+    {
+        "game": "Rocket",
+        "link": "https://www.mobygames.com/game/135723/rocket/",
+        "game_code": "rocket"
+    },
+    {
+        "game": "Russian Roulette",
+        "link": "https://www.mobygames.com/game/106402/russian-roulette/",
+        "game_code": "russian-roulette"
+    },
+    {
+        "game": "Russian Roulette",
+        "link": "https://www.mobygames.com/game/235571/russian-roulette/",
+        "game_code": "russian-roulette"
+    },
+    {
+        "game": "Simon Elf",
+        "link": "https://www.mobygames.com/game/177451/simon-elf/",
+        "game_code": "simon-elf"
+    },
+    {
+        "game": "Simple Simon Game",
+        "link": "https://www.mobygames.com/game/178079/simple-simon-game/",
+        "game_code": "simple-simon-game"
+    },
+    {
+        "game": "Slot Machine",
+        "link": "https://www.mobygames.com/game/178745/slot-machine/",
+        "game_code": "slot-machine"
+    },
+    {
+        "game": "Snake Race",
+        "link": "https://www.mobygames.com/game/107904/snake-race/",
+        "game_code": "snake-race"
+    },
+    {
+        "game": "Space Invaders",
+        "link": "https://www.mobygames.com/game/235573/space-invaders/",
+        "game_code": "space-invaders"
+    },
+    {
+        "game": "Sub Chase",
+        "link": "https://www.mobygames.com/game/102929/sub-chase/",
+        "game_code": "sub-chase"
+    },
+    {
+        "game": "Swords",
+        "link": "https://www.mobygames.com/game/104133/swords/",
+        "game_code": "swords"
+    },
+    {
+        "game": "Target Game with Jumping Man",
+        "link": "https://www.mobygames.com/game/178317/target-game-with-jumping-man/",
+        "game_code": "target-game-with-jumping-man"
+    },
+    {
+        "game": "The 15 Puzzle",
+        "link": "https://www.mobygames.com/game/178978/the-15-puzzle/",
+        "game_code": "the-15-puzzle"
+    },
+    {
+        "game": "The First Book of Tiny BASIC Programs",
+        "link": "https://www.mobygames.com/game/184541/the-first-book-of-tiny-basic-programs/",
+        "game_code": "the-first-book-of-tiny-basic-programs"
+    },
+    {
+        "game": "The Great COSMAC Cosmos Puzzle",
+        "link": "https://www.mobygames.com/game/178376/the-great-cosmac-cosmos-puzzle/",
+        "game_code": "the-great-cosmac-cosmos-puzzle"
+    },
+    {
+        "game": "The Target Game",
+        "link": "https://www.mobygames.com/game/135738/the-target-game/",
+        "game_code": "the-target-game"
+    },
+    {
+        "game": "Tic-Tac-Toe Program for Two Players",
+        "link": "https://www.mobygames.com/game/178233/tic-tac-toe-program-for-two-players/",
+        "game_code": "tic-tac-toe-program-for-two-players"
+    },
+    {
+        "game": "Torus Life Program",
+        "link": "https://www.mobygames.com/game/178232/torus-life-program/",
+        "game_code": "torus-life-program"
+    },
+    {
+        "game": "Treasure Hunt",
+        "link": "https://www.mobygames.com/game/178008/treasure-hunt/",
+        "game_code": "treasure-hunt"
+    },
+    {
+        "game": "TV Casino I: Blackjack",
+        "link": "https://www.mobygames.com/game/84876/tv-casino-i-blackjack/",
+        "game_code": "tv-casino-i-blackjack"
+    },
+    {
+        "game": "VIP Animal Race",
+        "link": "https://www.mobygames.com/game/117957/vip-animal-race/",
+        "game_code": "vip-animal-race"
+    },
+    {
+        "game": "VIP Blackjack",
+        "link": "https://www.mobygames.com/game/178007/vip-blackjack/",
+        "game_code": "vip-blackjack"
+    },
+    {
+        "game": "VIP Blockout",
+        "link": "https://www.mobygames.com/game/117964/vip-blockout/",
+        "game_code": "vip-blockout"
+    },
+    {
+        "game": "VIP Bowling",
+        "link": "https://www.mobygames.com/game/117954/vip-bowling/",
+        "game_code": "vip-bowling"
+    },
+    {
+        "game": "VIP Craps",
+        "link": "https://www.mobygames.com/game/178011/vip-craps/",
+        "game_code": "vip-craps"
+    },
+    {
+        "game": "VIP Deflection",
+        "link": "https://www.mobygames.com/game/117922/vip-deflection/",
+        "game_code": "vip-deflection"
+    },
+    {
+        "game": "VIP Lunar Lander",
+        "link": "https://www.mobygames.com/game/117921/vip-lunar-lander/",
+        "game_code": "vip-lunar-lander"
+    },
+    {
+        "game": "VIP Most Dangerous Game",
+        "link": "https://www.mobygames.com/game/117959/vip-most-dangerous-game/",
+        "game_code": "vip-most-dangerous-game"
+    },
+    {
+        "game": "VIP Programmable Space Fighters",
+        "link": "https://www.mobygames.com/game/117960/vip-programmable-space-fighters/",
+        "game_code": "vip-programmable-space-fighters"
+    },
+    {
+        "game": "VIP Reversi",
+        "link": "https://www.mobygames.com/game/117952/vip-reversi/",
+        "game_code": "vip-reversi"
+    },
+    {
+        "game": "VIP Sequence Shoot",
+        "link": "https://www.mobygames.com/game/112710/vip-sequence-shoot/",
+        "game_code": "vip-sequence-shoot"
+    },
+    {
+        "game": "VIP Slide",
+        "link": "https://www.mobygames.com/game/112708/vip-slide/",
+        "game_code": "vip-slide"
+    },
+    {
+        "game": "VIP Sum Fun",
+        "link": "https://www.mobygames.com/game/112709/vip-sum-fun/",
+        "game_code": "vip-sum-fun"
+    }
+]

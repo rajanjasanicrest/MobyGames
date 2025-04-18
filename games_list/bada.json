@@ -1,0 +1,402 @@
+[
+    {
+        "game": "Angry Birds",
+        "link": "https://www.mobygames.com/game/46396/angry-birds/",
+        "game_code": "angry-birds"
+    },
+    {
+        "game": "Armageddon Squadron",
+        "link": "https://www.mobygames.com/game/48459/armageddon-squadron/",
+        "game_code": "armageddon-squadron"
+    },
+    {
+        "game": "Asphalt 5",
+        "link": "https://www.mobygames.com/game/50355/asphalt-5/",
+        "game_code": "asphalt-5"
+    },
+    {
+        "game": "Asphalt 6: Adrenaline",
+        "link": "https://www.mobygames.com/game/63342/asphalt-6-adrenaline/",
+        "game_code": "asphalt-6-adrenaline"
+    },
+    {
+        "game": "Azkend",
+        "link": "https://www.mobygames.com/game/40196/azkend/",
+        "game_code": "azkend"
+    },
+    {
+        "game": "Azkend 2: The World Beneath",
+        "link": "https://www.mobygames.com/game/55168/azkend-2-the-world-beneath/",
+        "game_code": "azkend-2-the-world-beneath"
+    },
+    {
+        "game": "Backbreaker Football",
+        "link": "https://www.mobygames.com/game/48841/backbreaker-football/",
+        "game_code": "backbreaker-football"
+    },
+    {
+        "game": "Blades of Fury",
+        "link": "https://www.mobygames.com/game/45891/blades-of-fury/",
+        "game_code": "blades-of-fury"
+    },
+    {
+        "game": "Brad Mitchum: Lost in Time",
+        "link": "https://www.mobygames.com/game/160587/brad-mitchum-lost-in-time/",
+        "game_code": "brad-mitchum-lost-in-time"
+    },
+    {
+        "game": "Bruce Lee: Dragon Warrior",
+        "link": "https://www.mobygames.com/game/72381/bruce-lee-dragon-warrior/",
+        "game_code": "bruce-lee-dragon-warrior"
+    },
+    {
+        "game": "Bubble Filler",
+        "link": "https://www.mobygames.com/game/227582/bubble-filler/",
+        "game_code": "bubble-filler"
+    },
+    {
+        "game": "Buka",
+        "link": "https://www.mobygames.com/game/73867/buka/",
+        "game_code": "buka"
+    },
+    {
+        "game": "Colorful Shapes",
+        "link": "https://www.mobygames.com/game/234967/colorful-shapes/",
+        "game_code": "colorful-shapes"
+    },
+    {
+        "game": "Crusade of Destiny",
+        "link": "https://www.mobygames.com/game/229401/crusade-of-destiny/",
+        "game_code": "crusade-of-destiny"
+    },
+    {
+        "game": "Dead Runner",
+        "link": "https://www.mobygames.com/game/48990/dead-runner/",
+        "game_code": "dead-runner"
+    },
+    {
+        "game": "Deicide 3: Distorted Existence",
+        "link": "https://www.mobygames.com/game/163215/deicide-3-distorted-existence/",
+        "game_code": "deicide-3-distorted-existence"
+    },
+    {
+        "game": "Doodle Fit",
+        "link": "https://www.mobygames.com/game/84367/doodle-fit/",
+        "game_code": "doodle-fit"
+    },
+    {
+        "game": "Doodle God",
+        "link": "https://www.mobygames.com/game/86456/doodle-god/",
+        "game_code": "doodle-god"
+    },
+    {
+        "game": "Dungeon Hunter",
+        "link": "https://www.mobygames.com/game/123573/dungeon-hunter/",
+        "game_code": "dungeon-hunter"
+    },
+    {
+        "game": "EVAC",
+        "link": "https://www.mobygames.com/game/73853/evac/",
+        "game_code": "evac"
+    },
+    {
+        "game": "Everlands",
+        "link": "https://www.mobygames.com/game/73893/everlands/",
+        "game_code": "everlands"
+    },
+    {
+        "game": "Farm Frenzy",
+        "link": "https://www.mobygames.com/game/44820/farm-frenzy/",
+        "game_code": "farm-frenzy"
+    },
+    {
+        "game": "Farm Frenzy 2",
+        "link": "https://www.mobygames.com/game/44818/farm-frenzy-2/",
+        "game_code": "farm-frenzy-2"
+    },
+    {
+        "game": "Flappy Toucan",
+        "link": "https://www.mobygames.com/game/64049/flappy-toucan/",
+        "game_code": "flappy-toucan"
+    },
+    {
+        "game": "Flight Control",
+        "link": "https://www.mobygames.com/game/45057/flight-control/",
+        "game_code": "flight-control"
+    },
+    {
+        "game": "Fruit Ninja",
+        "link": "https://www.mobygames.com/game/46651/fruit-ninja/",
+        "game_code": "fruit-ninja"
+    },
+    {
+        "game": "Hexxagon Labs",
+        "link": "https://www.mobygames.com/game/220885/hexxagon-labs/",
+        "game_code": "hexxagon-labs"
+    },
+    {
+        "game": "Hockey Nations 2010",
+        "link": "https://www.mobygames.com/game/49045/hockey-nations-2010/",
+        "game_code": "hockey-nations-2010"
+    },
+    {
+        "game": "Homerun Battle 3D",
+        "link": "https://www.mobygames.com/game/48207/homerun-battle-3d/",
+        "game_code": "homerun-battle-3d"
+    },
+    {
+        "game": "Iron Sight",
+        "link": "https://www.mobygames.com/game/40358/iron-sight/",
+        "game_code": "iron-sight"
+    },
+    {
+        "game": "James Cameron's Avatar",
+        "link": "https://www.mobygames.com/game/103281/james-camerons-avatar/",
+        "game_code": "james-camerons-avatar"
+    },
+    {
+        "game": "Jelly Wars",
+        "link": "https://www.mobygames.com/game/62354/jelly-wars/",
+        "game_code": "jelly-wars"
+    },
+    {
+        "game": "King Oddball",
+        "link": "https://www.mobygames.com/game/62765/king-oddball/",
+        "game_code": "king-oddball"
+    },
+    {
+        "game": "Let's Golf!",
+        "link": "https://www.mobygames.com/game/44592/lets-golf/",
+        "game_code": "lets-golf"
+    },
+    {
+        "game": "Let's Golf! 2",
+        "link": "https://www.mobygames.com/game/79774/lets-golf-2/",
+        "game_code": "lets-golf-2"
+    },
+    {
+        "game": "Magnetic Sports Soccer",
+        "link": "https://www.mobygames.com/game/48937/magnetic-sports-soccer/",
+        "game_code": "magnetic-sports-soccer"
+    },
+    {
+        "game": "Majesty: The Fantasy Kingdom Sim",
+        "link": "https://www.mobygames.com/game/52243/majesty-the-fantasy-kingdom-sim/",
+        "game_code": "majesty-the-fantasy-kingdom-sim"
+    },
+    {
+        "game": "Manic Miner",
+        "link": "https://www.mobygames.com/game/6440/manic-miner/",
+        "game_code": "manic-miner"
+    },
+    {
+        "game": "Memory Game",
+        "link": "https://www.mobygames.com/game/62345/memory-game/",
+        "game_code": "memory-game"
+    },
+    {
+        "game": "Modern Combat: Sandstorm",
+        "link": "https://www.mobygames.com/game/93499/modern-combat-sandstorm/",
+        "game_code": "modern-combat-sandstorm"
+    },
+    {
+        "game": "My Brute",
+        "link": "https://www.mobygames.com/game/40183/my-brute/",
+        "game_code": "my-brute"
+    },
+    {
+        "game": "My Little Baby",
+        "link": "https://www.mobygames.com/game/92005/my-little-baby/",
+        "game_code": "my-little-baby"
+    },
+    {
+        "game": "N.O.V.A.: Near Orbit Vanguard Alliance",
+        "link": "https://www.mobygames.com/game/46451/nova-near-orbit-vanguard-alliance/",
+        "game_code": "nova-near-orbit-vanguard-alliance"
+    },
+    {
+        "game": "Naught",
+        "link": "https://www.mobygames.com/game/65172/naught/",
+        "game_code": "naught"
+    },
+    {
+        "game": "Need for Speed: Hot Pursuit",
+        "link": "https://www.mobygames.com/game/123231/need-for-speed-hot-pursuit/",
+        "game_code": "need-for-speed-hot-pursuit"
+    },
+    {
+        "game": "NOM ZERO",
+        "link": "https://www.mobygames.com/game/129003/nom-zero/",
+        "game_code": "nom-zero"
+    },
+    {
+        "game": "Pac-Man: Championship Edition",
+        "link": "https://www.mobygames.com/game/28473/pac-man-championship-edition/",
+        "game_code": "pac-man-championship-edition"
+    },
+    {
+        "game": "Plants vs. Zombies",
+        "link": "https://www.mobygames.com/game/40621/plants-vs-zombies/",
+        "game_code": "plants-vs-zombies"
+    },
+    {
+        "game": "Puzkend",
+        "link": "https://www.mobygames.com/game/71799/puzkend/",
+        "game_code": "puzkend"
+    },
+    {
+        "game": "Raging Thunder II",
+        "link": "https://www.mobygames.com/game/49622/raging-thunder-ii/",
+        "game_code": "raging-thunder-ii"
+    },
+    {
+        "game": "Real Soccer 2010",
+        "link": "https://www.mobygames.com/game/104356/real-soccer-2010/",
+        "game_code": "real-soccer-2010"
+    },
+    {
+        "game": "Romance of Rome",
+        "link": "https://www.mobygames.com/game/43106/romance-of-rome/",
+        "game_code": "romance-of-rome"
+    },
+    {
+        "game": "Rugby Kicks",
+        "link": "https://www.mobygames.com/game/53129/rugby-kicks/",
+        "game_code": "rugby-kicks"
+    },
+    {
+        "game": "Rugby Nations 2010",
+        "link": "https://www.mobygames.com/game/124887/rugby-nations-2010/",
+        "game_code": "rugby-nations-2010"
+    },
+    {
+        "game": "Shift",
+        "link": "https://www.mobygames.com/game/51660/shift/",
+        "game_code": "shift"
+    },
+    {
+        "game": "Shogun: Rise of the Renegade",
+        "link": "https://www.mobygames.com/game/125730/shogun-rise-of-the-renegade/",
+        "game_code": "shogun-rise-of-the-renegade"
+    },
+    {
+        "game": "Shrek Kart",
+        "link": "https://www.mobygames.com/game/123483/shrek-kart/",
+        "game_code": "shrek-kart"
+    },
+    {
+        "game": "Slice It!",
+        "link": "https://www.mobygames.com/game/53722/slice-it/",
+        "game_code": "slice-it"
+    },
+    {
+        "game": "Snow Lines",
+        "link": "https://www.mobygames.com/game/220920/snow-lines/",
+        "game_code": "snow-lines"
+    },
+    {
+        "game": "Sparkle",
+        "link": "https://www.mobygames.com/game/27079/sparkle/",
+        "game_code": "sparkle"
+    },
+    {
+        "game": "Spider-Man: Total Mayhem",
+        "link": "https://www.mobygames.com/game/50055/spider-man-total-mayhem/",
+        "game_code": "spider-man-total-mayhem"
+    },
+    {
+        "game": "Stolen in 60 Seconds",
+        "link": "https://www.mobygames.com/game/121144/stolen-in-60-seconds/",
+        "game_code": "stolen-in-60-seconds"
+    },
+    {
+        "game": "Tank-O-Box",
+        "link": "https://www.mobygames.com/game/13757/tank-o-box/",
+        "game_code": "tank-o-box"
+    },
+    {
+        "game": "Tehra: Dark Warrior",
+        "link": "https://www.mobygames.com/game/95365/tehra-dark-warrior/",
+        "game_code": "tehra-dark-warrior"
+    },
+    {
+        "game": "Tennis in the Face",
+        "link": "https://www.mobygames.com/game/77912/tennis-in-the-face/",
+        "game_code": "tennis-in-the-face"
+    },
+    {
+        "game": "The Final Battle",
+        "link": "https://www.mobygames.com/game/218025/the-final-battle/",
+        "game_code": "the-final-battle"
+    },
+    {
+        "game": "The Settlers",
+        "link": "https://www.mobygames.com/game/54165/the-settlers/",
+        "game_code": "the-settlers"
+    },
+    {
+        "game": "The Sims 3",
+        "link": "https://www.mobygames.com/game/45549/the-sims-3/",
+        "game_code": "the-sims-3"
+    },
+    {
+        "game": "The Tiny Bang Story",
+        "link": "https://www.mobygames.com/game/51681/the-tiny-bang-story/",
+        "game_code": "the-tiny-bang-story"
+    },
+    {
+        "game": "The Treasures of Montezuma 2",
+        "link": "https://www.mobygames.com/game/54829/the-treasures-of-montezuma-2/",
+        "game_code": "the-treasures-of-montezuma-2"
+    },
+    {
+        "game": "Tom Clancy's Splinter Cell: Conviction",
+        "link": "https://www.mobygames.com/game/105870/tom-clancys-splinter-cell-conviction/",
+        "game_code": "tom-clancys-splinter-cell-conviction"
+    },
+    {
+        "game": "Trigna",
+        "link": "https://www.mobygames.com/game/227654/trigna/",
+        "game_code": "trigna"
+    },
+    {
+        "game": "Turbo Grannies",
+        "link": "https://www.mobygames.com/game/51673/turbo-grannies/",
+        "game_code": "turbo-grannies"
+    },
+    {
+        "game": "Twice!",
+        "link": "https://www.mobygames.com/game/44763/twice/",
+        "game_code": "twice"
+    },
+    {
+        "game": "Uno",
+        "link": "https://www.mobygames.com/game/49359/uno/",
+        "game_code": "uno"
+    },
+    {
+        "game": "Vampires Vs Werewolves",
+        "link": "https://www.mobygames.com/game/229437/vampires-vs-werewolves/",
+        "game_code": "vampires-vs-werewolves"
+    },
+    {
+        "game": "Worms",
+        "link": "https://www.mobygames.com/game/35109/worms/",
+        "game_code": "worms"
+    },
+    {
+        "game": "Zeebo Family Pack",
+        "link": "https://www.mobygames.com/game/42797/zeebo-family-pack/",
+        "game_code": "zeebo-family-pack"
+    },
+    {
+        "game": "Zombie Infection",
+        "link": "https://www.mobygames.com/game/129037/zombie-infection/",
+        "game_code": "zombie-infection"
+    },
+    {
+        "game": "Zombie Runaway",
+        "link": "https://www.mobygames.com/game/52295/zombie-runaway/",
+        "game_code": "zombie-runaway"
+    }
+]

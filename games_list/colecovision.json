@@ -1,0 +1,777 @@
+[
+    {
+        "game": "Turbo",
+        "link": "https://www.mobygames.com/game/10252/turbo/",
+        "game_code": "turbo"
+    },
+    {
+        "game": "Frenzy",
+        "link": "https://www.mobygames.com/game/10262/frenzy/",
+        "game_code": "frenzy"
+    },
+    {
+        "game": "Q*bert",
+        "link": "https://www.mobygames.com/game/8853/qbert/",
+        "game_code": "qbert"
+    },
+    {
+        "game": "Pepper II",
+        "link": "https://www.mobygames.com/game/18715/pepper-ii/",
+        "game_code": "pepper-ii"
+    },
+    {
+        "game": "Zaxxon",
+        "link": "https://www.mobygames.com/game/411/zaxxon/",
+        "game_code": "zaxxon"
+    },
+    {
+        "game": "Donkey Kong Junior",
+        "link": "https://www.mobygames.com/game/7302/donkey-kong-junior/",
+        "game_code": "donkey-kong-junior"
+    },
+    {
+        "game": "Pitfall!",
+        "link": "https://www.mobygames.com/game/8793/pitfall/",
+        "game_code": "pitfall"
+    },
+    {
+        "game": "Lady Bug",
+        "link": "https://www.mobygames.com/game/10255/lady-bug/",
+        "game_code": "lady-bug"
+    },
+    {
+        "game": "Donkey Kong",
+        "link": "https://www.mobygames.com/game/574/donkey-kong/",
+        "game_code": "donkey-kong"
+    },
+    {
+        "game": "H.E.R.O.",
+        "link": "https://www.mobygames.com/game/10150/hero/",
+        "game_code": "hero"
+    },
+    {
+        "game": "Mr. Do!",
+        "link": "https://www.mobygames.com/game/9764/mr-do/",
+        "game_code": "mr-do"
+    },
+    {
+        "game": "BurgerTime",
+        "link": "https://www.mobygames.com/game/467/burgertime/",
+        "game_code": "burgertime"
+    },
+    {
+        "game": "Mouse Trap",
+        "link": "https://www.mobygames.com/game/9762/mouse-trap/",
+        "game_code": "mouse-trap"
+    },
+    {
+        "game": "Galaxian",
+        "link": "https://www.mobygames.com/game/137/galaxian/",
+        "game_code": "galaxian"
+    },
+    {
+        "game": "Popeye",
+        "link": "https://www.mobygames.com/game/9378/popeye/",
+        "game_code": "popeye"
+    },
+    {
+        "game": "Frogger",
+        "link": "https://www.mobygames.com/game/1540/frogger/",
+        "game_code": "frogger"
+    },
+    {
+        "game": "Gorf",
+        "link": "https://www.mobygames.com/game/10212/gorf/",
+        "game_code": "gorf"
+    },
+    {
+        "game": "Venture",
+        "link": "https://www.mobygames.com/game/9771/venture/",
+        "game_code": "venture"
+    },
+    {
+        "game": "Carnival",
+        "link": "https://www.mobygames.com/game/9766/carnival/",
+        "game_code": "carnival"
+    },
+    {
+        "game": "Defender",
+        "link": "https://www.mobygames.com/game/140/defender/",
+        "game_code": "defender"
+    },
+    {
+        "game": "Smurf: Rescue in Gargamel's Castle",
+        "link": "https://www.mobygames.com/game/10218/smurf-rescue-in-gargamels-castle/",
+        "game_code": "smurf-rescue-in-gargamels-castle"
+    },
+    {
+        "game": "WarGames",
+        "link": "https://www.mobygames.com/game/26914/wargames/",
+        "game_code": "wargames"
+    },
+    {
+        "game": "Antarctic Adventure",
+        "link": "https://www.mobygames.com/game/11543/antarctic-adventure/",
+        "game_code": "antarctic-adventure"
+    },
+    {
+        "game": "Cosmic Avenger",
+        "link": "https://www.mobygames.com/game/10241/cosmic-avenger/",
+        "game_code": "cosmic-avenger"
+    },
+    {
+        "game": "Pitfall II: Lost Caverns",
+        "link": "https://www.mobygames.com/game/6946/pitfall-ii-lost-caverns/",
+        "game_code": "pitfall-ii-lost-caverns"
+    },
+    {
+        "game": "Boulder Dash",
+        "link": "https://www.mobygames.com/game/4632/boulder-dash/",
+        "game_code": "boulder-dash"
+    },
+    {
+        "game": "Space Fury",
+        "link": "https://www.mobygames.com/game/10274/space-fury/",
+        "game_code": "space-fury"
+    },
+    {
+        "game": "Looping",
+        "link": "https://www.mobygames.com/game/10242/looping/",
+        "game_code": "looping"
+    },
+    {
+        "game": "Space Panic",
+        "link": "https://www.mobygames.com/game/10309/space-panic/",
+        "game_code": "space-panic"
+    },
+    {
+        "game": "Nova Blast",
+        "link": "https://www.mobygames.com/game/40622/nova-blast/",
+        "game_code": "nova-blast"
+    },
+    {
+        "game": "2010: The Graphic Action Game",
+        "link": "https://www.mobygames.com/game/22484/2010-the-graphic-action-game/",
+        "game_code": "2010-the-graphic-action-game"
+    },
+    {
+        "game": "Alcazar: The Forgotten Fortress",
+        "link": "https://www.mobygames.com/game/20227/alcazar-the-forgotten-fortress/",
+        "game_code": "alcazar-the-forgotten-fortress"
+    },
+    {
+        "game": "Alphabet Zoo",
+        "link": "https://www.mobygames.com/game/27782/alphabet-zoo/",
+        "game_code": "alphabet-zoo"
+    },
+    {
+        "game": "Amazing Bumpman",
+        "link": "https://www.mobygames.com/game/180835/amazing-bumpman/",
+        "game_code": "amazing-bumpman"
+    },
+    {
+        "game": "Amazing Snake",
+        "link": "https://www.mobygames.com/game/149188/amazing-snake/",
+        "game_code": "amazing-snake"
+    },
+    {
+        "game": "Aquattack",
+        "link": "https://www.mobygames.com/game/19789/aquattack/",
+        "game_code": "aquattack"
+    },
+    {
+        "game": "Artillery Duel",
+        "link": "https://www.mobygames.com/game/15775/artillery-duel/",
+        "game_code": "artillery-duel"
+    },
+    {
+        "game": "Astro Invader",
+        "link": "https://www.mobygames.com/game/29544/astro-invader/",
+        "game_code": "astro-invader"
+    },
+    {
+        "game": "Astrododge",
+        "link": "https://www.mobygames.com/game/57334/astrododge/",
+        "game_code": "astrododge"
+    },
+    {
+        "game": "B.C. II: Grog's Revenge",
+        "link": "https://www.mobygames.com/game/10328/bc-ii-grogs-revenge/",
+        "game_code": "bc-ii-grogs-revenge"
+    },
+    {
+        "game": "BC's Quest for Tires",
+        "link": "https://www.mobygames.com/game/7196/bcs-quest-for-tires/",
+        "game_code": "bcs-quest-for-tires"
+    },
+    {
+        "game": "Beamrider",
+        "link": "https://www.mobygames.com/game/8929/beamrider/",
+        "game_code": "beamrider"
+    },
+    {
+        "game": "Blockade Runner",
+        "link": "https://www.mobygames.com/game/19788/blockade-runner/",
+        "game_code": "blockade-runner"
+    },
+    {
+        "game": "Brain Strainers",
+        "link": "https://www.mobygames.com/game/10247/brain-strainers/",
+        "game_code": "brain-strainers"
+    },
+    {
+        "game": "Buck Rogers: Planet of Zoom",
+        "link": "https://www.mobygames.com/game/1813/buck-rogers-planet-of-zoom/",
+        "game_code": "buck-rogers-planet-of-zoom"
+    },
+    {
+        "game": "Bump 'N' Jump",
+        "link": "https://www.mobygames.com/game/9306/bump-n-jump/",
+        "game_code": "bump-n-jump"
+    },
+    {
+        "game": "Cabbage Patch Kids Adventures in the Park",
+        "link": "https://www.mobygames.com/game/10269/cabbage-patch-kids-adventures-in-the-park/",
+        "game_code": "cabbage-patch-kids-adventures-in-the-park"
+    },
+    {
+        "game": "Campaign '84",
+        "link": "https://www.mobygames.com/game/158302/campaign-84/",
+        "game_code": "campaign-84"
+    },
+    {
+        "game": "Centipede",
+        "link": "https://www.mobygames.com/game/141/centipede/",
+        "game_code": "centipede"
+    },
+    {
+        "game": "Choplifter!",
+        "link": "https://www.mobygames.com/game/8127/choplifter/",
+        "game_code": "choplifter"
+    },
+    {
+        "game": "Chuck Norris Superkicks",
+        "link": "https://www.mobygames.com/game/15766/chuck-norris-superkicks/",
+        "game_code": "chuck-norris-superkicks"
+    },
+    {
+        "game": "Comic Bakery",
+        "link": "https://www.mobygames.com/game/19473/comic-bakery/",
+        "game_code": "comic-bakery"
+    },
+    {
+        "game": "Congo Bongo",
+        "link": "https://www.mobygames.com/game/3955/congo-bongo/",
+        "game_code": "congo-bongo"
+    },
+    {
+        "game": "Cosmic Crisis",
+        "link": "https://www.mobygames.com/game/88999/cosmic-crisis/",
+        "game_code": "cosmic-crisis"
+    },
+    {
+        "game": "Cracky",
+        "link": "https://www.mobygames.com/game/201968/cracky/",
+        "game_code": "cracky"
+    },
+    {
+        "game": "Cross Force",
+        "link": "https://www.mobygames.com/game/28265/cross-force/",
+        "game_code": "cross-force"
+    },
+    {
+        "game": "Cye",
+        "link": "https://www.mobygames.com/game/33808/cye/",
+        "game_code": "cye"
+    },
+    {
+        "game": "DacMan",
+        "link": "https://www.mobygames.com/game/35258/dacman/",
+        "game_code": "dacman"
+    },
+    {
+        "game": "Destructor",
+        "link": "https://www.mobygames.com/game/26082/destructor/",
+        "game_code": "destructor"
+    },
+    {
+        "game": "Dr. Seuss's Fix-Up the Mix-Up Puzzler",
+        "link": "https://www.mobygames.com/game/10251/dr-seusss-fix-up-the-mix-up-puzzler/",
+        "game_code": "dr-seusss-fix-up-the-mix-up-puzzler"
+    },
+    {
+        "game": "Dragonfire",
+        "link": "https://www.mobygames.com/game/9358/dragonfire/",
+        "game_code": "dragonfire"
+    },
+    {
+        "game": "Escape from the Mindmaster",
+        "link": "https://www.mobygames.com/game/27830/escape-from-the-mindmaster/",
+        "game_code": "escape-from-the-mindmaster"
+    },
+    {
+        "game": "Evolution",
+        "link": "https://www.mobygames.com/game/7597/evolution/",
+        "game_code": "evolution"
+    },
+    {
+        "game": "FaceMaker",
+        "link": "https://www.mobygames.com/game/6683/facemaker/",
+        "game_code": "facemaker"
+    },
+    {
+        "game": "Fathom",
+        "link": "https://www.mobygames.com/game/16614/fathom/",
+        "game_code": "fathom"
+    },
+    {
+        "game": "Flipper Slipper",
+        "link": "https://www.mobygames.com/game/158303/flipper-slipper/",
+        "game_code": "flipper-slipper"
+    },
+    {
+        "game": "Fortune Builder",
+        "link": "https://www.mobygames.com/game/158317/fortune-builder/",
+        "game_code": "fortune-builder"
+    },
+    {
+        "game": "Fraction Fever",
+        "link": "https://www.mobygames.com/game/71169/fraction-fever/",
+        "game_code": "fraction-fever"
+    },
+    {
+        "game": "Frantic Freddy",
+        "link": "https://www.mobygames.com/game/62638/frantic-freddy/",
+        "game_code": "frantic-freddy"
+    },
+    {
+        "game": "Frogger II: ThreeeDeep!",
+        "link": "https://www.mobygames.com/game/7265/frogger-ii-threeedeep/",
+        "game_code": "frogger-ii-threeedeep"
+    },
+    {
+        "game": "Front Line",
+        "link": "https://www.mobygames.com/game/13914/front-line/",
+        "game_code": "front-line"
+    },
+    {
+        "game": "Gateway to Apshai",
+        "link": "https://www.mobygames.com/game/10258/gateway-to-apshai/",
+        "game_code": "gateway-to-apshai"
+    },
+    {
+        "game": "Gust Buster",
+        "link": "https://www.mobygames.com/game/158325/gust-buster/",
+        "game_code": "gust-buster"
+    },
+    {
+        "game": "Gyruss",
+        "link": "https://www.mobygames.com/game/7720/gyruss/",
+        "game_code": "gyruss"
+    },
+    {
+        "game": "Illusions",
+        "link": "https://www.mobygames.com/game/158347/illusions/",
+        "game_code": "illusions"
+    },
+    {
+        "game": "It's Only Rock 'n' Roll",
+        "link": "https://www.mobygames.com/game/70214/its-only-rock-n-roll/",
+        "game_code": "its-only-rock-n-roll"
+    },
+    {
+        "game": "James Bond 007",
+        "link": "https://www.mobygames.com/game/11400/james-bond-007/",
+        "game_code": "james-bond-007"
+    },
+    {
+        "game": "Jukebox",
+        "link": "https://www.mobygames.com/game/158348/jukebox/",
+        "game_code": "jukebox"
+    },
+    {
+        "game": "Jumpman Junior",
+        "link": "https://www.mobygames.com/game/12833/jumpman-junior/",
+        "game_code": "jumpman-junior"
+    },
+    {
+        "game": "Jungle Hunt",
+        "link": "https://www.mobygames.com/game/133/jungle-hunt/",
+        "game_code": "jungle-hunt"
+    },
+    {
+        "game": "Ken Uston BlackJack/Poker",
+        "link": "https://www.mobygames.com/game/26502/ken-uston-blackjackpoker/",
+        "game_code": "ken-uston-blackjackpoker"
+    },
+    {
+        "game": "Kevtris",
+        "link": "https://www.mobygames.com/game/25289/kevtris/",
+        "game_code": "kevtris"
+    },
+    {
+        "game": "Keystone Kapers",
+        "link": "https://www.mobygames.com/game/9475/keystone-kapers/",
+        "game_code": "keystone-kapers"
+    },
+    {
+        "game": "King & Balloon",
+        "link": "https://www.mobygames.com/game/19630/king-balloon/",
+        "game_code": "king-balloon"
+    },
+    {
+        "game": "Learning with Leeper",
+        "link": "https://www.mobygames.com/game/56058/learning-with-leeper/",
+        "game_code": "learning-with-leeper"
+    },
+    {
+        "game": "Linking Logic",
+        "link": "https://www.mobygames.com/game/120495/linking-logic/",
+        "game_code": "linking-logic"
+    },
+    {
+        "game": "Logic Levels",
+        "link": "https://www.mobygames.com/game/145793/logic-levels/",
+        "game_code": "logic-levels"
+    },
+    {
+        "game": "MazezaM Challenge",
+        "link": "https://www.mobygames.com/game/130685/mazezam-challenge/",
+        "game_code": "mazezam-challenge"
+    },
+    {
+        "game": "Memory Manor",
+        "link": "https://www.mobygames.com/game/30880/memory-manor/",
+        "game_code": "memory-manor"
+    },
+    {
+        "game": "Meteoric Shower",
+        "link": "https://www.mobygames.com/game/158349/meteoric-shower/",
+        "game_code": "meteoric-shower"
+    },
+    {
+        "game": "Miner 2049er",
+        "link": "https://www.mobygames.com/game/8724/miner-2049er/",
+        "game_code": "miner-2049er"
+    },
+    {
+        "game": "Monkey Academy",
+        "link": "https://www.mobygames.com/game/19521/monkey-academy/",
+        "game_code": "monkey-academy"
+    },
+    {
+        "game": "Montezuma's Revenge",
+        "link": "https://www.mobygames.com/game/1178/montezumas-revenge/",
+        "game_code": "montezumas-revenge"
+    },
+    {
+        "game": "Moonsweeper",
+        "link": "https://www.mobygames.com/game/13909/moonsweeper/",
+        "game_code": "moonsweeper"
+    },
+    {
+        "game": "Motocross Racer",
+        "link": "https://www.mobygames.com/game/15851/motocross-racer/",
+        "game_code": "motocross-racer"
+    },
+    {
+        "game": "Mountain King",
+        "link": "https://www.mobygames.com/game/10770/mountain-king/",
+        "game_code": "mountain-king"
+    },
+    {
+        "game": "Mr. Do!'s Castle",
+        "link": "https://www.mobygames.com/game/10630/mr-dos-castle/",
+        "game_code": "mr-dos-castle"
+    },
+    {
+        "game": "Oil's Well",
+        "link": "https://www.mobygames.com/game/1427/oils-well/",
+        "game_code": "oils-well"
+    },
+    {
+        "game": "Omega Race",
+        "link": "https://www.mobygames.com/game/14089/omega-race/",
+        "game_code": "omega-race"
+    },
+    {
+        "game": "One-on-One",
+        "link": "https://www.mobygames.com/game/488/one-on-one/",
+        "game_code": "one-on-one"
+    },
+    {
+        "game": "Pitstop",
+        "link": "https://www.mobygames.com/game/19270/pitstop/",
+        "game_code": "pitstop"
+    },
+    {
+        "game": "Princess Quest",
+        "link": "https://www.mobygames.com/game/130615/princess-quest/",
+        "game_code": "princess-quest"
+    },
+    {
+        "game": "Q*bert's Qubes",
+        "link": "https://www.mobygames.com/game/13141/qberts-qubes/",
+        "game_code": "qberts-qubes"
+    },
+    {
+        "game": "Quest for Quintana Roo",
+        "link": "https://www.mobygames.com/game/12347/quest-for-quintana-roo/",
+        "game_code": "quest-for-quintana-roo"
+    },
+    {
+        "game": "River Raid",
+        "link": "https://www.mobygames.com/game/6947/river-raid/",
+        "game_code": "river-raid"
+    },
+    {
+        "game": "Robin Hood",
+        "link": "https://www.mobygames.com/game/16020/robin-hood/",
+        "game_code": "robin-hood"
+    },
+    {
+        "game": "Roc 'N Rope",
+        "link": "https://www.mobygames.com/game/10261/roc-n-rope/",
+        "game_code": "roc-n-rope"
+    },
+    {
+        "game": "Rock n' Bolt",
+        "link": "https://www.mobygames.com/game/12966/rock-n-bolt/",
+        "game_code": "rock-n-bolt"
+    },
+    {
+        "game": "Rocky Super Action Boxing",
+        "link": "https://www.mobygames.com/game/26522/rocky-super-action-boxing/",
+        "game_code": "rocky-super-action-boxing"
+    },
+    {
+        "game": "Rolloverture",
+        "link": "https://www.mobygames.com/game/158351/rolloverture/",
+        "game_code": "rolloverture"
+    },
+    {
+        "game": "Sammy Lightfoot",
+        "link": "https://www.mobygames.com/game/15273/sammy-lightfoot/",
+        "game_code": "sammy-lightfoot"
+    },
+    {
+        "game": "Sector Alpha",
+        "link": "https://www.mobygames.com/game/158353/sector-alpha/",
+        "game_code": "sector-alpha"
+    },
+    {
+        "game": "Sewer Sam",
+        "link": "https://www.mobygames.com/game/20199/sewer-sam/",
+        "game_code": "sewer-sam"
+    },
+    {
+        "game": "Shifted",
+        "link": "https://www.mobygames.com/game/77227/shifted/",
+        "game_code": "shifted"
+    },
+    {
+        "game": "Sir Lancelot",
+        "link": "https://www.mobygames.com/game/16027/sir-lancelot/",
+        "game_code": "sir-lancelot"
+    },
+    {
+        "game": "Skiing",
+        "link": "https://www.mobygames.com/game/158354/skiing/",
+        "game_code": "skiing"
+    },
+    {
+        "game": "Sky Jaguar",
+        "link": "https://www.mobygames.com/game/19523/sky-jaguar/",
+        "game_code": "sky-jaguar"
+    },
+    {
+        "game": "Slither",
+        "link": "https://www.mobygames.com/game/26558/slither/",
+        "game_code": "slither"
+    },
+    {
+        "game": "Slurpy",
+        "link": "https://www.mobygames.com/game/158357/slurpy/",
+        "game_code": "slurpy"
+    },
+    {
+        "game": "Spectar",
+        "link": "https://www.mobygames.com/game/29545/spectar/",
+        "game_code": "spectar"
+    },
+    {
+        "game": "Spectron",
+        "link": "https://www.mobygames.com/game/52947/spectron/",
+        "game_code": "spectron"
+    },
+    {
+        "game": "Spy Hunter",
+        "link": "https://www.mobygames.com/game/7668/spy-hunter/",
+        "game_code": "spy-hunter"
+    },
+    {
+        "game": "Squish 'em",
+        "link": "https://www.mobygames.com/game/28761/squish-em/",
+        "game_code": "squish-em"
+    },
+    {
+        "game": "Star Trek: Strategic Operations Simulator",
+        "link": "https://www.mobygames.com/game/12177/star-trek-strategic-operations-simulator/",
+        "game_code": "star-trek-strategic-operations-simulator"
+    },
+    {
+        "game": "Star Wars",
+        "link": "https://www.mobygames.com/game/3929/star-wars/",
+        "game_code": "star-wars"
+    },
+    {
+        "game": "Steamroller",
+        "link": "https://www.mobygames.com/game/28636/steamroller/",
+        "game_code": "steamroller"
+    },
+    {
+        "game": "Strike It!",
+        "link": "https://www.mobygames.com/game/158518/strike-it/",
+        "game_code": "strike-it"
+    },
+    {
+        "game": "SubRoc 3-D",
+        "link": "https://www.mobygames.com/game/63884/subroc-3-d/",
+        "game_code": "subroc-3-d"
+    },
+    {
+        "game": "Super Action Baseball",
+        "link": "https://www.mobygames.com/game/10254/super-action-baseball/",
+        "game_code": "super-action-baseball"
+    },
+    {
+        "game": "Super Action Football",
+        "link": "https://www.mobygames.com/game/158358/super-action-football/",
+        "game_code": "super-action-football"
+    },
+    {
+        "game": "Super Action Football",
+        "link": "https://www.mobygames.com/game/26541/super-action-football/",
+        "game_code": "super-action-football"
+    },
+    {
+        "game": "Super Cobra",
+        "link": "https://www.mobygames.com/game/10840/super-cobra/",
+        "game_code": "super-cobra"
+    },
+    {
+        "game": "Sydney Hunter and the Sacred Tribe",
+        "link": "https://www.mobygames.com/game/130581/sydney-hunter-and-the-sacred-tribe/",
+        "game_code": "sydney-hunter-and-the-sacred-tribe"
+    },
+    {
+        "game": "Tank Wars",
+        "link": "https://www.mobygames.com/game/102294/tank-wars/",
+        "game_code": "tank-wars"
+    },
+    {
+        "game": "Tapper",
+        "link": "https://www.mobygames.com/game/298/tapper/",
+        "game_code": "tapper"
+    },
+    {
+        "game": "Tarzan",
+        "link": "https://www.mobygames.com/game/180868/tarzan/",
+        "game_code": "tarzan"
+    },
+    {
+        "game": "Telly Turtle",
+        "link": "https://www.mobygames.com/game/10422/telly-turtle/",
+        "game_code": "telly-turtle"
+    },
+    {
+        "game": "The Activision Decathlon",
+        "link": "https://www.mobygames.com/game/11537/the-activision-decathlon/",
+        "game_code": "the-activision-decathlon"
+    },
+    {
+        "game": "The Dam Busters",
+        "link": "https://www.mobygames.com/game/9517/the-dam-busters/",
+        "game_code": "the-dam-busters"
+    },
+    {
+        "game": "The Dukes of Hazzard",
+        "link": "https://www.mobygames.com/game/10293/the-dukes-of-hazzard/",
+        "game_code": "the-dukes-of-hazzard"
+    },
+    {
+        "game": "The Heist",
+        "link": "https://www.mobygames.com/game/10259/the-heist/",
+        "game_code": "the-heist"
+    },
+    {
+        "game": "Threshold",
+        "link": "https://www.mobygames.com/game/15744/threshold/",
+        "game_code": "threshold"
+    },
+    {
+        "game": "Time Pilot",
+        "link": "https://www.mobygames.com/game/12834/time-pilot/",
+        "game_code": "time-pilot"
+    },
+    {
+        "game": "Tomarc the Barbarian",
+        "link": "https://www.mobygames.com/game/15909/tomarc-the-barbarian/",
+        "game_code": "tomarc-the-barbarian"
+    },
+    {
+        "game": "Tournament Tennis",
+        "link": "https://www.mobygames.com/game/17371/tournament-tennis/",
+        "game_code": "tournament-tennis"
+    },
+    {
+        "game": "Tutankham",
+        "link": "https://www.mobygames.com/game/10841/tutankham/",
+        "game_code": "tutankham"
+    },
+    {
+        "game": "Up 'n Down",
+        "link": "https://www.mobygames.com/game/25093/up-n-down/",
+        "game_code": "up-n-down"
+    },
+    {
+        "game": "Victory",
+        "link": "https://www.mobygames.com/game/26559/victory/",
+        "game_code": "victory"
+    },
+    {
+        "game": "War Room",
+        "link": "https://www.mobygames.com/game/126309/war-room/",
+        "game_code": "war-room"
+    },
+    {
+        "game": "Wing War",
+        "link": "https://www.mobygames.com/game/16627/wing-war/",
+        "game_code": "wing-war"
+    },
+    {
+        "game": "Wizard of Id's WizMath",
+        "link": "https://www.mobygames.com/game/41277/wizard-of-ids-wizmath/",
+        "game_code": "wizard-of-ids-wizmath"
+    },
+    {
+        "game": "Word Feud",
+        "link": "https://www.mobygames.com/game/158373/word-feud/",
+        "game_code": "word-feud"
+    },
+    {
+        "game": "Xonox Double-Ender: Artillery Duel and Chuck Norris Superkicks",
+        "link": "https://www.mobygames.com/game/15776/xonox-double-ender-artillery-duel-and-chuck-norris-superkicks/",
+        "game_code": "xonox-double-ender-artillery-duel-and-chuck-norris-superkicks"
+    },
+    {
+        "game": "Zenji",
+        "link": "https://www.mobygames.com/game/9175/zenji/",
+        "game_code": "zenji"
+    },
+    {
+        "game": "Zombie Calavera: Prologue",
+        "link": "https://www.mobygames.com/game/132167/zombie-calavera-prologue/",
+        "game_code": "zombie-calavera-prologue"
+    }
+]

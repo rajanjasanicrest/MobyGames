@@ -1,0 +1,22 @@
+[
+    {
+        "game": "Defender",
+        "link": "https://www.mobygames.com/game/140/defender/",
+        "game_code": "defender"
+    },
+    {
+        "game": "Space Force",
+        "link": "https://www.mobygames.com/game/92993/space-force/",
+        "game_code": "space-force"
+    },
+    {
+        "game": "Super Cobra",
+        "link": "https://www.mobygames.com/game/10840/super-cobra/",
+        "game_code": "super-cobra"
+    },
+    {
+        "game": "Turtles",
+        "link": "https://www.mobygames.com/game/28961/turtles/",
+        "game_code": "turtles"
+    }
+]
