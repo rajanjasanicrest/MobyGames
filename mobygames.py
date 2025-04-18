@@ -32,14 +32,17 @@ def upload_image_to_s3(image_url, bucket_name, folder="covers/"):
         parsed_url = urlparse(image_url)
         filename = os.path.basename(parsed_url.path)
 
-        print(response.content)
-
         # Ensure filename is valid
         if not filename:
             raise ValueError("Invalid image URL, no filename found")
 
         # Define S3 key (folder + filename)
         s3_key = f"{folder}{filename}"
+
+        print("Response status code:", response.status_code)
+        print("Filename:", filename)
+        print("Bucket name:", bucket_name)
+        print("S3 Key:", s3_key)
 
         # Upload to S3
         s3_client = boto3.client("s3")
