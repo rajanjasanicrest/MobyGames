@@ -17,39 +17,6 @@ def scrapeGamesByConsole():
         console_games = []
 
         if console_code in [
-            "atari-vcs",
-            "atom",
-            "arb",
-            "bada",
-            "bally-astrocade",
-            "beos",
-            "blu-ray-disc-player",
-            "blacknut",
-            "brew",
-            "bubble",
-            "camputers-lynx",
-            "casio-loopy",
-            "casio-programmable-calculator",
-            "casio-pv-1000",
-            "cd-i",
-            "cdtv",
-            "champion-2711",
-            "channel-f",
-            "clickstart",
-            "colecoadam",
-            "colecovision",
-            "colour-genie",
-            "c128",
-            "commodore-16-plus4",
-            "pet",
-            "compal-80",
-            "compucolor-i",
-            "compucolor-ii",
-            "compucorp-programmable-calculator",
-            "fred-cosmac",
-            "cpm",
-            "creativision",
-            "cybervision"
         ]:
 
             with open(f'games_list/{console_code}.json', 'r', encoding='utf-8') as file:
@@ -57,6 +24,8 @@ def scrapeGamesByConsole():
 
             scrapped_games = []
             safe_platform_name = platform['platform'].replace("/", "").replace("\\", "").replace("?", "").replace("*", "").replace(':','')
+            if os.path.exists(f'data/{safe_platform_name}.xlsx'):
+                continue
             if os.path.exists(f'data/{safe_platform_name}.json'):
                 with open(f'data/{safe_platform_name}.json', 'r', encoding='utf-8') as file:
                     scrapped_games = json.load(file)

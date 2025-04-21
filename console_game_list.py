@@ -33,7 +33,49 @@ if __name__ == '__main__':
         page = context.new_page()
         for platform in platforms:
             
-            if platform['console_code'] in ['atari-2600']:
+            if platform['console_code'] in [
+                'dai',
+                'danger-os',
+                'dedicated-console',
+                'dedicated-handheld',
+                'didj',
+                'digiblast',
+                'dragon-3264',
+                'dreamcast',
+                'dvd-player',
+                'ecd-micromind',
+                'electron',
+                'enterprise',
+                'epoch-cassette-vision',
+                'epoch-game-pocket-computer',
+                'epoch-super-cassette-vision',
+                'evercade',
+                'exelvision',
+                'exidy-sorcerer',
+                'mobile-custom',
+                'fire-os',
+                'fmtowns',
+                'fm-7',
+                'freebox',
+                'g-cluster',
+                'galaksija',
+                'gameboy',
+                'gameboy-color',
+                'game-gear',
+                'game-wave',
+                'game-com',
+                'gamecube',
+                'gamestick',
+                'gimini',
+                'gizmondo',
+                'gloud',
+                'glulx',
+                'gnex',
+                'gp2x',
+                'gp2x-wiz',
+                'gp32',
+                'gvm',
+            ]:
 
                 games_list = []
                 i = 0

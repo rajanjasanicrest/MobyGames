@@ -1,0 +1,102 @@
+[
+    {
+        "game": "Sonic Jam",
+        "link": "https://www.mobygames.com/game/31010/sonic-jam/",
+        "game_code": "sonic-jam"
+    },
+    {
+        "game": "Batman & Robin",
+        "link": "https://www.mobygames.com/game/79620/batman-robin/",
+        "game_code": "batman-robin"
+    },
+    {
+        "game": "Centipede",
+        "link": "https://www.mobygames.com/game/79637/centipede/",
+        "game_code": "centipede"
+    },
+    {
+        "game": "Duke Nukem 3D",
+        "link": "https://www.mobygames.com/game/37385/duke-nukem-3d/",
+        "game_code": "duke-nukem-3d"
+    },
+    {
+        "game": "Fighters Megamix",
+        "link": "https://www.mobygames.com/game/198702/fighters-megamix/",
+        "game_code": "fighters-megamix"
+    },
+    {
+        "game": "Frogger",
+        "link": "https://www.mobygames.com/game/66733/frogger/",
+        "game_code": "frogger"
+    },
+    {
+        "game": "Henry",
+        "link": "https://www.mobygames.com/game/16709/henry/",
+        "game_code": "henry"
+    },
+    {
+        "game": "Indy 500",
+        "link": "https://www.mobygames.com/game/59344/indy-500/",
+        "game_code": "indy-500"
+    },
+    {
+        "game": "Jeopardy!",
+        "link": "https://www.mobygames.com/game/79638/jeopardy/",
+        "game_code": "jeopardy"
+    },
+    {
+        "game": "Lights Out",
+        "link": "https://www.mobygames.com/game/60267/lights-out/",
+        "game_code": "lights-out"
+    },
+    {
+        "game": "Monopoly",
+        "link": "https://www.mobygames.com/game/79621/monopoly/",
+        "game_code": "monopoly"
+    },
+    {
+        "game": "Mortal Kombat Trilogy",
+        "link": "https://www.mobygames.com/game/2036/mortal-kombat-trilogy/",
+        "game_code": "mortal-kombat-trilogy"
+    },
+    {
+        "game": "Quiz Wiz: Cyber Trivia",
+        "link": "https://www.mobygames.com/game/60266/quiz-wiz-cyber-trivia/",
+        "game_code": "quiz-wiz-cyber-trivia"
+    },
+    {
+        "game": "Resident Evil 2",
+        "link": "https://www.mobygames.com/game/56576/resident-evil-2/",
+        "game_code": "resident-evil-2"
+    },
+    {
+        "game": "Scrabble",
+        "link": "https://www.mobygames.com/game/79639/scrabble/",
+        "game_code": "scrabble"
+    },
+    {
+        "game": "The Lost World: Jurassic Park",
+        "link": "https://www.mobygames.com/game/16707/the-lost-world-jurassic-park/",
+        "game_code": "the-lost-world-jurassic-park"
+    },
+    {
+        "game": "Tiger Casino",
+        "link": "https://www.mobygames.com/game/16708/tiger-casino/",
+        "game_code": "tiger-casino"
+    },
+    {
+        "game": "Wheel of Fortune",
+        "link": "https://www.mobygames.com/game/79631/wheel-of-fortune/",
+        "game_code": "wheel-of-fortune"
+    },
+    {
+        "game": "Wheel of Fortune 2",
+        "link": "https://www.mobygames.com/game/79634/wheel-of-fortune-2/",
+        "game_code": "wheel-of-fortune-2"
+    },
+    {
+        "game": "Williams Arcade Classics",
+        "link": "https://www.mobygames.com/game/1539/williams-arcade-classics/",
+        "game_code": "williams-arcade-classics"
+    }
+]
