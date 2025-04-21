@@ -11,7 +11,7 @@ if __name__ == '__main__':
     with sync_playwright() as p:
         print('Opening Browser...')
         browser = p.chromium.launch(
-            headless=False
+            headless=True
         )
 
         print('Browser opened.')
