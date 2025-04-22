@@ -1,16 +1,15 @@
+import pandas as pd
 import json
 
-with open('mobygames_platforms.json', 'r', encoding='utf-8') as f:
-    data = json.load(f)
+# Example list of JSON objects
+with open('mobygames_platforms.json', 'r', encoding='utf-8') as file:
+    data = json.load(file)
 
-updated_list = []
+# Convert the list of dictionaries to a DataFrame
+df = pd.DataFrame(data)
 
+# Write to Excel
+output_file = "platforms.xlsx"
+df.to_excel(output_file, index=False)
 
-for console in data:
-    print(console['link'])
-    console_code = console['link'].split('/')[-2]
-    console['console_code'] = console_code
-
-
-with open('mobygames_platforms.json', 'w', encoding='utf-8') as f:
-    data = json.dump( data, f, indent=4)
+print(f"Excel file '{output_file}' has been created.")
