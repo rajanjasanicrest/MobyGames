@@ -66,7 +66,7 @@ def scrapeGamesByConsole():
 
             scrapped_games = []
             safe_platform_name = platform['platform'].replace("/", "").replace("\\", "").replace("?", "").replace("*", "").replace(':','')
-            if os.path.exists(f'data/{safe_platform_name}.xlsx'):
+            if os.path.exists(f'excels/{safe_platform_name}.xlsx'):
                 continue
             if os.path.exists(f'data/{safe_platform_name}.json'):
                 with open(f'data/{safe_platform_name}.json', 'r', encoding='utf-8') as file:
