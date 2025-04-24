@@ -33,7 +33,7 @@ if __name__ == '__main__':
         for platform in platforms:
             
             games_dedup = []
-            if platform['console_code'] in ['gameboy-advance']:
+            if platform['console_code'] in ['genesis']:
                 print(f'getting list for platform {platform['platform']}')
                 page.goto(f"https://www.mobygames.com{platform['link']}", wait_until='domcontentloaded', timeout=60000)
                 year_links = []

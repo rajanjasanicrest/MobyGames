@@ -35,12 +35,8 @@ def scrapeGamesByConsole():
                 'evercade',
                 'exelvision',
                 'exidy-sorcerer',
-                'mobile-custom',
-                'fire-os',
                 'fmtowns',
                 'fm-7',
-                'freebox',
-                'g-cluster',
                 'galaksija',
                 'gameboy',
                 'gameboy-color',
@@ -49,16 +45,12 @@ def scrapeGamesByConsole():
                 'game-wave',
                 'game-com',
                 'gamecube',
-                'gamestick',
-                'gimini',
                 'gizmondo',
-                'gloud',
-                'glulx',
-                'gnex',
                 'gp2x',
                 'gp2x-wiz',
                 'gp32',
-                'gvm',
+                'genesis',
+                
             ]:
 
             with open(f'games_list/{console_code}.json', 'r', encoding='utf-8') as file:
