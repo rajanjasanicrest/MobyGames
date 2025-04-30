@@ -1,0 +1,647 @@
+[
+    {
+        "game": "2001: A Space Odyssey",
+        "link": "https://www.mobygames.com/game/221912/2001-a-space-odyssey/",
+        "game_code": "2001-a-space-odyssey"
+    },
+    {
+        "game": "2001: A Space Odyssey Part II",
+        "link": "https://www.mobygames.com/game/223670/2001-a-space-odyssey-part-ii/",
+        "game_code": "2001-a-space-odyssey-part-ii"
+    },
+    {
+        "game": "3-Biki no Kobuta no Daib\u014dken: Step1",
+        "link": "https://www.mobygames.com/game/229735/3-biki-no-kobuta-no-daiboken-step1/",
+        "game_code": "3-biki-no-kobuta-no-daiboken-step1"
+    },
+    {
+        "game": "3-Biki no Kobuta no Daib\u014dken: Step2",
+        "link": "https://www.mobygames.com/game/229736/3-biki-no-kobuta-no-daiboken-step2/",
+        "game_code": "3-biki-no-kobuta-no-daiboken-step2"
+    },
+    {
+        "game": "3-Biki no Kobuta no Daib\u014dken: Step3",
+        "link": "https://www.mobygames.com/game/229737/3-biki-no-kobuta-no-daiboken-step3/",
+        "game_code": "3-biki-no-kobuta-no-daiboken-step3"
+    },
+    {
+        "game": "Alice in Wonderland",
+        "link": "https://www.mobygames.com/game/161042/alice-in-wonderland/",
+        "game_code": "alice-in-wonderland"
+    },
+    {
+        "game": "Ame no Hi wa \u014cisogashi",
+        "link": "https://www.mobygames.com/game/221465/ame-no-hi-wa-oisogashi/",
+        "game_code": "ame-no-hi-wa-oisogashi"
+    },
+    {
+        "game": "Anata wa Mei Cameraman",
+        "link": "https://www.mobygames.com/game/223321/anata-wa-mei-cameraman/",
+        "game_code": "anata-wa-mei-cameraman"
+    },
+    {
+        "game": "Appoooh",
+        "link": "https://www.mobygames.com/game/130011/appoooh/",
+        "game_code": "appoooh"
+    },
+    {
+        "game": "Arale no Jump Up",
+        "link": "https://www.mobygames.com/game/217643/arale-no-jump-up/",
+        "game_code": "arale-no-jump-up"
+    },
+    {
+        "game": "Arranger",
+        "link": "https://www.mobygames.com/game/218059/arranger/",
+        "game_code": "arranger"
+    },
+    {
+        "game": "Back Gammon",
+        "link": "https://www.mobygames.com/game/233492/back-gammon/",
+        "game_code": "back-gammon"
+    },
+    {
+        "game": "Balloon Fight",
+        "link": "https://www.mobygames.com/game/8391/balloon-fight/",
+        "game_code": "balloon-fight"
+    },
+    {
+        "game": "Baseball Craze",
+        "link": "https://www.mobygames.com/game/236363/baseball-craze/",
+        "game_code": "baseball-craze"
+    },
+    {
+        "game": "Bean's Jack",
+        "link": "https://www.mobygames.com/game/219602/beans-jack/",
+        "game_code": "beans-jack"
+    },
+    {
+        "game": "Bubble Kund 1999",
+        "link": "https://www.mobygames.com/game/228732/bubble-kund-1999/",
+        "game_code": "bubble-kund-1999"
+    },
+    {
+        "game": "BurgerTime",
+        "link": "https://www.mobygames.com/game/467/burgertime/",
+        "game_code": "burgertime"
+    },
+    {
+        "game": "Cannon Ball",
+        "link": "https://www.mobygames.com/game/19608/cannon-ball/",
+        "game_code": "cannon-ball"
+    },
+    {
+        "game": "Chitei no Monster",
+        "link": "https://www.mobygames.com/game/237755/chitei-no-monster/",
+        "game_code": "chitei-no-monster"
+    },
+    {
+        "game": "Chitei Tanken",
+        "link": "https://www.mobygames.com/game/229335/chitei-tanken/",
+        "game_code": "chitei-tanken"
+    },
+    {
+        "game": "Color Ball",
+        "link": "https://www.mobygames.com/game/218226/color-ball/",
+        "game_code": "color-ball"
+    },
+    {
+        "game": "Computer BUG-9000",
+        "link": "https://www.mobygames.com/game/231862/computer-bug-9000/",
+        "game_code": "computer-bug-9000"
+    },
+    {
+        "game": "Cosmo Mutar",
+        "link": "https://www.mobygames.com/game/235160/cosmo-mutar/",
+        "game_code": "cosmo-mutar"
+    },
+    {
+        "game": "Cosmo Traveler",
+        "link": "https://www.mobygames.com/game/229404/cosmo-traveler/",
+        "game_code": "cosmo-traveler"
+    },
+    {
+        "game": "Cracky",
+        "link": "https://www.mobygames.com/game/201968/cracky/",
+        "game_code": "cracky"
+    },
+    {
+        "game": "Daidass\u014d",
+        "link": "https://www.mobygames.com/game/217825/daidasso/",
+        "game_code": "daidasso"
+    },
+    {
+        "game": "Dezeni Land",
+        "link": "https://www.mobygames.com/game/68841/dezeni-land/",
+        "game_code": "dezeni-land"
+    },
+    {
+        "game": "Dig Dug",
+        "link": "https://www.mobygames.com/game/139/dig-dug/",
+        "game_code": "dig-dug"
+    },
+    {
+        "game": "Dimensional Wars",
+        "link": "https://www.mobygames.com/game/219382/dimensional-wars/",
+        "game_code": "dimensional-wars"
+    },
+    {
+        "game": "Dish Carrier",
+        "link": "https://www.mobygames.com/game/223340/dish-carrier/",
+        "game_code": "dish-carrier"
+    },
+    {
+        "game": "Dog Fighter",
+        "link": "https://www.mobygames.com/game/219027/dog-fighter/",
+        "game_code": "dog-fighter"
+    },
+    {
+        "game": "Door Door",
+        "link": "https://www.mobygames.com/game/19735/door-door/",
+        "game_code": "door-door"
+    },
+    {
+        "game": "Dragon Slayer",
+        "link": "https://www.mobygames.com/game/18618/dragon-slayer/",
+        "game_code": "dragon-slayer"
+    },
+    {
+        "game": "Dream land",
+        "link": "https://www.mobygames.com/game/145885/dream-land/",
+        "game_code": "dream-land"
+    },
+    {
+        "game": "Driller Tanks",
+        "link": "https://www.mobygames.com/game/15551/driller-tanks/",
+        "game_code": "driller-tanks"
+    },
+    {
+        "game": "EGGY",
+        "link": "https://www.mobygames.com/game/118272/eggy/",
+        "game_code": "eggy"
+    },
+    {
+        "game": "Eric and the Floaters",
+        "link": "https://www.mobygames.com/game/72718/eric-and-the-floaters/",
+        "game_code": "eric-and-the-floaters"
+    },
+    {
+        "game": "Excitebike",
+        "link": "https://www.mobygames.com/game/7469/excitebike/",
+        "game_code": "excitebike"
+    },
+    {
+        "game": "F2 Grand Prix",
+        "link": "https://www.mobygames.com/game/235875/f2-grand-prix/",
+        "game_code": "f2-grand-prix"
+    },
+    {
+        "game": "Fan Fun",
+        "link": "https://www.mobygames.com/game/237166/fan-fun/",
+        "game_code": "fan-fun"
+    },
+    {
+        "game": "Field Wars",
+        "link": "https://www.mobygames.com/game/221155/field-wars/",
+        "game_code": "field-wars"
+    },
+    {
+        "game": "Fire Ball",
+        "link": "https://www.mobygames.com/game/218064/fire-ball/",
+        "game_code": "fire-ball"
+    },
+    {
+        "game": "Fire Rescue",
+        "link": "https://www.mobygames.com/game/20258/fire-rescue/",
+        "game_code": "fire-rescue"
+    },
+    {
+        "game": "Flappy",
+        "link": "https://www.mobygames.com/game/32586/flappy/",
+        "game_code": "flappy"
+    },
+    {
+        "game": "Flicky",
+        "link": "https://www.mobygames.com/game/19653/flicky/",
+        "game_code": "flicky"
+    },
+    {
+        "game": "Galaxian",
+        "link": "https://www.mobygames.com/game/137/galaxian/",
+        "game_code": "galaxian"
+    },
+    {
+        "game": "Geimu Ky\u014djin no Uch\u016b Ryok\u014d",
+        "link": "https://www.mobygames.com/game/232191/geimu-kyojin-no-uchu-ryoko/",
+        "game_code": "geimu-kyojin-no-uchu-ryoko"
+    },
+    {
+        "game": "Gekisen! Minami Taiheiy\u014d",
+        "link": "https://www.mobygames.com/game/236580/gekisen-minami-taiheiyo/",
+        "game_code": "gekisen-minami-taiheiyo"
+    },
+    {
+        "game": "Genma Taisen",
+        "link": "https://www.mobygames.com/game/58923/genma-taisen/",
+        "game_code": "genma-taisen"
+    },
+    {
+        "game": "Gink\u014d G\u014dt\u014d: Machinegun Joe vs The Mafia",
+        "link": "https://www.mobygames.com/game/226591/ginko-goto-machinegun-joe-vs-the-mafia/",
+        "game_code": "ginko-goto-machinegun-joe-vs-the-mafia"
+    },
+    {
+        "game": "Golf",
+        "link": "https://www.mobygames.com/game/7316/golf/",
+        "game_code": "golf"
+    },
+    {
+        "game": "Grobda",
+        "link": "https://www.mobygames.com/game/64500/grobda/",
+        "game_code": "grobda"
+    },
+    {
+        "game": "Gunman",
+        "link": "https://www.mobygames.com/game/223451/gunman/",
+        "game_code": "gunman"
+    },
+    {
+        "game": "Gyoza Panic",
+        "link": "https://www.mobygames.com/game/220515/gyoza-panic/",
+        "game_code": "gyoza-panic"
+    },
+    {
+        "game": "Happy Fret",
+        "link": "https://www.mobygames.com/game/210794/happy-fret/",
+        "game_code": "happy-fret"
+    },
+    {
+        "game": "Harvest",
+        "link": "https://www.mobygames.com/game/56203/harvest/",
+        "game_code": "harvest"
+    },
+    {
+        "game": "Heiankyo Alien",
+        "link": "https://www.mobygames.com/game/4483/heiankyo-alien/",
+        "game_code": "heiankyo-alien"
+    },
+    {
+        "game": "Help!",
+        "link": "https://www.mobygames.com/game/223337/help/",
+        "game_code": "help"
+    },
+    {
+        "game": "Hiyoko Fighter",
+        "link": "https://www.mobygames.com/game/221621/hiyoko-fighter/",
+        "game_code": "hiyoko-fighter"
+    },
+    {
+        "game": "Hyper Sports",
+        "link": "https://www.mobygames.com/game/15000/hyper-sports/",
+        "game_code": "hyper-sports"
+    },
+    {
+        "game": "Justice Knight",
+        "link": "https://www.mobygames.com/game/223599/justice-knight/",
+        "game_code": "justice-knight"
+    },
+    {
+        "game": "Kaeru Shooter",
+        "link": "https://www.mobygames.com/game/201504/kaeru-shooter/",
+        "game_code": "kaeru-shooter"
+    },
+    {
+        "game": "Kareina Kaito",
+        "link": "https://www.mobygames.com/game/223331/kareina-kaito/",
+        "game_code": "kareina-kaito"
+    },
+    {
+        "game": "Khufu-\u014c no Himitsu",
+        "link": "https://www.mobygames.com/game/58924/khufu-o-no-himitsu/",
+        "game_code": "khufu-o-no-himitsu"
+    },
+    {
+        "game": "Killer Station",
+        "link": "https://www.mobygames.com/game/223450/killer-station/",
+        "game_code": "killer-station"
+    },
+    {
+        "game": "Kinasai!",
+        "link": "https://www.mobygames.com/game/223453/kinasai/",
+        "game_code": "kinasai"
+    },
+    {
+        "game": "King Flappy",
+        "link": "https://www.mobygames.com/game/65164/king-flappy/",
+        "game_code": "king-flappy"
+    },
+    {
+        "game": "Laptick",
+        "link": "https://www.mobygames.com/game/64189/laptick/",
+        "game_code": "laptick"
+    },
+    {
+        "game": "Lode Runner",
+        "link": "https://www.mobygames.com/game/243/lode-runner/",
+        "game_code": "lode-runner"
+    },
+    {
+        "game": "Magnetic Field",
+        "link": "https://www.mobygames.com/game/217636/magnetic-field/",
+        "game_code": "magnetic-field"
+    },
+    {
+        "game": "Mappy",
+        "link": "https://www.mobygames.com/game/19631/mappy/",
+        "game_code": "mappy"
+    },
+    {
+        "game": "Mario Bros.",
+        "link": "https://www.mobygames.com/game/7301/mario-bros/",
+        "game_code": "mario-bros"
+    },
+    {
+        "game": "Mario Bros. Special",
+        "link": "https://www.mobygames.com/game/47160/mario-bros-special/",
+        "game_code": "mario-bros-special"
+    },
+    {
+        "game": "Medaka no Ky\u014ddai",
+        "link": "https://www.mobygames.com/game/212709/medaka-no-kyodai/",
+        "game_code": "medaka-no-kyodai"
+    },
+    {
+        "game": "Milky Way",
+        "link": "https://www.mobygames.com/game/228762/milky-way/",
+        "game_code": "milky-way"
+    },
+    {
+        "game": "Mistery Mountain",
+        "link": "https://www.mobygames.com/game/217497/mistery-mountain/",
+        "game_code": "mistery-mountain"
+    },
+    {
+        "game": "Moon Patrol",
+        "link": "https://www.mobygames.com/game/575/moon-patrol/",
+        "game_code": "moon-patrol"
+    },
+    {
+        "game": "Mr. Butterfly",
+        "link": "https://www.mobygames.com/game/223574/mr-butterfly/",
+        "game_code": "mr-butterfly"
+    },
+    {
+        "game": "Mystery House",
+        "link": "https://www.mobygames.com/game/143930/mystery-house/",
+        "game_code": "mystery-house"
+    },
+    {
+        "game": "Mystery House II",
+        "link": "https://www.mobygames.com/game/144602/mystery-house-ii/",
+        "game_code": "mystery-house-ii"
+    },
+    {
+        "game": "Nobunaga no Yab\u014d",
+        "link": "https://www.mobygames.com/game/123738/nobunaga-no-yabo/",
+        "game_code": "nobunaga-no-yabo"
+    },
+    {
+        "game": "Nuts & Milk",
+        "link": "https://www.mobygames.com/game/66159/nuts-milk/",
+        "game_code": "nuts-milk"
+    },
+    {
+        "game": "Omotesand\u014d Adventure",
+        "link": "https://www.mobygames.com/game/99264/omotesando-adventure/",
+        "game_code": "omotesando-adventure"
+    },
+    {
+        "game": "Pac-Land",
+        "link": "https://www.mobygames.com/game/13801/pac-land/",
+        "game_code": "pac-land"
+    },
+    {
+        "game": "Pac-Man",
+        "link": "https://www.mobygames.com/game/138/pac-man/",
+        "game_code": "pac-man"
+    },
+    {
+        "game": "Penkiya You-chan",
+        "link": "https://www.mobygames.com/game/235184/penkiya-you-chan/",
+        "game_code": "penkiya-you-chan"
+    },
+    {
+        "game": "Planet Wars",
+        "link": "https://www.mobygames.com/game/232571/planet-wars/",
+        "game_code": "planet-wars"
+    },
+    {
+        "game": "Portopia Renzoku Satsujin Jiken",
+        "link": "https://www.mobygames.com/game/39799/portopia-renzoku-satsujin-jiken/",
+        "game_code": "portopia-renzoku-satsujin-jiken"
+    },
+    {
+        "game": "Power Fail",
+        "link": "https://www.mobygames.com/game/210875/power-fail/",
+        "game_code": "power-fail"
+    },
+    {
+        "game": "Pretty Sheep",
+        "link": "https://www.mobygames.com/game/221185/pretty-sheep/",
+        "game_code": "pretty-sheep"
+    },
+    {
+        "game": "Princess Rescue",
+        "link": "https://www.mobygames.com/game/240840/princess-rescue/",
+        "game_code": "princess-rescue"
+    },
+    {
+        "game": "Punch Ball Mario Bros.",
+        "link": "https://www.mobygames.com/game/47175/punch-ball-mario-bros/",
+        "game_code": "punch-ball-mario-bros"
+    },
+    {
+        "game": "Rolling Shooter",
+        "link": "https://www.mobygames.com/game/223587/rolling-shooter/",
+        "game_code": "rolling-shooter"
+    },
+    {
+        "game": "Salad no Kuni no Tomato-hime",
+        "link": "https://www.mobygames.com/game/53911/salad-no-kuni-no-tomato-hime/",
+        "game_code": "salad-no-kuni-no-tomato-hime"
+    },
+    {
+        "game": "Sanjigen Bomberman",
+        "link": "https://www.mobygames.com/game/223452/sanjigen-bomberman/",
+        "game_code": "sanjigen-bomberman"
+    },
+    {
+        "game": "Sea Bomber",
+        "link": "https://www.mobygames.com/game/221376/sea-bomber/",
+        "game_code": "sea-bomber"
+    },
+    {
+        "game": "Seiken Densetsu",
+        "link": "https://www.mobygames.com/game/58942/seiken-densetsu/",
+        "game_code": "seiken-densetsu"
+    },
+    {
+        "game": "Set #1: Panzer and Blitzkrieg",
+        "link": "https://www.mobygames.com/game/204891/set-1-panzer-and-blitzkrieg/",
+        "game_code": "set-1-panzer-and-blitzkrieg"
+    },
+    {
+        "game": "Set #2: Starship Troopers and Invasion of the Mud People",
+        "link": "https://www.mobygames.com/game/204886/set-2-starship-troopers-and-invasion-of-the-mud-people/",
+        "game_code": "set-2-starship-troopers-and-invasion-of-the-mud-people"
+    },
+    {
+        "game": "Set #3: Fall of the Third Reich and Armorcar",
+        "link": "https://www.mobygames.com/game/204900/set-3-fall-of-the-third-reich-and-armorcar/",
+        "game_code": "set-3-fall-of-the-third-reich-and-armorcar"
+    },
+    {
+        "game": "Set #4: Mount Suribachi and Middle Earth",
+        "link": "https://www.mobygames.com/game/204904/set-4-mount-suribachi-and-middle-earth/",
+        "game_code": "set-4-mount-suribachi-and-middle-earth"
+    },
+    {
+        "game": "Sky Diver",
+        "link": "https://www.mobygames.com/game/217472/sky-diver/",
+        "game_code": "sky-diver"
+    },
+    {
+        "game": "Slalom",
+        "link": "https://www.mobygames.com/game/217471/slalom/",
+        "game_code": "slalom"
+    },
+    {
+        "game": "Snake & Snake",
+        "link": "https://www.mobygames.com/game/80047/snake-snake/",
+        "game_code": "snake-snake"
+    },
+    {
+        "game": "Soko-Ban",
+        "link": "https://www.mobygames.com/game/1715/soko-ban/",
+        "game_code": "soko-ban"
+    },
+    {
+        "game": "Space Diamond",
+        "link": "https://www.mobygames.com/game/119466/space-diamond/",
+        "game_code": "space-diamond"
+    },
+    {
+        "game": "Space Flaper",
+        "link": "https://www.mobygames.com/game/235379/space-flaper/",
+        "game_code": "space-flaper"
+    },
+    {
+        "game": "Space Mouse",
+        "link": "https://www.mobygames.com/game/114761/space-mouse/",
+        "game_code": "space-mouse"
+    },
+    {
+        "game": "Spy Daisakusen",
+        "link": "https://www.mobygames.com/game/197720/spy-daisakusen/",
+        "game_code": "spy-daisakusen"
+    },
+    {
+        "game": "Square Garden",
+        "link": "https://www.mobygames.com/game/228758/square-garden/",
+        "game_code": "square-garden"
+    },
+    {
+        "game": "Star Stream",
+        "link": "https://www.mobygames.com/game/223601/star-stream/",
+        "game_code": "star-stream"
+    },
+    {
+        "game": "Submarine Shooter",
+        "link": "https://www.mobygames.com/game/229499/submarine-shooter/",
+        "game_code": "submarine-shooter"
+    },
+    {
+        "game": "Super Doors",
+        "link": "https://www.mobygames.com/game/217257/super-doors/",
+        "game_code": "super-doors"
+    },
+    {
+        "game": "Super Golf",
+        "link": "https://www.mobygames.com/game/221991/super-golf/",
+        "game_code": "super-golf"
+    },
+    {
+        "game": "S\u014dkoban 2",
+        "link": "https://www.mobygames.com/game/229443/sokoban-2/",
+        "game_code": "sokoban-2"
+    },
+    {
+        "game": "T.N.T. Bomb Bomb",
+        "link": "https://www.mobygames.com/game/181228/tnt-bomb-bomb/",
+        "game_code": "tnt-bomb-bomb"
+    },
+    {
+        "game": "Tengoku to Jigoku",
+        "link": "https://www.mobygames.com/game/207815/tengoku-to-jigoku/",
+        "game_code": "tengoku-to-jigoku"
+    },
+    {
+        "game": "Tennis",
+        "link": "https://www.mobygames.com/game/4279/tennis/",
+        "game_code": "tennis"
+    },
+    {
+        "game": "The Alien Island: 3D-Version",
+        "link": "https://www.mobygames.com/game/167938/the-alien-island-3d-version/",
+        "game_code": "the-alien-island-3d-version"
+    },
+    {
+        "game": "The Black Onyx",
+        "link": "https://www.mobygames.com/game/18757/the-black-onyx/",
+        "game_code": "the-black-onyx"
+    },
+    {
+        "game": "The Demon Crystal",
+        "link": "https://www.mobygames.com/game/64366/the-demon-crystal/",
+        "game_code": "the-demon-crystal"
+    },
+    {
+        "game": "The Spider",
+        "link": "https://www.mobygames.com/game/196904/the-spider/",
+        "game_code": "the-spider"
+    },
+    {
+        "game": "Thexder",
+        "link": "https://www.mobygames.com/game/49/thexder/",
+        "game_code": "thexder"
+    },
+    {
+        "game": "Vegetable Crash",
+        "link": "https://www.mobygames.com/game/198294/vegetable-crash/",
+        "game_code": "vegetable-crash"
+    },
+    {
+        "game": "Walk Wan",
+        "link": "https://www.mobygames.com/game/222869/walk-wan/",
+        "game_code": "walk-wan"
+    },
+    {
+        "game": "Xanadu: Dragon Slayer II",
+        "link": "https://www.mobygames.com/game/18619/xanadu-dragon-slayer-ii/",
+        "game_code": "xanadu-dragon-slayer-ii"
+    },
+    {
+        "game": "Xevious",
+        "link": "https://www.mobygames.com/game/11460/xevious/",
+        "game_code": "xevious"
+    },
+    {
+        "game": "Zork II: The Wizard of Frobozz",
+        "link": "https://www.mobygames.com/game/52/zork-ii-the-wizard-of-frobozz/",
+        "game_code": "zork-ii-the-wizard-of-frobozz"
+    },
+    {
+        "game": "Zork: The Great Underground Empire",
+        "link": "https://www.mobygames.com/game/50/zork-the-great-underground-empire/",
+        "game_code": "zork-the-great-underground-empire"
+    }
+]

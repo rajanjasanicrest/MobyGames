@@ -528,12 +528,6 @@
         "console_code": "hitachi-s1"
     },
     {
-        "platform": "HP Series 80",
-        "link": "/platform/hpseries80/",
-        "games": "2 games",
-        "console_code": "hpseries80"
-    },
-    {
         "platform": "Hugo",
         "link": "/platform/hugo/",
         "games": "1 games",
@@ -552,12 +546,6 @@
         "console_code": "ideal-computer"
     },
     {
-        "platform": "Intel 8086 / 8088",
-        "link": "/platform/intel-8086/",
-        "games": "1 games",
-        "console_code": "intel-8086"
-    },
-    {
         "platform": "Intellivision",
         "link": "/platform/intellivision/",
         "games": "128 games",
@@ -570,24 +558,6 @@
         "console_code": "interact-model-one"
     },
     {
-        "platform": "iPad",
-        "link": "/platform/ipad/",
-        "games": "11,862 games",
-        "console_code": "ipad"
-    },
-    {
-        "platform": "iPhone",
-        "link": "/platform/iphone/",
-        "games": "12,569 games",
-        "console_code": "iphone"
-    },
-    {
-        "platform": "iPod Classic",
-        "link": "/platform/ipod-classic/",
-        "games": "30 games",
-        "console_code": "ipod-classic"
-    },
-    {
         "platform": "Jaguar",
         "link": "/platform/jaguar/",
         "games": "104 games",
@@ -598,12 +568,6 @@
         "link": "/platform/jupiter-ace/",
         "games": "40 games",
         "console_code": "jupiter-ace"
-    },
-    {
-        "platform": "Kindle Classic",
-        "link": "/platform/kindle/",
-        "games": "20 games",
-        "console_code": "kindle"
     },
     {
         "platform": "Laser 200",

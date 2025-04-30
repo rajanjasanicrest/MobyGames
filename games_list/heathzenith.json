@@ -1,0 +1,117 @@
+[
+    {
+        "game": "Adventure",
+        "link": "https://www.mobygames.com/game/30153/adventure/",
+        "game_code": "adventure"
+    },
+    {
+        "game": "Blackjack",
+        "link": "https://www.mobygames.com/game/123985/blackjack/",
+        "game_code": "blackjack"
+    },
+    {
+        "game": "Casino Games",
+        "link": "https://www.mobygames.com/game/161699/casino-games/",
+        "game_code": "casino-games"
+    },
+    {
+        "game": "Eliza",
+        "link": "https://www.mobygames.com/game/23505/eliza/",
+        "game_code": "eliza"
+    },
+    {
+        "game": "Game Set = 1",
+        "link": "https://www.mobygames.com/game/123988/game-set-1/",
+        "game_code": "game-set-1"
+    },
+    {
+        "game": "Game Set = 2",
+        "link": "https://www.mobygames.com/game/123989/game-set-2/",
+        "game_code": "game-set-2"
+    },
+    {
+        "game": "Games",
+        "link": "https://www.mobygames.com/game/165673/games/",
+        "game_code": "games"
+    },
+    {
+        "game": "H8-BG1",
+        "link": "https://www.mobygames.com/game/161690/h8-bg1/",
+        "game_code": "h8-bg1"
+    },
+    {
+        "game": "H8-BG2",
+        "link": "https://www.mobygames.com/game/161693/h8-bg2/",
+        "game_code": "h8-bg2"
+    },
+    {
+        "game": "Hangman",
+        "link": "https://www.mobygames.com/game/128341/hangman/",
+        "game_code": "hangman"
+    },
+    {
+        "game": "Interactive Fiction: Dragons of Hong Kong",
+        "link": "https://www.mobygames.com/game/120465/interactive-fiction-dragons-of-hong-kong/",
+        "game_code": "interactive-fiction-dragons-of-hong-kong"
+    },
+    {
+        "game": "Invaders",
+        "link": "https://www.mobygames.com/game/121386/invaders/",
+        "game_code": "invaders"
+    },
+    {
+        "game": "Kingdom",
+        "link": "https://www.mobygames.com/game/50480/kingdom/",
+        "game_code": "kingdom"
+    },
+    {
+        "game": "Manipulation Games",
+        "link": "https://www.mobygames.com/game/161696/manipulation-games/",
+        "game_code": "manipulation-games"
+    },
+    {
+        "game": "Microsoft Adventure",
+        "link": "https://www.mobygames.com/game/4074/microsoft-adventure/",
+        "game_code": "microsoft-adventure"
+    },
+    {
+        "game": "Munchkin",
+        "link": "https://www.mobygames.com/game/121548/munchkin/",
+        "game_code": "munchkin"
+    },
+    {
+        "game": "Mychess",
+        "link": "https://www.mobygames.com/game/16123/mychess/",
+        "game_code": "mychess"
+    },
+    {
+        "game": "Nightmare",
+        "link": "https://www.mobygames.com/game/165674/nightmare/",
+        "game_code": "nightmare"
+    },
+    {
+        "game": "Number Games",
+        "link": "https://www.mobygames.com/game/161698/number-games/",
+        "game_code": "number-games"
+    },
+    {
+        "game": "Space Pirates",
+        "link": "https://www.mobygames.com/game/121554/space-pirates/",
+        "game_code": "space-pirates"
+    },
+    {
+        "game": "Startrek",
+        "link": "https://www.mobygames.com/game/123987/startrek/",
+        "game_code": "startrek"
+    },
+    {
+        "game": "Touch",
+        "link": "https://www.mobygames.com/game/198552/touch/",
+        "game_code": "touch"
+    },
+    {
+        "game": "Wari",
+        "link": "https://www.mobygames.com/game/179295/wari/",
+        "game_code": "wari"
+    }
+]

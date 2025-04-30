@@ -16,42 +16,9 @@ def scrapeGamesByConsole():
 
         console_games = []
 
-        if console_code in [
-                'dai',
-                'danger-os',
-                'dedicated-console',
-                'dedicated-handheld',
-                'didj',
-                'digiblast',
-                'dragon-3264',
-                'dreamcast',
-                'dvd-player',
-                'ecd-micromind',
-                'electron',
-                'enterprise',
-                'epoch-cassette-vision',
-                'epoch-game-pocket-computer',
-                'epoch-super-cassette-vision',
-                'evercade',
-                'exelvision',
-                'exidy-sorcerer',
-                'fmtowns',
-                'fm-7',
-                'galaksija',
-                'gameboy',
-                'gameboy-color',
-                'gameboy-advance',
-                'game-gear',
-                'game-wave',
-                'game-com',
-                'gamecube',
-                'gizmondo',
-                'gp2x',
-                'gp2x-wiz',
-                'gp32',
-                'genesis',
-                
-            ]:
+        # if console_code in [
+        #     'matsushitapanasonic-jr', 'mattel-aquarius', 'memotech-mtx', 'meritum', 'microbee', 'microtan-65', 'microvision', 'multi8', 'motorola-6800', 'mre', 'msx', 'ngage', 'nascom', 'neo-geo-cd', 'neo-geo-pocket', 'neo-geo-pocket-color', 'neo-geo-x', 'newbrain', 'new-nintendo-3ds', 'n64', 'nintendo-dsi', 'northstar', 'novel-760', 'nuon', 'odyssey', 'odyssey-2', 'ohio-scientific', 'orao', 'oric', 'os2', 'os2', ]:
+        if console_code in ['nes', '3ds', 'nintendo-ds']:
 
             with open(f'games_list/{console_code}.json', 'r', encoding='utf-8') as file:
                 games_list = json.load(file)
@@ -135,7 +102,7 @@ def scrapeGamesByConsole():
 
             priority_columns = ["console", "title", "comments", "mobyid", "country", "Genre", 'rating', 'description', 'published_by', 'developed_by'] 
             export_json_to_excel(console_games, f'excels/{safe_platform_name}.xlsx', priority_columns)
-            print("Atari-7800 Scrapped Successfully")
+            print(f"{platform['platform']} Scrapped Successfully")
 
     scrapper.close()
     return 'exit'

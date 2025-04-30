@@ -1,0 +1,37 @@
+[
+    {
+        "game": "Ballistic",
+        "link": "https://www.mobygames.com/game/32024/ballistic/",
+        "game_code": "ballistic"
+    },
+    {
+        "game": "Freefall 3050 A.D.",
+        "link": "https://www.mobygames.com/game/113184/freefall-3050-ad/",
+        "game_code": "freefall-3050-ad"
+    },
+    {
+        "game": "Iron Soldier 3",
+        "link": "https://www.mobygames.com/game/5915/iron-soldier-3/",
+        "game_code": "iron-soldier-3"
+    },
+    {
+        "game": "Merlin Racing",
+        "link": "https://www.mobygames.com/game/135193/merlin-racing/",
+        "game_code": "merlin-racing"
+    },
+    {
+        "game": "Space Invaders XL",
+        "link": "https://www.mobygames.com/game/68266/space-invaders-xl/",
+        "game_code": "space-invaders-xl"
+    },
+    {
+        "game": "Tempest 3000",
+        "link": "https://www.mobygames.com/game/78075/tempest-3000/",
+        "game_code": "tempest-3000"
+    },
+    {
+        "game": "The Next Tetris",
+        "link": "https://www.mobygames.com/game/1906/the-next-tetris/",
+        "game_code": "the-next-tetris"
+    }
+]

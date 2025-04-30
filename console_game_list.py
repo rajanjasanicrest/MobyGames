@@ -12,7 +12,7 @@ if __name__ == '__main__':
     with sync_playwright() as p:
         print('Opening Browser...')
         browser = p.chromium.launch(
-            headless=False
+            headless=True
         )
 
         print('Browser opened.')
@@ -34,7 +34,22 @@ if __name__ == '__main__':
         for platform in platforms:
             
             if platform['console_code'] in [
-                
+                "pandora",
+                "pc-booter",
+                "pc-6001",
+                "pc-8000",
+                "pc88",
+                "pc-fx",
+                "p2000",
+                "philips-vg-5000",
+                "pico",
+                "pippin",
+                "playdate",
+                "playdia",
+                "pokitto",
+                "pokemon-mini",
+                "rca-studio-ii",
+                "research-machines-380z",
             ]:
 
                 games_list = []

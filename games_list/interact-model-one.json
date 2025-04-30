@@ -1,0 +1,37 @@
+[
+    {
+        "game": "Backgammon",
+        "link": "https://www.mobygames.com/game/206911/backgammon/",
+        "game_code": "backgammon"
+    },
+    {
+        "game": "Breakthrough",
+        "link": "https://www.mobygames.com/game/206913/breakthrough/",
+        "game_code": "breakthrough"
+    },
+    {
+        "game": "Interact Model One (included games)",
+        "link": "https://www.mobygames.com/game/163830/interact-model-one-included-games/",
+        "game_code": "interact-model-one-included-games"
+    },
+    {
+        "game": "Microchess",
+        "link": "https://www.mobygames.com/game/29710/microchess/",
+        "game_code": "microchess"
+    },
+    {
+        "game": "Reversi",
+        "link": "https://www.mobygames.com/game/206910/reversi/",
+        "game_code": "reversi"
+    },
+    {
+        "game": "Star Track",
+        "link": "https://www.mobygames.com/game/206909/star-track/",
+        "game_code": "star-track"
+    },
+    {
+        "game": "Video Chess",
+        "link": "https://www.mobygames.com/game/206908/video-chess/",
+        "game_code": "video-chess"
+    }
+]

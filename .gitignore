@@ -11,3 +11,6 @@ get_proxies.py
 fixed_release_logic.py
 
 platforms.xlsx
+
+genres.json
+genres_list.py
