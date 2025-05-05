@@ -69,29 +69,30 @@ def scrapeGamesByConsole():
                     if game_covers is None: 
                         scrapper.close()
                         return 'restart'
-                    game_screenshots = scrapper.get_screenshots(screenshots_url)
-                    if game_screenshots is None: 
-                        scrapper.close()
-                        return 'restart'
+                    if game_covers or game_releases:
+                        game_screenshots = scrapper.get_screenshots(screenshots_url)
+                        if game_screenshots is None: 
+                            scrapper.close()
+                            return 'restart'
 
-                    merged_cover_releases = merge_covers_releases_data(game_covers, game_releases)
-                    parse_data_result = parse_data(game_overview, game_screenshots, game_ratings, game_specs, merged_cover_releases)
+                        merged_cover_releases = merge_covers_releases_data(game_covers, game_releases)
+                        parse_data_result = parse_data(game_overview, game_screenshots, game_ratings, game_specs, merged_cover_releases)
 
-                    # Collect all unique keys dynamically
-                    json_data = []
-                    for key, value in parse_data_result.items():
-                        json_data.extend(value)
+                        # Collect all unique keys dynamically
+                        json_data = []
+                        for key, value in parse_data_result.items():
+                            json_data.extend(value)
 
-                    final_list = []
-                    # remove virtual entries
-                    for entry in json_data:
-                        comments = entry.get('comments', '')  # Ensure it's a string
-                        if isinstance(comments, str) and any(word in comments.lower() for word in ['virtual release', 'online', 'download', 'eshop']):
-                            final_list.append({'game_url': game['link']})
-                        entry['game_url'] = game['link']
-                        final_list.append(entry)
+                        final_list = []
+                        # remove virtual entries
+                        for entry in json_data:
+                            comments = entry.get('comments', '')  # Ensure it's a string
+                            if isinstance(comments, str) and any(word in comments.lower() for word in ['virtual release', 'online', 'download', 'eshop']):
+                                final_list.append({'game_url': game['link']})
+                            entry['game_url'] = game['link']
+                            final_list.append(entry)
 
-                    console_games.extend(final_list)
+                        console_games.extend(final_list)
 
                 with open(f'data/{safe_platform_name}.json', 'w', encoding='utf-8') as f:
                     json.dump(console_games, f, indent=4)
