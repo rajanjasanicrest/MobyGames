@@ -87,7 +87,7 @@ def scrapeGamesByConsole():
                     for entry in json_data:
                         comments = entry.get('comments', '')  # Ensure it's a string
                         if isinstance(comments, str) and any(word in comments.lower() for word in ['virtual release', 'online', 'download', 'eshop']):
-                            continue
+                            final_list.append({'game_url': game['link']})
                         entry['game_url'] = game['link']
                         final_list.append(entry)
 

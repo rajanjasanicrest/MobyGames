@@ -35,7 +35,7 @@ def export_json_to_excel(json_file_or_data, output_filename="output.xlsx", prior
         formatted_data = [
             {key: ", ".join(map(str, entry[key])) if isinstance(entry.get(key, None), list) else entry.get(key, None)
             for key in ordered_fields}
-            for entry in json_data
+            for entry in json_data if len(list(entry.keys())) > 1
         ]
 
         # Create a DataFrame and export to Excel

@@ -128,7 +128,7 @@ class MobyGamesScraper:
 
         if self.page.query_selector('#gameOfficialDescription summary'):
             self.page.click('#gameOfficialDescription summary')
-            self.page.wait_for_timeout(500)
+            self.page.wait_for_timeout(5000)
             
         description = self.page.query_selector('#description-text')
         if description: description = description.inner_text()
