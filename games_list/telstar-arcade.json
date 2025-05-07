@@ -1,0 +1,22 @@
+[
+    {
+        "game": "Cartridge #1",
+        "link": "https://www.mobygames.com/game/113931/cartridge-1/",
+        "game_code": "cartridge-1"
+    },
+    {
+        "game": "Cartridge #2",
+        "link": "https://www.mobygames.com/game/113932/cartridge-2/",
+        "game_code": "cartridge-2"
+    },
+    {
+        "game": "Cartridge #3",
+        "link": "https://www.mobygames.com/game/113933/cartridge-3/",
+        "game_code": "cartridge-3"
+    },
+    {
+        "game": "Cartridge #4",
+        "link": "https://www.mobygames.com/game/113935/cartridge-4/",
+        "game_code": "cartridge-4"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "game": "Blackjack",
+        "link": "https://www.mobygames.com/game/124193/blackjack/",
+        "game_code": "blackjack"
+    },
+    {
+        "game": "Checkers",
+        "link": "https://www.mobygames.com/game/162455/checkers/",
+        "game_code": "checkers"
+    },
+    {
+        "game": "Craps",
+        "link": "https://www.mobygames.com/game/206242/craps/",
+        "game_code": "craps"
+    },
+    {
+        "game": "Gladiator",
+        "link": "https://www.mobygames.com/game/95806/gladiator/",
+        "game_code": "gladiator"
+    },
+    {
+        "game": "Guess",
+        "link": "https://www.mobygames.com/game/206243/guess/",
+        "game_code": "guess"
+    },
+    {
+        "game": "Lemonade Stand: A Business Simulation",
+        "link": "https://www.mobygames.com/game/162818/lemonade-stand-a-business-simulation/",
+        "game_code": "lemonade-stand-a-business-simulation"
+    },
+    {
+        "game": "Pinball",
+        "link": "https://www.mobygames.com/game/124192/pinball/",
+        "game_code": "pinball"
+    },
+    {
+        "game": "Tennis",
+        "link": "https://www.mobygames.com/game/162453/tennis/",
+        "game_code": "tennis"
+    },
+    {
+        "game": "Vice Versa",
+        "link": "https://www.mobygames.com/game/162817/vice-versa/",
+        "game_code": "vice-versa"
+    },
+    {
+        "game": "Wordwise 1",
+        "link": "https://www.mobygames.com/game/124195/wordwise-1/",
+        "game_code": "wordwise-1"
+    },
+    {
+        "game": "Wordwise 2",
+        "link": "https://www.mobygames.com/game/124196/wordwise-2/",
+        "game_code": "wordwise-2"
+    }
+]

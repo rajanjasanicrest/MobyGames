@@ -1,0 +1,37 @@
+[
+    {
+        "game": "Ghouls 'N Ghosts",
+        "link": "https://www.mobygames.com/game/6681/ghouls-n-ghosts/",
+        "game_code": "ghouls-n-ghosts"
+    },
+    {
+        "game": "Aldynes: The Mission Code for Rage Crisis",
+        "link": "https://www.mobygames.com/game/56514/aldynes-the-mission-code-for-rage-crisis/",
+        "game_code": "aldynes-the-mission-code-for-rage-crisis"
+    },
+    {
+        "game": "Mad\u014d King Granzort",
+        "link": "https://www.mobygames.com/game/54232/mado-king-granzort/",
+        "game_code": "mado-king-granzort"
+    },
+    {
+        "game": "1941: Counter Attack",
+        "link": "https://www.mobygames.com/game/34268/1941-counter-attack/",
+        "game_code": "1941-counter-attack"
+    },
+    {
+        "game": "Battle Ace",
+        "link": "https://www.mobygames.com/game/54194/battle-ace/",
+        "game_code": "battle-ace"
+    },
+    {
+        "game": "Darius",
+        "link": "https://www.mobygames.com/game/22038/darius/",
+        "game_code": "darius"
+    },
+    {
+        "game": "Darius Alpha",
+        "link": "https://www.mobygames.com/game/25059/darius-alpha/",
+        "game_code": "darius-alpha"
+    }
+]

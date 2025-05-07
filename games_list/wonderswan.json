@@ -1,0 +1,527 @@
+[
+    {
+        "game": "Gunpey",
+        "link": "https://www.mobygames.com/game/32515/gunpey/",
+        "game_code": "gunpey"
+    },
+    {
+        "game": "Anchorz Field",
+        "link": "https://www.mobygames.com/game/149305/anchorz-field/",
+        "game_code": "anchorz-field"
+    },
+    {
+        "game": "Armored Unit",
+        "link": "https://www.mobygames.com/game/73664/armored-unit/",
+        "game_code": "armored-unit"
+    },
+    {
+        "game": "Bakus\u014d Dekotora Densetsu for WonderSwan",
+        "link": "https://www.mobygames.com/game/21553/bakuso-dekotora-densetsu-for-wonderswan/",
+        "game_code": "bakuso-dekotora-densetsu-for-wonderswan"
+    },
+    {
+        "game": "beatmania for WonderSwan",
+        "link": "https://www.mobygames.com/game/36466/beatmania-for-wonderswan/",
+        "game_code": "beatmania-for-wonderswan"
+    },
+    {
+        "game": "Buffers Evolution",
+        "link": "https://www.mobygames.com/game/36670/buffers-evolution/",
+        "game_code": "buffers-evolution"
+    },
+    {
+        "game": "Bust-A-Move",
+        "link": "https://www.mobygames.com/game/5518/bust-a-move/",
+        "game_code": "bust-a-move"
+    },
+    {
+        "game": "Cardcaptor Sakura: Sakura to Fushigi na Clow Card",
+        "link": "https://www.mobygames.com/game/228327/cardcaptor-sakura-sakura-to-fushigi-na-clow-card/",
+        "game_code": "cardcaptor-sakura-sakura-to-fushigi-na-clow-card"
+    },
+    {
+        "game": "Chaos Gear: Michibi Kareshi Mono",
+        "link": "https://www.mobygames.com/game/227120/chaos-gear-michibi-kareshi-mono/",
+        "game_code": "chaos-gear-michibi-kareshi-mono"
+    },
+    {
+        "game": "Chocobo no Fushigi na Dungeon",
+        "link": "https://www.mobygames.com/game/9513/chocobo-no-fushigi-na-dungeon/",
+        "game_code": "chocobo-no-fushigi-na-dungeon"
+    },
+    {
+        "game": "Ch\u014d Aniki: Otoko no Tamafuda",
+        "link": "https://www.mobygames.com/game/22596/cho-aniki-otoko-no-tamafuda/",
+        "game_code": "cho-aniki-otoko-no-tamafuda"
+    },
+    {
+        "game": "Ch\u014d Denki Card Battle: Y\u014dfu Makai",
+        "link": "https://www.mobygames.com/game/229477/cho-denki-card-battle-yofu-makai/",
+        "game_code": "cho-denki-card-battle-yofu-makai"
+    },
+    {
+        "game": "Clock Tower",
+        "link": "https://www.mobygames.com/game/20472/clock-tower/",
+        "game_code": "clock-tower"
+    },
+    {
+        "game": "Crazy Climber",
+        "link": "https://www.mobygames.com/game/13631/crazy-climber/",
+        "game_code": "crazy-climber"
+    },
+    {
+        "game": "Densha de Go!",
+        "link": "https://www.mobygames.com/game/28788/densha-de-go/",
+        "game_code": "densha-de-go"
+    },
+    {
+        "game": "Densha de Go! 2",
+        "link": "https://www.mobygames.com/game/29765/densha-de-go-2/",
+        "game_code": "densha-de-go-2"
+    },
+    {
+        "game": "Digimon Adventure 02: Tag Tamers",
+        "link": "https://www.mobygames.com/game/21232/digimon-adventure-02-tag-tamers/",
+        "game_code": "digimon-adventure-02-tag-tamers"
+    },
+    {
+        "game": "Digimon Adventure: Anode Tamer",
+        "link": "https://www.mobygames.com/game/21230/digimon-adventure-anode-tamer/",
+        "game_code": "digimon-adventure-anode-tamer"
+    },
+    {
+        "game": "Digimon Adventure: Cathode Tamer",
+        "link": "https://www.mobygames.com/game/21231/digimon-adventure-cathode-tamer/",
+        "game_code": "digimon-adventure-cathode-tamer"
+    },
+    {
+        "game": "Digital Monster Ver. WonderSwan",
+        "link": "https://www.mobygames.com/game/108892/digital-monster-ver-wonderswan/",
+        "game_code": "digital-monster-ver-wonderswan"
+    },
+    {
+        "game": "Digital Partner",
+        "link": "https://www.mobygames.com/game/229449/digital-partner/",
+        "game_code": "digital-partner"
+    },
+    {
+        "game": "Dokodemo Hamster",
+        "link": "https://www.mobygames.com/game/21275/dokodemo-hamster/",
+        "game_code": "dokodemo-hamster"
+    },
+    {
+        "game": "Engacho! for WonderSwan",
+        "link": "https://www.mobygames.com/game/21554/engacho-for-wonderswan/",
+        "game_code": "engacho-for-wonderswan"
+    },
+    {
+        "game": "Fever: Sankyo K\u014dshiki Pachinko Simulation",
+        "link": "https://www.mobygames.com/game/37033/fever-sankyo-koshiki-pachinko-simulation/",
+        "game_code": "fever-sankyo-koshiki-pachinko-simulation"
+    },
+    {
+        "game": "Final Lap 2000",
+        "link": "https://www.mobygames.com/game/36646/final-lap-2000/",
+        "game_code": "final-lap-2000"
+    },
+    {
+        "game": "Fire Pro Wrestling",
+        "link": "https://www.mobygames.com/game/30379/fire-pro-wrestling/",
+        "game_code": "fire-pro-wrestling"
+    },
+    {
+        "game": "Fishing Freaks: BassRise for WonderSwan",
+        "link": "https://www.mobygames.com/game/37141/fishing-freaks-bassrise-for-wonderswan/",
+        "game_code": "fishing-freaks-bassrise-for-wonderswan"
+    },
+    {
+        "game": "From the TV Animation: One Piece Mezase Kaizoku\u014d!",
+        "link": "https://www.mobygames.com/game/229513/from-the-tv-animation-one-piece-mezase-kaizokuo/",
+        "game_code": "from-the-tv-animation-one-piece-mezase-kaizokuo"
+    },
+    {
+        "game": "Ganso Jajamaru-kun",
+        "link": "https://www.mobygames.com/game/36521/ganso-jajamaru-kun/",
+        "game_code": "ganso-jajamaru-kun"
+    },
+    {
+        "game": "Gomoku Narabe & Reversi T\u014dry\u016bmon",
+        "link": "https://www.mobygames.com/game/36809/gomoku-narabe-reversi-toryumon/",
+        "game_code": "gomoku-narabe-reversi-toryumon"
+    },
+    {
+        "game": "Goraku \u014c Tango!",
+        "link": "https://www.mobygames.com/game/37125/goraku-o-tango/",
+        "game_code": "goraku-o-tango"
+    },
+    {
+        "game": "Hanafuda Shiy\u014dyo",
+        "link": "https://www.mobygames.com/game/227930/hanafuda-shiyoyo/",
+        "game_code": "hanafuda-shiyoyo"
+    },
+    {
+        "game": "Harobots",
+        "link": "https://www.mobygames.com/game/229497/harobots/",
+        "game_code": "harobots"
+    },
+    {
+        "game": "Hexcite: The Shapes of Victory",
+        "link": "https://www.mobygames.com/game/20560/hexcite-the-shapes-of-victory/",
+        "game_code": "hexcite-the-shapes-of-victory"
+    },
+    {
+        "game": "Hunter \u00d7 Hunter: Ishi o Tsugu Mono",
+        "link": "https://www.mobygames.com/game/228584/hunter-hunter-ishi-o-tsugu-mono/",
+        "game_code": "hunter-hunter-ishi-o-tsugu-mono"
+    },
+    {
+        "game": "Kakut\u014d Ry\u014dri Densetsu Bistro Recipe: Wonder Battle Hen",
+        "link": "https://www.mobygames.com/game/228551/kakuto-ryori-densetsu-bistro-recipe-wonder-battle-hen/",
+        "game_code": "kakuto-ryori-densetsu-bistro-recipe-wonder-battle-hen"
+    },
+    {
+        "game": "Kaze no Klonoa: Moonlight Museum",
+        "link": "https://www.mobygames.com/game/21556/kaze-no-klonoa-moonlight-museum/",
+        "game_code": "kaze-no-klonoa-moonlight-museum"
+    },
+    {
+        "game": "Kosodate Quiz Dokodemo My Angel",
+        "link": "https://www.mobygames.com/game/228330/kosodate-quiz-dokodemo-my-angel/",
+        "game_code": "kosodate-quiz-dokodemo-my-angel"
+    },
+    {
+        "game": "Ky\u014ds\u014dba Ikusei Simulation: KEIBA",
+        "link": "https://www.mobygames.com/game/36713/kyosoba-ikusei-simulation-keiba/",
+        "game_code": "kyosoba-ikusei-simulation-keiba"
+    },
+    {
+        "game": "Langrisser Millennium WS: The Last Century",
+        "link": "https://www.mobygames.com/game/140157/langrisser-millennium-ws-the-last-century/",
+        "game_code": "langrisser-millennium-ws-the-last-century"
+    },
+    {
+        "game": "Last Stand",
+        "link": "https://www.mobygames.com/game/229019/last-stand/",
+        "game_code": "last-stand"
+    },
+    {
+        "game": "Lode Runner",
+        "link": "https://www.mobygames.com/game/243/lode-runner/",
+        "game_code": "lode-runner"
+    },
+    {
+        "game": "Macross: True Love Song",
+        "link": "https://www.mobygames.com/game/229168/macross-true-love-song/",
+        "game_code": "macross-true-love-song"
+    },
+    {
+        "game": "Magical Drop for WonderSwan",
+        "link": "https://www.mobygames.com/game/21561/magical-drop-for-wonderswan/",
+        "game_code": "magical-drop-for-wonderswan"
+    },
+    {
+        "game": "Mahjong T\u014dry\u016bmon",
+        "link": "https://www.mobygames.com/game/226073/mahjong-toryumon/",
+        "game_code": "mahjong-toryumon"
+    },
+    {
+        "game": "Makaimura for WonderSwan",
+        "link": "https://www.mobygames.com/game/73063/makaimura-for-wonderswan/",
+        "game_code": "makaimura-for-wonderswan"
+    },
+    {
+        "game": "Medarot Navi: Kabuto",
+        "link": "https://www.mobygames.com/game/80279/medarot-navi-kabuto/",
+        "game_code": "medarot-navi-kabuto"
+    },
+    {
+        "game": "Medarot Navi: Kuwagata",
+        "link": "https://www.mobygames.com/game/80280/medarot-navi-kuwagata/",
+        "game_code": "medarot-navi-kuwagata"
+    },
+    {
+        "game": "Mega Man & Bass",
+        "link": "https://www.mobygames.com/game/6604/mega-man-bass/",
+        "game_code": "mega-man-bass"
+    },
+    {
+        "game": "Meitantei Conan: Majutsushi no Ch\u014dsenj\u014d!",
+        "link": "https://www.mobygames.com/game/36991/meitantei-conan-majutsushi-no-chosenjo/",
+        "game_code": "meitantei-conan-majutsushi-no-chosenjo"
+    },
+    {
+        "game": "Meitantei Conan: Nishi no Meitantei - Saidai no Kiki!?",
+        "link": "https://www.mobygames.com/game/37007/meitantei-conan-nishi-no-meitantei-saidai-no-kiki/",
+        "game_code": "meitantei-conan-nishi-no-meitantei-saidai-no-kiki"
+    },
+    {
+        "game": "Mingle Magnet",
+        "link": "https://www.mobygames.com/game/37126/mingle-magnet/",
+        "game_code": "mingle-magnet"
+    },
+    {
+        "game": "Mobile Suit Gundam MSVS",
+        "link": "https://www.mobygames.com/game/228972/mobile-suit-gundam-msvs/",
+        "game_code": "mobile-suit-gundam-msvs"
+    },
+    {
+        "game": "Moero!! Pro Yaky\u016b Rookies",
+        "link": "https://www.mobygames.com/game/228487/moero-pro-yakyu-rookies/",
+        "game_code": "moero-pro-yakyu-rookies"
+    },
+    {
+        "game": "Morita Sh\u014dgi for WonderSwan",
+        "link": "https://www.mobygames.com/game/226077/morita-shogi-for-wonderswan/",
+        "game_code": "morita-shogi-for-wonderswan"
+    },
+    {
+        "game": "Nazo \u014c Pocket",
+        "link": "https://www.mobygames.com/game/228713/nazo-o-pocket/",
+        "game_code": "nazo-o-pocket"
+    },
+    {
+        "game": "Neon Genesis Evangelion: Shito Ikusei",
+        "link": "https://www.mobygames.com/game/228740/neon-genesis-evangelion-shito-ikusei/",
+        "game_code": "neon-genesis-evangelion-shito-ikusei"
+    },
+    {
+        "game": "Nice On",
+        "link": "https://www.mobygames.com/game/36810/nice-on/",
+        "game_code": "nice-on"
+    },
+    {
+        "game": "Nippon Pro Mahjong Renmei K\u014dnin Tetsuman",
+        "link": "https://www.mobygames.com/game/226076/nippon-pro-mahjong-renmei-konin-tetsuman/",
+        "game_code": "nippon-pro-mahjong-renmei-konin-tetsuman"
+    },
+    {
+        "game": "Nobunaga's Ambition",
+        "link": "https://www.mobygames.com/game/5825/nobunagas-ambition/",
+        "game_code": "nobunagas-ambition"
+    },
+    {
+        "game": "Oh-chan no Oekaki Logic",
+        "link": "https://www.mobygames.com/game/37135/oh-chan-no-oekaki-logic/",
+        "game_code": "oh-chan-no-oekaki-logic"
+    },
+    {
+        "game": "Pocket Fighter",
+        "link": "https://www.mobygames.com/game/31609/pocket-fighter/",
+        "game_code": "pocket-fighter"
+    },
+    {
+        "game": "Pro Mahjong Kiwame for WonderSwan",
+        "link": "https://www.mobygames.com/game/226074/pro-mahjong-kiwame-for-wonderswan/",
+        "game_code": "pro-mahjong-kiwame-for-wonderswan"
+    },
+    {
+        "game": "Puyo Puyo 2",
+        "link": "https://www.mobygames.com/game/13047/puyo-puyo-2/",
+        "game_code": "puyo-puyo-2"
+    },
+    {
+        "game": "Rainbow Islands: Putty's Party",
+        "link": "https://www.mobygames.com/game/37032/rainbow-islands-puttys-party/",
+        "game_code": "rainbow-islands-puttys-party"
+    },
+    {
+        "game": "Ring \u221e",
+        "link": "https://www.mobygames.com/game/36343/ring/",
+        "game_code": "ring"
+    },
+    {
+        "game": "Robot Works",
+        "link": "https://www.mobygames.com/game/226088/robot-works/",
+        "game_code": "robot-works"
+    },
+    {
+        "game": "Romance of the Three Kingdoms",
+        "link": "https://www.mobygames.com/game/9093/romance-of-the-three-kingdoms/",
+        "game_code": "romance-of-the-three-kingdoms"
+    },
+    {
+        "game": "Romance of the Three Kingdoms II",
+        "link": "https://www.mobygames.com/game/9099/romance-of-the-three-kingdoms-ii/",
+        "game_code": "romance-of-the-three-kingdoms-ii"
+    },
+    {
+        "game": "SD Gundam: Emotional Jam",
+        "link": "https://www.mobygames.com/game/229098/sd-gundam-emotional-jam/",
+        "game_code": "sd-gundam-emotional-jam"
+    },
+    {
+        "game": "SD Gundam: G Generation Gather Beat",
+        "link": "https://www.mobygames.com/game/229147/sd-gundam-g-generation-gather-beat/",
+        "game_code": "sd-gundam-g-generation-gather-beat"
+    },
+    {
+        "game": "SD Gundam: Gashapon Senki Episode 1",
+        "link": "https://www.mobygames.com/game/229144/sd-gundam-gashapon-senki-episode-1/",
+        "game_code": "sd-gundam-gashapon-senki-episode-1"
+    },
+    {
+        "game": "Sen-Know Millennium",
+        "link": "https://www.mobygames.com/game/228727/sen-know-millennium/",
+        "game_code": "sen-know-millennium"
+    },
+    {
+        "game": "Senkaiden: TV Animation Senkaiden H\u014dshin Engi Yori",
+        "link": "https://www.mobygames.com/game/229507/senkaiden-tv-animation-senkaiden-hoshin-engi-yori/",
+        "game_code": "senkaiden-tv-animation-senkaiden-hoshin-engi-yori"
+    },
+    {
+        "game": "Shanghai Pocket",
+        "link": "https://www.mobygames.com/game/36080/shanghai-pocket/",
+        "game_code": "shanghai-pocket"
+    },
+    {
+        "game": "Shin Nihon Pro-Wrestling: T\u014dkon Retsuden",
+        "link": "https://www.mobygames.com/game/36910/shin-nihon-pro-wrestling-tokon-retsuden/",
+        "game_code": "shin-nihon-pro-wrestling-tokon-retsuden"
+    },
+    {
+        "game": "Sh\u014dgi T\u014dry\u016bmon",
+        "link": "https://www.mobygames.com/game/226072/shogi-toryumon/",
+        "game_code": "shogi-toryumon"
+    },
+    {
+        "game": "Side Pocket",
+        "link": "https://www.mobygames.com/game/17479/side-pocket/",
+        "game_code": "side-pocket"
+    },
+    {
+        "game": "Slither Link",
+        "link": "https://www.mobygames.com/game/36519/slither-link/",
+        "game_code": "slither-link"
+    },
+    {
+        "game": "Soccer Yar\u014d!: Challenge The World",
+        "link": "https://www.mobygames.com/game/36873/soccer-yaro-challenge-the-world/",
+        "game_code": "soccer-yaro-challenge-the-world"
+    },
+    {
+        "game": "Sotsugy\u014d",
+        "link": "https://www.mobygames.com/game/43243/sotsugyo/",
+        "game_code": "sotsugyo"
+    },
+    {
+        "game": "Space Invaders",
+        "link": "https://www.mobygames.com/game/6170/space-invaders/",
+        "game_code": "space-invaders"
+    },
+    {
+        "game": "Super Robot Taisen Compact 2 Dai-1-bu Chij\u014d Gekid\u014d Hen",
+        "link": "https://www.mobygames.com/game/142001/super-robot-taisen-compact-2-dai-1-bu-chijo-gekido-hen/",
+        "game_code": "super-robot-taisen-compact-2-dai-1-bu-chijo-gekido-hen"
+    },
+    {
+        "game": "Super Robot Taisen Compact 2 Dai-2-bu Uch\u016b Gekishin Hen",
+        "link": "https://www.mobygames.com/game/142002/super-robot-taisen-compact-2-dai-2-bu-uchu-gekishin-hen/",
+        "game_code": "super-robot-taisen-compact-2-dai-2-bu-uchu-gekishin-hen"
+    },
+    {
+        "game": "Super Robot Taisen Compact 2 Dai-3-bu Ginga Kessen Hen",
+        "link": "https://www.mobygames.com/game/143070/super-robot-taisen-compact-2-dai-3-bu-ginga-kessen-hen/",
+        "game_code": "super-robot-taisen-compact-2-dai-3-bu-ginga-kessen-hen"
+    },
+    {
+        "game": "Super Robot Taisen: Compact",
+        "link": "https://www.mobygames.com/game/98527/super-robot-taisen-compact/",
+        "game_code": "super-robot-taisen-compact"
+    },
+    {
+        "game": "Taikyoku Igo Heisei Kiin",
+        "link": "https://www.mobygames.com/game/228375/taikyoku-igo-heisei-kiin/",
+        "game_code": "taikyoku-igo-heisei-kiin"
+    },
+    {
+        "game": "Tane o Maku Tori",
+        "link": "https://www.mobygames.com/game/36829/tane-o-maku-tori/",
+        "game_code": "tane-o-maku-tori"
+    },
+    {
+        "game": "Tanj\u014d: Debut",
+        "link": "https://www.mobygames.com/game/47306/tanjo-debut/",
+        "game_code": "tanjo-debut"
+    },
+    {
+        "game": "Tarepanda no Gunpey",
+        "link": "https://www.mobygames.com/game/36342/tarepanda-no-gunpey/",
+        "game_code": "tarepanda-no-gunpey"
+    },
+    {
+        "game": "Tekken Card Challenge",
+        "link": "https://www.mobygames.com/game/36756/tekken-card-challenge/",
+        "game_code": "tekken-card-challenge"
+    },
+    {
+        "game": "Terrors",
+        "link": "https://www.mobygames.com/game/228594/terrors/",
+        "game_code": "terrors"
+    },
+    {
+        "game": "Tetsujin 28-g\u014d",
+        "link": "https://www.mobygames.com/game/187807/tetsujin-28-go/",
+        "game_code": "tetsujin-28-go"
+    },
+    {
+        "game": "Time Bokan Series: Bokan Densetsu: Buta mo Odaterya Doronbg\u014d",
+        "link": "https://www.mobygames.com/game/227883/time-bokan-series-bokan-densetsu-buta-mo-odaterya-doronbgo/",
+        "game_code": "time-bokan-series-bokan-densetsu-buta-mo-odaterya-doronbgo"
+    },
+    {
+        "game": "Tokyo Majin Gakuen: Fuju H\u014droku",
+        "link": "https://www.mobygames.com/game/228364/tokyo-majin-gakuen-fuju-horoku/",
+        "game_code": "tokyo-majin-gakuen-fuju-horoku"
+    },
+    {
+        "game": "Trump Collection 2: Bottom Up Teki Sekai Issh\u016b no Tabi",
+        "link": "https://www.mobygames.com/game/229448/trump-collection-2-bottom-up-teki-sekai-isshu-no-tabi/",
+        "game_code": "trump-collection-2-bottom-up-teki-sekai-isshu-no-tabi"
+    },
+    {
+        "game": "Trump Collection: Bottom Up Teki Trump Seikatsu",
+        "link": "https://www.mobygames.com/game/229447/trump-collection-bottom-up-teki-trump-seikatsu/",
+        "game_code": "trump-collection-bottom-up-teki-trump-seikatsu"
+    },
+    {
+        "game": "Turntablist: DJ Battle",
+        "link": "https://www.mobygames.com/game/227118/turntablist-dj-battle/",
+        "game_code": "turntablist-dj-battle"
+    },
+    {
+        "game": "Umitsuri ni Ik\u014d!",
+        "link": "https://www.mobygames.com/game/36715/umitsuri-ni-iko/",
+        "game_code": "umitsuri-ni-iko"
+    },
+    {
+        "game": "Uzumaki: Denshi Kaikihen",
+        "link": "https://www.mobygames.com/game/16692/uzumaki-denshi-kaikihen/",
+        "game_code": "uzumaki-denshi-kaikihen"
+    },
+    {
+        "game": "Uzumaki: Noroi Simulation",
+        "link": "https://www.mobygames.com/game/20796/uzumaki-noroi-simulation/",
+        "game_code": "uzumaki-noroi-simulation"
+    },
+    {
+        "game": "Vaitz Blade",
+        "link": "https://www.mobygames.com/game/226104/vaitz-blade/",
+        "game_code": "vaitz-blade"
+    },
+    {
+        "game": "Wonder Stadium",
+        "link": "https://www.mobygames.com/game/36446/wonder-stadium/",
+        "game_code": "wonder-stadium"
+    },
+    {
+        "game": "Wonder Stadium '99",
+        "link": "https://www.mobygames.com/game/36450/wonder-stadium-99/",
+        "game_code": "wonder-stadium-99"
+    },
+    {
+        "game": "Wuz\u2191b? Produce: Street Dancer",
+        "link": "https://www.mobygames.com/game/36365/wuzb-produce-street-dancer/",
+        "game_code": "wuzb-produce-street-dancer"
+    }
+]

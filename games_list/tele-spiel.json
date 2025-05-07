@@ -1,0 +1,27 @@
+[
+    {
+        "game": "Autoslalom",
+        "link": "https://www.mobygames.com/game/110530/autoslalom/",
+        "game_code": "autoslalom"
+    },
+    {
+        "game": "Federball",
+        "link": "https://www.mobygames.com/game/110526/federball/",
+        "game_code": "federball"
+    },
+    {
+        "game": "Phantomjagd",
+        "link": "https://www.mobygames.com/game/110532/phantomjagd/",
+        "game_code": "phantomjagd"
+    },
+    {
+        "game": "Tontaubenschiessen",
+        "link": "https://www.mobygames.com/game/110529/tontaubenschiessen/",
+        "game_code": "tontaubenschiessen"
+    },
+    {
+        "game": "Trainingswand",
+        "link": "https://www.mobygames.com/game/110527/trainingswand/",
+        "game_code": "trainingswand"
+    }
+]

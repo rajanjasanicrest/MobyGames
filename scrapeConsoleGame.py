@@ -37,10 +37,10 @@ def scrapeGamesByConsole():
             scrapped_games = [x['game_url'] for x in scrapped_games]
             total_games = len(games_list)
             for index, game in enumerate(games_list):
-                print(f"Scraping {game['game']}, {index+1} of {total_games} for {platform['platform']}...")
-                
-                game_code = game['game_code']
                 if game['link'] not in scrapped_games:
+                    print(f"Scraping {game['game']}, {index+1} of {total_games} for {platform['platform']}...")
+                    
+                    game_code = game['game_code']
                     # if game_code == 'galaga':
                     print(game["link"])
                     overview_url = game["link"]

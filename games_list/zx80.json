@@ -1,0 +1,67 @@
+[
+    {
+        "game": "Adventure A",
+        "link": "https://www.mobygames.com/game/33560/adventure-a/",
+        "game_code": "adventure-a"
+    },
+    {
+        "game": "Breakout",
+        "link": "https://www.mobygames.com/game/64602/breakout/",
+        "game_code": "breakout"
+    },
+    {
+        "game": "Double Breakout",
+        "link": "https://www.mobygames.com/game/64441/double-breakout/",
+        "game_code": "double-breakout"
+    },
+    {
+        "game": "Football Manager",
+        "link": "https://www.mobygames.com/game/18587/football-manager/",
+        "game_code": "football-manager"
+    },
+    {
+        "game": "Games 1",
+        "link": "https://www.mobygames.com/game/66629/games-1/",
+        "game_code": "games-1"
+    },
+    {
+        "game": "Games 4",
+        "link": "https://www.mobygames.com/game/66632/games-4/",
+        "game_code": "games-4"
+    },
+    {
+        "game": "Hamurabi",
+        "link": "https://www.mobygames.com/game/22232/hamurabi/",
+        "game_code": "hamurabi"
+    },
+    {
+        "game": "Hurkle",
+        "link": "https://www.mobygames.com/game/51260/hurkle/",
+        "game_code": "hurkle"
+    },
+    {
+        "game": "QS Defender",
+        "link": "https://www.mobygames.com/game/64597/qs-defender/",
+        "game_code": "qs-defender"
+    },
+    {
+        "game": "Shop Steward",
+        "link": "https://www.mobygames.com/game/64129/shop-steward/",
+        "game_code": "shop-steward"
+    },
+    {
+        "game": "Super ZX80 Invasion",
+        "link": "https://www.mobygames.com/game/56865/super-zx80-invasion/",
+        "game_code": "super-zx80-invasion"
+    },
+    {
+        "game": "ZX Chess I",
+        "link": "https://www.mobygames.com/game/56600/zx-chess-i/",
+        "game_code": "zx-chess-i"
+    },
+    {
+        "game": "ZX80 Kong",
+        "link": "https://www.mobygames.com/game/66635/zx80-kong/",
+        "game_code": "zx80-kong"
+    }
+]

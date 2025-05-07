@@ -1272,12 +1272,6 @@
         "console_code": "vis"
     },
     {
-        "platform": "webOS",
-        "link": "/platform/webos/",
-        "games": "75 games",
-        "console_code": "webos"
-    },
-    {
         "platform": "Wii",
         "link": "/platform/wii/",
         "games": "2,594 games",

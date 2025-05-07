@@ -1,0 +1,342 @@
+[
+    {
+        "game": "3D Slime",
+        "link": "https://www.mobygames.com/game/56940/3d-slime/",
+        "game_code": "3d-slime"
+    },
+    {
+        "game": "Alien Hijack",
+        "link": "https://www.mobygames.com/game/62980/alien-hijack/",
+        "game_code": "alien-hijack"
+    },
+    {
+        "game": "Area Radar Controller",
+        "link": "https://www.mobygames.com/game/136547/area-radar-controller/",
+        "game_code": "area-radar-controller"
+    },
+    {
+        "game": "Assault & Battery",
+        "link": "https://www.mobygames.com/game/136548/assault-battery/",
+        "game_code": "assault-battery"
+    },
+    {
+        "game": "Baron Rouge",
+        "link": "https://www.mobygames.com/game/62931/baron-rouge/",
+        "game_code": "baron-rouge"
+    },
+    {
+        "game": "BJ in 3D Land",
+        "link": "https://www.mobygames.com/game/136549/bj-in-3d-land/",
+        "game_code": "bj-in-3d-land"
+    },
+    {
+        "game": "BJ the Return: QL Caverns 2",
+        "link": "https://www.mobygames.com/game/62455/bj-the-return-ql-caverns-2/",
+        "game_code": "bj-the-return-ql-caverns-2"
+    },
+    {
+        "game": "Black Knight",
+        "link": "https://www.mobygames.com/game/136316/black-knight/",
+        "game_code": "black-knight"
+    },
+    {
+        "game": "Blast Buggy",
+        "link": "https://www.mobygames.com/game/136317/blast-buggy/",
+        "game_code": "blast-buggy"
+    },
+    {
+        "game": "Blocklands Warrior",
+        "link": "https://www.mobygames.com/game/136731/blocklands-warrior/",
+        "game_code": "blocklands-warrior"
+    },
+    {
+        "game": "Citadel",
+        "link": "https://www.mobygames.com/game/139380/citadel/",
+        "game_code": "citadel"
+    },
+    {
+        "game": "Crazy Painter",
+        "link": "https://www.mobygames.com/game/67233/crazy-painter/",
+        "game_code": "crazy-painter"
+    },
+    {
+        "game": "Cuthbert in Space",
+        "link": "https://www.mobygames.com/game/24681/cuthbert-in-space/",
+        "game_code": "cuthbert-in-space"
+    },
+    {
+        "game": "Dark Side of the Moon",
+        "link": "https://www.mobygames.com/game/149109/dark-side-of-the-moon/",
+        "game_code": "dark-side-of-the-moon"
+    },
+    {
+        "game": "Deathstrike",
+        "link": "https://www.mobygames.com/game/57061/deathstrike/",
+        "game_code": "deathstrike"
+    },
+    {
+        "game": "Dennis the Dwarf at the Funfear",
+        "link": "https://www.mobygames.com/game/149201/dennis-the-dwarf-at-the-funfear/",
+        "game_code": "dennis-the-dwarf-at-the-funfear"
+    },
+    {
+        "game": "Double Block",
+        "link": "https://www.mobygames.com/game/136320/double-block/",
+        "game_code": "double-block"
+    },
+    {
+        "game": "Dragonhold",
+        "link": "https://www.mobygames.com/game/149320/dragonhold/",
+        "game_code": "dragonhold"
+    },
+    {
+        "game": "Dreamlands",
+        "link": "https://www.mobygames.com/game/67254/dreamlands/",
+        "game_code": "dreamlands"
+    },
+    {
+        "game": "Droidzone",
+        "link": "https://www.mobygames.com/game/74322/droidzone/",
+        "game_code": "droidzone"
+    },
+    {
+        "game": "E.V.A.",
+        "link": "https://www.mobygames.com/game/74326/eva/",
+        "game_code": "eva"
+    },
+    {
+        "game": "Fight in the Dark",
+        "link": "https://www.mobygames.com/game/136110/fight-in-the-dark/",
+        "game_code": "fight-in-the-dark"
+    },
+    {
+        "game": "Flightdeck",
+        "link": "https://www.mobygames.com/game/136313/flightdeck/",
+        "game_code": "flightdeck"
+    },
+    {
+        "game": "Gwendoline",
+        "link": "https://www.mobygames.com/game/62932/gwendoline/",
+        "game_code": "gwendoline"
+    },
+    {
+        "game": "Hack",
+        "link": "https://www.mobygames.com/game/22346/hack/",
+        "game_code": "hack"
+    },
+    {
+        "game": "Hopper",
+        "link": "https://www.mobygames.com/game/74333/hopper/",
+        "game_code": "hopper"
+    },
+    {
+        "game": "Horrorday",
+        "link": "https://www.mobygames.com/game/149203/horrorday/",
+        "game_code": "horrorday"
+    },
+    {
+        "game": "Hoverzone",
+        "link": "https://www.mobygames.com/game/74329/hoverzone/",
+        "game_code": "hoverzone"
+    },
+    {
+        "game": "Jungle Eddi",
+        "link": "https://www.mobygames.com/game/74323/jungle-eddi/",
+        "game_code": "jungle-eddi"
+    },
+    {
+        "game": "Karate",
+        "link": "https://www.mobygames.com/game/62460/karate/",
+        "game_code": "karate"
+    },
+    {
+        "game": "Knight Flight",
+        "link": "https://www.mobygames.com/game/64720/knight-flight/",
+        "game_code": "knight-flight"
+    },
+    {
+        "game": "Major Istar: Under the Doomed Sea",
+        "link": "https://www.mobygames.com/game/45072/major-istar-under-the-doomed-sea/",
+        "game_code": "major-istar-under-the-doomed-sea"
+    },
+    {
+        "game": "Metropolis",
+        "link": "https://www.mobygames.com/game/139394/metropolis/",
+        "game_code": "metropolis"
+    },
+    {
+        "game": "Mortville Manor",
+        "link": "https://www.mobygames.com/game/2504/mortville-manor/",
+        "game_code": "mortville-manor"
+    },
+    {
+        "game": "Nebula II",
+        "link": "https://www.mobygames.com/game/136194/nebula-ii/",
+        "game_code": "nebula-ii"
+    },
+    {
+        "game": "Night Nurse",
+        "link": "https://www.mobygames.com/game/136319/night-nurse/",
+        "game_code": "night-nurse"
+    },
+    {
+        "game": "Omega",
+        "link": "https://www.mobygames.com/game/149322/omega/",
+        "game_code": "omega"
+    },
+    {
+        "game": "Othello",
+        "link": "https://www.mobygames.com/game/136201/othello/",
+        "game_code": "othello"
+    },
+    {
+        "game": "Pengi",
+        "link": "https://www.mobygames.com/game/74330/pengi/",
+        "game_code": "pengi"
+    },
+    {
+        "game": "Psion Chess",
+        "link": "https://www.mobygames.com/game/32235/psion-chess/",
+        "game_code": "psion-chess"
+    },
+    {
+        "game": "Puzzle Mania",
+        "link": "https://www.mobygames.com/game/136292/puzzle-mania/",
+        "game_code": "puzzle-mania"
+    },
+    {
+        "game": "Q*bert",
+        "link": "https://www.mobygames.com/game/149418/qbert/",
+        "game_code": "qbert"
+    },
+    {
+        "game": "QL Cavern",
+        "link": "https://www.mobygames.com/game/136552/ql-cavern/",
+        "game_code": "ql-cavern"
+    },
+    {
+        "game": "Reversi",
+        "link": "https://www.mobygames.com/game/46307/reversi/",
+        "game_code": "reversi"
+    },
+    {
+        "game": "Spook",
+        "link": "https://www.mobygames.com/game/62453/spook/",
+        "game_code": "spook"
+    },
+    {
+        "game": "Spy",
+        "link": "https://www.mobygames.com/game/148989/spy/",
+        "game_code": "spy"
+    },
+    {
+        "game": "Starplod",
+        "link": "https://www.mobygames.com/game/149323/starplod/",
+        "game_code": "starplod"
+    },
+    {
+        "game": "Steve Davis Snooker",
+        "link": "https://www.mobygames.com/game/15362/steve-davis-snooker/",
+        "game_code": "steve-davis-snooker"
+    },
+    {
+        "game": "Stone Raider",
+        "link": "https://www.mobygames.com/game/74328/stone-raider/",
+        "game_code": "stone-raider"
+    },
+    {
+        "game": "Strip Poker",
+        "link": "https://www.mobygames.com/game/62462/strip-poker/",
+        "game_code": "strip-poker"
+    },
+    {
+        "game": "The Computer Edition of Scrabble Brand Crossword Game",
+        "link": "https://www.mobygames.com/game/20375/the-computer-edition-of-scrabble-brand-crossword-game/",
+        "game_code": "the-computer-edition-of-scrabble-brand-crossword-game"
+    },
+    {
+        "game": "The King",
+        "link": "https://www.mobygames.com/game/74334/the-king/",
+        "game_code": "the-king"
+    },
+    {
+        "game": "The Lands of Havoc",
+        "link": "https://www.mobygames.com/game/57011/the-lands-of-havoc/",
+        "game_code": "the-lands-of-havoc"
+    },
+    {
+        "game": "The Lonely Joker",
+        "link": "https://www.mobygames.com/game/136314/the-lonely-joker/",
+        "game_code": "the-lonely-joker"
+    },
+    {
+        "game": "The Lost Kingdom of Zkul",
+        "link": "https://www.mobygames.com/game/57059/the-lost-kingdom-of-zkul/",
+        "game_code": "the-lost-kingdom-of-zkul"
+    },
+    {
+        "game": "The Lost Pharaoh",
+        "link": "https://www.mobygames.com/game/74325/the-lost-pharaoh/",
+        "game_code": "the-lost-pharaoh"
+    },
+    {
+        "game": "The Open Golf",
+        "link": "https://www.mobygames.com/game/136531/the-open-golf/",
+        "game_code": "the-open-golf"
+    },
+    {
+        "game": "The Pawn",
+        "link": "https://www.mobygames.com/game/1322/the-pawn/",
+        "game_code": "the-pawn"
+    },
+    {
+        "game": "The Prawn",
+        "link": "https://www.mobygames.com/game/149202/the-prawn/",
+        "game_code": "the-prawn"
+    },
+    {
+        "game": "Tournament Tennis",
+        "link": "https://www.mobygames.com/game/17371/tournament-tennis/",
+        "game_code": "tournament-tennis"
+    },
+    {
+        "game": "Tron: Light Cycles",
+        "link": "https://www.mobygames.com/game/74336/tron-light-cycles/",
+        "game_code": "tron-light-cycles"
+    },
+    {
+        "game": "Voyage of the Beano",
+        "link": "https://www.mobygames.com/game/74327/voyage-of-the-beano/",
+        "game_code": "voyage-of-the-beano"
+    },
+    {
+        "game": "Wanderer",
+        "link": "https://www.mobygames.com/game/53126/wanderer/",
+        "game_code": "wanderer"
+    },
+    {
+        "game": "West",
+        "link": "https://www.mobygames.com/game/67255/west/",
+        "game_code": "west"
+    },
+    {
+        "game": "Worlds of Flight",
+        "link": "https://www.mobygames.com/game/58656/worlds-of-flight/",
+        "game_code": "worlds-of-flight"
+    },
+    {
+        "game": "Wreck Dive",
+        "link": "https://www.mobygames.com/game/149324/wreck-dive/",
+        "game_code": "wreck-dive"
+    },
+    {
+        "game": "Wroom!",
+        "link": "https://www.mobygames.com/game/56999/wroom/",
+        "game_code": "wroom"
+    },
+    {
+        "game": "Zapper with Eagle",
+        "link": "https://www.mobygames.com/game/62458/zapper-with-eagle/",
+        "game_code": "zapper-with-eagle"
+    }
+]
