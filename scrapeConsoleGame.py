@@ -94,8 +94,8 @@ def scrapeGamesByConsole():
 
                         console_games.extend(final_list)
 
-                with open(f'data/{safe_platform_name}.json', 'w', encoding='utf-8') as f:
-                    json.dump(console_games, f, indent=4)
+                    with open(f'data/{safe_platform_name}.json', 'w', encoding='utf-8') as f:
+                        json.dump(console_games, f, indent=4)
 
 
             with open(f'data/{safe_platform_name}.json', 'w', encoding='utf-8') as f:
