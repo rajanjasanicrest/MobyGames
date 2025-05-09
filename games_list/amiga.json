@@ -19523,5 +19523,30 @@
         "game": "Roguecraft",
         "link": "https://www.mobygames.com/game/230809/roguecraft/",
         "game_code": "roguecraft"
+    },
+    {
+        "game": "Block Out",
+        "link": "https://www.mobygames.com/game/240703/block-out/",
+        "game_code": "block-out"
+    },
+    {
+        "game": "Robotnic",
+        "link": "https://www.mobygames.com/game/218034/robotnic/",
+        "game_code": "robotnic"
+    },
+    {
+        "game": "Spider-Man / L'Uomo Ragno: Destino incrociato",
+        "link": "https://www.mobygames.com/game/218424/spider-man-luomo-ragno-destino-incrociato/",
+        "game_code": "spider-man-luomo-ragno-destino-incrociato"
+    },
+    {
+        "game": "Kiro's Quest",
+        "link": "https://www.mobygames.com/game/216404/kiros-quest/",
+        "game_code": "kiros-quest"
+    },
+    {
+        "game": "MF Tanks",
+        "link": "https://www.mobygames.com/game/216985/mf-tanks/",
+        "game_code": "mf-tanks"
     }
 ]

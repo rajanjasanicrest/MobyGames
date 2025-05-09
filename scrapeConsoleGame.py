@@ -18,7 +18,18 @@ def scrapeGamesByConsole():
 
         # if console_code in [
         #     'matsushitapanasonic-jr', 'mattel-aquarius', 'memotech-mtx', 'meritum', 'microbee', 'microtan-65', 'microvision', 'multi8', 'motorola-6800', 'mre', 'msx', 'ngage', 'nascom', 'neo-geo-cd', 'neo-geo-pocket', 'neo-geo-pocket-color', 'neo-geo-x', 'newbrain', 'new-nintendo-3ds', 'n64', 'nintendo-dsi', 'northstar', 'novel-760', 'nuon', 'odyssey', 'odyssey-2', 'ohio-scientific', 'orao', 'oric', 'os2', 'os2', ]:
-        if console_code in ['nes', '3ds', 'nintendo-ds']:
+        if console_code in [
+            'amiga',
+            'cpc',
+            'apple-i',
+            'apple2',
+            'apple2gs',
+            'arcade',
+            'atari-8-bit',
+            'atari-st',
+            'bbc-micro',
+            'vic-20',
+        ]:
 
             with open(f'games_list/{console_code}.json', 'r', encoding='utf-8') as file:
                 games_list = json.load(file)

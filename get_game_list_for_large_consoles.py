@@ -90,7 +90,17 @@ if __name__ == '__main__':
         page = context.new_page()
         for platform in platforms:
             # if platform['console_code'] in ['nes', '3ds', 'nintendo-ds', 'msx']:
-            if platform['console_code'] in ["pc98"]:
+            if platform['console_code'] in [
+                
+            'wii',
+            'wii-u',
+            'win3x',
+            'win3x',
+            'xbox',
+            'xbox360',
+            'xbox360-one',
+            'xbox360-series',
+            ]:
                 games_dedup=[]
                 games_list = []
 
@@ -115,7 +125,7 @@ if __name__ == '__main__':
 
                 results_element = page.query_selector('p.no-select.text-muted')
                 if not results_element:
-                    games_fetched, duped_fetch = handle_pagination_and_get_games_list(f"https://www.mobygames.com/game/platform:{platform['console_code']}/", games_dedup, platform['console_code'], genre_code)
+                    games_fetched, duped_fetch = handle_pagination_and_get_games_list(f"https://www.mobygames.com/game/platform:{platform['console_code']}/", games_dedup, platform['console_code'])
                     games_list.extend(games_fetched)
                     games_dedup = duped_fetch
                     with open(f"games_list/{platform['console_code']}.json", "w", encoding="utf-8") as file:
@@ -126,7 +136,7 @@ if __name__ == '__main__':
                     
                     # if less than 1000 get list and move on
                     if results_count <= 1000:
-                        games_fetched, duped_fetch = handle_pagination_and_get_games_list(f"https://www.mobygames.com/game/platform:{platform['console_code']}/sort:title/", games_dedup, platform['console_code'], genre_code)
+                        games_fetched, duped_fetch = handle_pagination_and_get_games_list(f"https://www.mobygames.com/game/platform:{platform['console_code']}/sort:title/", games_dedup, platform['console_code'])
                         games_list.extend(games_fetched)
                         games_dedup = duped_fetch
                         with open(f"games_list/{platform['console_code']}.json", "w", encoding="utf-8") as file:

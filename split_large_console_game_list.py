@@ -34,15 +34,7 @@ if __name__ == '__main__':
             
             games_dedup = []
             if platform['console_code'] in [
-                'vic-20',
-                'wii',
-                'wii-u',                
-                'win3x',
-                'win3x',
-                'xbox',
-                'xbox360',
-                'xbox360-one',
-                'xbox360-series',
+                
             ]:
                 print(f'getting list for platform {platform['platform']}')
                 page.goto(f"https://www.mobygames.com{platform['link']}", wait_until='domcontentloaded', timeout=60000)

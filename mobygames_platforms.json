@@ -66,12 +66,6 @@
         "console_code": "amstrad-pcw"
     },
     {
-        "platform": "Android",
-        "link": "/platform/android/",
-        "games": "12,289 games",
-        "console_code": "android"
-    },
-    {
         "platform": "APF MP1000/Imagination Machine",
         "link": "/platform/apf/",
         "games": "13 games",
@@ -172,12 +166,6 @@
         "link": "/platform/blackberry/",
         "games": "431 games",
         "console_code": "blackberry"
-    },
-    {
-        "platform": "Browser",
-        "link": "/platform/browser/",
-        "games": "6,052 games",
-        "console_code": "browser"
     },
     {
         "platform": "Camputers Lynx",
